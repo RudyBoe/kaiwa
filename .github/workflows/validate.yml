@@ -1,0 +1,26 @@
+name: Validate library
+
+on:
+  push:
+    paths: ["library/**", "validate.js", "tools/**", ".github/workflows/validate.yml"]
+  pull_request:
+    paths: ["library/**", "validate.js", "tools/**"]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: kaiwa/1 format (Python validator)
+        run: python3 tools/validate_kaiwa.py library/*.kaiwa.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Library consistency and app validator (index.json, ids, file names)
+        run: node tools/check.mjs
+      - name: validate.js matches the Python rules
+        run: node tools/test-validate.mjs
