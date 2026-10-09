@@ -27,7 +27,8 @@ export function renderPractice(root, item, ctx) {
     role: p.role === "both" || ids.includes(p.role) ? p.role : "both",
     level: LEVELS.some(([n]) => n === p.level) ? p.level : 1,
     partner: p.partner === "listen" ? "listen" : "show",
-    appRole: ids.includes(p.appRole) ? p.appRole : ids[ids.length - 1],
+    // The app plays the other side by default; in a story, the teller (the listener has no lines).
+    appRole: ids.includes(p.appRole) ? p.appRole : D.kind === "story" ? ids[0] : ids[ids.length - 1],
     open: {}, done: {}, heard: {},
   };
   if (!two && st.role !== "both" && st.role !== ids[0]) st.role = "both";
