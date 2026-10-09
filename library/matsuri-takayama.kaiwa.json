@@ -1,0 +1,249 @@
+{
+ "format": "kaiwa/1",
+ "id": "matsuri-takayama",
+ "kind": "dialogue",
+ "page_title": "Takayama Matsuri Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 高山祭",
+ "title": "高山祭って何？",
+ "subtitle": "Asking a local about the Takayama Autumn Festival",
+ "scene": "Late morning in Takayama's old town. The streets are full, floats stand in a row, and a traveller asks an older local what's going on.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "meta": "Minna L1–33, focus L29–33. Beyond L33: none in the main lines.",
+ "tags": [
+  "festival",
+  "culture",
+  "hida"
+ ],
+ "created": "2026-10-09",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "町の人",
+   "en": "Local"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "すみません、今日は何かあるんですか。人がたくさんいますね。",
+   "kana": "すみません、きょうはなにかあるんですか。ひとがたくさんいますね。",
+   "en": "Excuse me, is something on today? There are so many people.",
+   "kw": "何か・あるんですか・人"
+  },
+  {
+   "who": "B",
+   "ja": "今日は高山祭ですよ。秋の祭りです。",
+   "kana": "きょうはたかやままつりですよ。あきのまつりです。",
+   "en": "It's the Takayama Festival. The autumn festival.",
+   "kw": "高山祭・秋"
+  },
+  {
+   "who": "A",
+   "ja": "高山祭？どんな祭りですか。",
+   "kana": "たかやままつり？どんなまつりですか。",
+   "en": "The Takayama Festival? What kind of festival is it?",
+   "kw": "どんな祭り"
+  },
+  {
+   "who": "B",
+   "ja": "屋台という大きい車が町を回ります。ほら、あそこに並んでいるでしょう。",
+   "kana": "やたいというおおきいくるまがまちをまわります。ほら、あそこにならんでいるでしょう。",
+   "en": "Big floats called yatai go round the town. Look, you can see them lined up over there.",
+   "kw": "屋台という・町を回る・並んでいる"
+  },
+  {
+   "who": "A",
+   "ja": "わあ、きれいですね。金色の飾りがたくさん付いています。",
+   "kana": "わあ、きれいですね。きんいろのかざりがたくさんついています。",
+   "en": "Wow, beautiful. They have lots of gold decorations on them.",
+   "kw": "金色・飾り・付いている"
+  },
+  {
+   "who": "B",
+   "ja": "三百年ぐらい前から使っている屋台もありますよ。",
+   "kana": "さんびゃくねんぐらいまえからつかっているやたいもありますよ。",
+   "en": "Some of the floats have been in use for about three hundred years.",
+   "kw": "三百年前から・使っている"
+  },
+  {
+   "who": "A",
+   "ja": "屋台の上に人形がありますね。あれは何ですか。",
+   "kana": "やたいのうえににんぎょうがありますね。あれはなんですか。",
+   "en": "There are dolls on top of the float. What are those?",
+   "kw": "上・人形・何"
+  },
+  {
+   "who": "B",
+   "ja": "からくり人形です。糸で動かします。もうすぐ神社の前で見せるでしょう。",
+   "kana": "からくりにんぎょうです。いとでうごかします。もうすぐじんじゃのまえでみせるでしょう。",
+   "en": "Karakuri puppets. They're moved with strings. They'll probably show them in front of the shrine soon.",
+   "kw": "からくり人形・糸・動かす・でしょう"
+  },
+  {
+   "who": "A",
+   "ja": "見たいです。何時からですか。",
+   "kana": "みたいです。なんじからですか。",
+   "en": "I'd love to see that. From what time?",
+   "kw": "見たい・何時から"
+  },
+  {
+   "who": "B",
+   "ja": "一時からだと思います。神社の入口に時間が書いてありますよ。",
+   "kana": "いちじからだとおもいます。じんじゃのいりぐちにじかんがかいてありますよ。",
+   "en": "From one o'clock, I think. The times are written at the shrine entrance.",
+   "kw": "一時から・と思う・書いてある"
+  },
+  {
+   "who": "A",
+   "ja": "どうして祭りをするんですか。",
+   "kana": "どうしてまつりをするんですか。",
+   "en": "Why do people hold the festival?",
+   "kw": "どうして・するんですか"
+  },
+  {
+   "who": "B",
+   "ja": "秋に米や野菜がたくさんできましたから、神様に「ありがとう」と言う祭りです。",
+   "kana": "あきにこめややさいがたくさんできましたから、かみさまに「ありがとう」というまつりです。",
+   "en": "Because a lot of rice and vegetables grew in autumn, it's a festival to say thank you to the gods.",
+   "kw": "米や野菜・できた・神様・ありがとう"
+  },
+  {
+   "who": "A",
+   "ja": "なるほど。夜も何かありますか。",
+   "kana": "なるほど。よるもなにかありますか。",
+   "en": "I see. Is there anything in the evening too?",
+   "kw": "夜も・何か"
+  },
+  {
+   "who": "B",
+   "ja": "夜は屋台に提灯をつけて、町を歩きます。とてもきれいですから、見たほうがいいですよ。",
+   "kana": "よるはやたいにちょうちんをつけて、まちをあるきます。とてもきれいですから、みたほうがいいですよ。",
+   "en": "At night they light lanterns on the floats and walk them through town. It's beautiful, you should see it.",
+   "kw": "提灯・つけて・見たほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、夜まで残ろうと思います。",
+   "kana": "じゃ、よるまでのころうとおもいます。",
+   "en": "Then I think I'll stay until the evening.",
+   "kw": "夜まで・残ろうと思う"
+  },
+  {
+   "who": "B",
+   "ja": "人が多いでしょうから、早く場所を取っておいたほうがいいですね。",
+   "kana": "ひとがおおいでしょうから、はやくばしょをとっておいたほうがいいですね。",
+   "en": "There'll be lots of people, so you'd better get a spot early.",
+   "kw": "多いでしょう・場所を取っておく・ほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "屋台の写真を撮ってもいいですか。",
+   "kana": "やたいのしゃしんをとってもいいですか。",
+   "en": "May I take photos of the floats?",
+   "kw": "写真を撮る・てもいい"
+  },
+  {
+   "who": "B",
+   "ja": "もちろん。でも、屋台に触ってはいけませんよ。「触るな」と書いてあります。",
+   "kana": "もちろん。でも、やたいにさわってはいけませんよ。「さわるな」とかいてあります。",
+   "en": "Of course. But don't touch the floats. It says \"Don't touch\".",
+   "kw": "触ってはいけない・触るな・書いてある"
+  },
+  {
+   "who": "A",
+   "ja": "「触るな」はどういう意味ですか。",
+   "kana": "「さわるな」はどういういみですか。",
+   "en": "What does \"sawaru na\" mean?",
+   "kw": "どういう意味"
+  },
+  {
+   "who": "B",
+   "ja": "「触ってはいけない」という意味です。",
+   "kana": "「さわってはいけない」といういみです。",
+   "en": "It means \"you mustn't touch\".",
+   "kw": "という意味"
+  },
+  {
+   "who": "A",
+   "ja": "よくわかりました。いろいろありがとうございました。",
+   "kana": "よくわかりました。いろいろありがとうございました。",
+   "en": "That's very clear. Thank you for everything.",
+   "kw": "いろいろ・ありがとう"
+  },
+  {
+   "who": "B",
+   "ja": "どういたしまして。祭りを楽しんでくださいね。",
+   "kana": "どういたしまして。まつりをたのしんでくださいね。",
+   "en": "You're welcome. Enjoy the festival.",
+   "kw": "楽しんで"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "Ask where the traveller is from and whether they have festivals there.",
+   "ja": "どちらから来ましたか。そちらにも祭りがありますか。",
+   "kana": "どちらからきましたか。そちらにもまつりがありますか。",
+   "reply_ja": "ベルギーから来ました。夏に祭りがたくさんありますよ。",
+   "reply_kana": "ベルギーからきました。なつにまつりがたくさんありますよ。",
+   "reply_en": "From Belgium. There are lots of festivals in summer."
+  },
+  {
+   "by": "B",
+   "en": "After line 13: warn that the floats don't come out if it rains.",
+   "ja": "でも、雨が降ったら、屋台は出ませんよ。",
+   "kana": "でも、あめがふったら、やたいはでませんよ。",
+   "reply_ja": "そうですか。じゃ、屋台会館で見ようと思います。",
+   "reply_kana": "そうですか。じゃ、やたいかいかんでみようとおもいます。",
+   "reply_en": "I see. Then I'll go and see them at the float museum."
+  },
+  {
+   "by": "A",
+   "en": "Point at a food stall and ask what they sell.",
+   "ja": "あの店は何を売っていますか。",
+   "kana": "あのみせはなにをうっていますか。",
+   "reply_ja": "みたらし団子です。甘くて、おいしいですよ。",
+   "reply_kana": "みたらしだんごです。あまくて、おいしいですよ。",
+   "reply_en": "Mitarashi dango. Sweet and delicious."
+  },
+  {
+   "by": "A",
+   "en": "Ask the local for a photo together.",
+   "ja": "一緒に写真を撮ってもいいですか。",
+   "kana": "いっしょにしゃしんをとってもいいですか。",
+   "reply_ja": "ええ、いいですよ。屋台の前で撮りましょう。",
+   "reply_kana": "ええ、いいですよ。やたいのまえでとりましょう。",
+   "reply_en": "Sure. Let's take it in front of the float."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "The Takayama Matsuri is held twice a year: the spring Sannō festival (14–15 April, Hie Shrine) and the autumn Hachiman festival (9–10 October, Sakurayama Hachimangū). Ornate floats (yatai) from the Edo period parade through the old town; some carry karakuri puppets worked by strings. In the evening (宵祭 yoimatsuri) the floats are hung with paper lanterns. It is often called one of Japan's three most beautiful festivals, and the yatai are part of UNESCO's 'Yama, Hoko, Yatai' listing (2016). Outside festival days you can see real floats at the Takayama Matsuri Yatai Kaikan museum, which is where you'd see them in November."
+  },
+  {
+   "label": "New words:",
+   "text": "祭り まつり festival · 屋台 やたい festival float (also: food stall) · からくり人形 からくりにんぎょう mechanical puppet · 提灯 ちょうちん paper lantern · 金色 きんいろ gold · 飾り かざり decoration · 糸 いと string · 神様 かみさま gods · 屋台会館 やたいかいかん float museum · みたらし団子 sweet glazed rice dumplings"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "～と書いてあります / ～という意味です / 触るな prohibitive form (L33) · ～でしょう / ～たほうがいい (L32) · ～ようと思います (L31) · ～ておきます (L30) · 並んでいる / 付いている state (L29) · ～んですか (L26) · ～たら (L25, curveball)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "高山祭 → 郡上おどり（ぐじょうおどり, Gujō, summer dance festival）· からくり人形 → 花火（はなび）fireworks · 夜まで残ろう → 明日も来よう"
+  }
+ ]
+}

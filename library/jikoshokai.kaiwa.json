@@ -1,0 +1,222 @@
+{
+ "format": "kaiwa/1",
+ "id": "jikoshokai",
+ "kind": "story",
+ "page_title": "Rudy no Jikoshōkai",
+ "eyebrow": "Self-introduction · 自己紹介",
+ "title": "ルディの自己紹介",
+ "subtitle": "Who I am, for hosts and neighbours",
+ "scene": "First meeting with a host or neighbour.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "meta": "Minna L1–33. New: 文化, 村, 今回.",
+ "tags": [
+  "self-introduction",
+  "story"
+ ],
+ "created": "2026-10-09",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "ルディ",
+   "en": "Rudy"
+  },
+  {
+   "id": "B",
+   "ja": "相手",
+   "en": "Partner (asks questions)"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "はじめまして。ルディです。ベルギーのアントワープから来ました。",
+   "kana": "はじめまして。ルディです。ベルギーのアントワープからきました。",
+   "en": "Nice to meet you. I'm Rudy. I'm from Antwerp in Belgium.",
+   "kw": "ルディ・アントワープ・来ました"
+  },
+  {
+   "who": "A",
+   "ja": "仕事はもうしていません。今は時間がたくさんあります。",
+   "kana": "しごとはもうしていません。いまはじかんがたくさんあります。",
+   "en": "I don't work any more. Now I have lots of time.",
+   "kw": "仕事・もう・時間"
+  },
+  {
+   "who": "A",
+   "ja": "前に一度、日本へ来たことがあります。",
+   "kana": "まえにいちど、にほんへきたことがあります。",
+   "en": "I've been to Japan once before.",
+   "kw": "一度・来たことがある"
+  },
+  {
+   "who": "A",
+   "ja": "その時、日本の料理と文化が大好きになりました。",
+   "kana": "そのとき、にほんのりょうりとぶんかがだいすきになりました。",
+   "en": "That time I fell in love with Japanese food and culture.",
+   "kw": "料理・文化・大好きになる"
+  },
+  {
+   "who": "A",
+   "ja": "それで、日本語の勉強を始めました。二十か月ぐらい勉強しています。",
+   "kana": "それで、にほんごのべんきょうをはじめました。にじゅっかげつぐらいべんきょうしています。",
+   "en": "So I started studying Japanese. I've been studying for about twenty months.",
+   "kw": "始めました・二十か月"
+  },
+  {
+   "who": "A",
+   "ja": "でも、まだ上手じゃありません。ゆっくり話してください。",
+   "kana": "でも、まだじょうずじゃありません。ゆっくりはなしてください。",
+   "en": "But I'm not good yet. Please speak slowly.",
+   "kw": "まだ・上手・ゆっくり"
+  },
+  {
+   "who": "A",
+   "ja": "今回は一人で来ました。一か月ぐらい、いろいろな町で家を借ります。",
+   "kana": "こんかいはひとりできました。いっかげつぐらい、いろいろなまちでいえをかります。",
+   "en": "This time I came alone. For about a month I'm renting houses in different towns.",
+   "kw": "一人で・一か月・家を借りる"
+  },
+  {
+   "who": "A",
+   "ja": "車を借りて、大阪から滋賀と岐阜を通って、富山まで行きます。",
+   "kana": "くるまをかりて、おおさかからしがとぎふをとおって、とやままでいきます。",
+   "en": "I've rented a car and I'm going from Osaka, through Shiga and Gifu, to Toyama.",
+   "kw": "車・大阪から・通って・富山まで"
+  },
+  {
+   "who": "A",
+   "ja": "有名な所より、小さい町や村のほうが好きです。",
+   "kana": "ゆうめいなところより、ちいさいまちやむらのほうがすきです。",
+   "en": "I like small towns and villages more than famous places.",
+   "kw": "有名な所より・町や村のほう"
+  },
+  {
+   "who": "A",
+   "ja": "日本の人といろいろ話したいです。どうぞよろしくお願いします。",
+   "kana": "にほんのひとといろいろはなしたいです。どうぞよろしくおねがいします。",
+   "en": "I want to talk a lot with Japanese people. Nice to meet you.",
+   "kw": "話したい・よろしく"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "お名前は何ですか。",
+   "kana": "おなまえはなんですか。",
+   "en": "What's your name?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "お国はどちらですか。",
+   "kana": "おくにはどちらですか。",
+   "en": "Where are you from?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "お仕事は何ですか。",
+   "kana": "おしごとはなんですか。",
+   "en": "What is your job?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "日本へ来たことがありますか。",
+   "kana": "にほんへきたことがありますか。",
+   "en": "Have you been to Japan before?",
+   "answer": "03"
+  },
+  {
+   "by": "B",
+   "ja": "どうして日本語を勉強していますか。",
+   "kana": "どうしてにほんごをべんきょうしていますか。",
+   "en": "Why are you studying Japanese?",
+   "answer": "04 + 05"
+  },
+  {
+   "by": "B",
+   "ja": "どのくらい日本語を勉強していますか。",
+   "kana": "どのくらいにほんごをべんきょうしていますか。",
+   "en": "How long have you studied Japanese?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "日本語が上手ですね。",
+   "kana": "にほんごがじょうずですね。",
+   "en": "Your Japanese is good!",
+   "answer": "いいえ、まだまだです。"
+  },
+  {
+   "by": "B",
+   "ja": "だれと来ましたか。",
+   "kana": "だれときましたか。",
+   "en": "Who did you come with?",
+   "answer": "07"
+  },
+  {
+   "by": "B",
+   "ja": "どのくらい日本にいますか。",
+   "kana": "どのくらいにほんにいますか。",
+   "en": "How long are you in Japan?",
+   "answer": "一か月ぐらいです。"
+  },
+  {
+   "by": "B",
+   "ja": "どこへ行きますか。",
+   "kana": "どこへいきますか。",
+   "en": "Where are you going?",
+   "answer": "08"
+  },
+  {
+   "by": "B",
+   "ja": "電車で旅行しますか。",
+   "kana": "でんしゃでりょこうしますか。",
+   "en": "Are you travelling by train?",
+   "answer": "いいえ、車です。+ 08"
+  },
+  {
+   "by": "B",
+   "ja": "京都へも行きますか。",
+   "kana": "きょうとへもいきますか。",
+   "en": "Are you going to Kyoto too?",
+   "answer": "09"
+  },
+  {
+   "by": "B",
+   "ja": "日本の料理で何が一番好きですか。",
+   "kana": "にほんのりょうりでなにがいちばんすきですか。",
+   "en": "Which Japanese food do you like best?",
+   "answer": "free answer (L12)"
+  },
+  {
+   "by": "B",
+   "ja": "アントワープは何が有名ですか。",
+   "kana": "アントワープはなにがゆうめいですか。",
+   "en": "What is Antwerp famous for?",
+   "answer": "free → cookie story!"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Short version:",
+   "text": "lines 01, 05 and 06."
+  },
+  {
+   "label": "Replies:",
+   "text": "日本語が上手ですね → いいえ、まだまだです。· どのくらい日本にいますか → 一か月ぐらいです。· why Japan → 日本の料理と文化が好きですから。"
+  },
+  {
+   "label": "New words:",
+   "text": "文化 ぶんか culture · 村 むら village · 今回 こんかい this time"
+  }
+ ]
+}

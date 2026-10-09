@@ -1,0 +1,249 @@
+{
+ "format": "kaiwa/1",
+ "id": "cafe-takayama",
+ "kind": "dialogue",
+ "page_title": "Kissa Hida Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 喫茶店で",
+ "title": "喫茶店でランチ",
+ "subtitle": "Lunch at a café-restaurant in Takayama",
+ "scene": "Midday, a small café near the old town. The customer comes in alone.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "meta": "Minna L1–33, focus on recent lessons. Beyond L33: おいしそう (L43), お持ちします (L50, staff only).",
+ "tags": [
+  "food",
+  "restaurant",
+  "hida"
+ ],
+ "created": "2026-10-09",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Customer"
+  },
+  {
+   "id": "B",
+   "ja": "店員",
+   "en": "Staff"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃいませ。何名様ですか。",
+   "kana": "いらっしゃいませ。なんめいさまですか。",
+   "en": "Welcome. How many people?",
+   "kw": "何名"
+  },
+  {
+   "who": "A",
+   "ja": "一人です。",
+   "kana": "ひとりです。",
+   "en": "Just one.",
+   "kw": "一人"
+  },
+  {
+   "who": "B",
+   "ja": "カウンターとテーブル、どちらがよろしいですか。",
+   "kana": "カウンターとテーブル、どちらがよろしいですか。",
+   "en": "Counter or table, which would you like?",
+   "kw": "カウンター・テーブル・どちら"
+  },
+  {
+   "who": "A",
+   "ja": "窓のそばのテーブルがいいです。",
+   "kana": "まどのそばのテーブルがいいです。",
+   "en": "A table by the window, please.",
+   "kw": "窓・そば・テーブル"
+  },
+  {
+   "who": "B",
+   "ja": "かしこまりました。こちらへどうぞ。注文が決まったら、このボタンを押してください。",
+   "kana": "かしこまりました。こちらへどうぞ。ちゅうもんがきまったら、このボタンをおしてください。",
+   "en": "Certainly. This way. When you've decided, press this button.",
+   "kw": "決まったら・ボタン・押す"
+  },
+  {
+   "who": "A",
+   "ja": "すみません。今日のランチは何ですか。",
+   "kana": "すみません。きょうのランチはなんですか。",
+   "en": "(ding) Excuse me. What's today's lunch?",
+   "kw": "今日・ランチ・何"
+  },
+  {
+   "who": "B",
+   "ja": "今日は飛騨牛のハンバーグです。サラダとスープが付いています。",
+   "kana": "きょうはひだぎゅうのハンバーグです。サラダとスープがついています。",
+   "en": "Today it's a Hida-beef hamburg steak. It comes with salad and soup.",
+   "kw": "飛騨牛・ハンバーグ・付いている"
+  },
+  {
+   "who": "A",
+   "ja": "肉は少し苦手なんですが、魚の料理もありますか。",
+   "kana": "にくはすこしにがてなんですが、さかなのりょうりもありますか。",
+   "en": "I'm not so keen on meat. Do you have a fish dish too?",
+   "kw": "肉・苦手・んですが・魚"
+  },
+  {
+   "who": "B",
+   "ja": "はい、焼き魚の定食があります。",
+   "kana": "はい、やきざかなのていしょくがあります。",
+   "en": "Yes, there's a grilled-fish set meal.",
+   "kw": "焼き魚・定食"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、それにします。それから、ホットコーヒーを一つお願いします。",
+   "kana": "じゃ、それにします。それから、ホットコーヒーをひとつおねがいします。",
+   "en": "Then I'll have that. And one hot coffee, please.",
+   "kw": "それにします・コーヒー・一つ"
+  },
+  {
+   "who": "B",
+   "ja": "コーヒーは食事と一緒にお持ちしますか。食後にしますか。",
+   "kana": "コーヒーはしょくじといっしょにおもちしますか。しょくごにしますか。",
+   "en": "Shall I bring the coffee with the meal, or after?",
+   "kw": "一緒に・食後"
+  },
+  {
+   "who": "A",
+   "ja": "食後にお願いします。",
+   "kana": "しょくごにおねがいします。",
+   "en": "After the meal, please.",
+   "kw": "食後"
+  },
+  {
+   "who": "B",
+   "ja": "お待たせしました。焼き魚定食です。",
+   "kana": "おまたせしました。やきざかなていしょくです。",
+   "en": "Sorry to keep you waiting. The grilled-fish set.",
+   "kw": "お待たせ"
+  },
+  {
+   "who": "A",
+   "ja": "わあ、おいしそうですね。すみません、お水をもう一杯ください。",
+   "kana": "わあ、おいしそうですね。すみません、おみずをもういっぱいください。",
+   "en": "Wow, that looks delicious. Excuse me, another glass of water, please.",
+   "kw": "おいしそう・水・もう一杯"
+  },
+  {
+   "who": "B",
+   "ja": "はい、ただいま。",
+   "kana": "はい、ただいま。",
+   "en": "Coming right up.",
+   "kw": "ただいま"
+  },
+  {
+   "who": "A",
+   "ja": "ごちそうさまでした。お会計をお願いします。",
+   "kana": "ごちそうさまでした。おかいけいをおねがいします。",
+   "en": "Thank you for the meal. The bill, please.",
+   "kw": "ごちそうさま・お会計"
+  },
+  {
+   "who": "B",
+   "ja": "千五百円です。",
+   "kana": "せんごひゃくえんです。",
+   "en": "That's 1,500 yen.",
+   "kw": "1,500円"
+  },
+  {
+   "who": "A",
+   "ja": "カードで払えますか。",
+   "kana": "カードではらえますか。",
+   "en": "Can I pay by card?",
+   "kw": "カード・払える"
+  },
+  {
+   "who": "B",
+   "ja": "すみません、現金だけなんです。",
+   "kana": "すみません、げんきんだけなんです。",
+   "en": "Sorry, cash only.",
+   "kw": "現金・だけ"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、現金で。二千円でお願いします。",
+   "kana": "じゃ、げんきんで。にせんえんでおねがいします。",
+   "en": "Cash then. Here's 2,000 yen.",
+   "kw": "現金・2,000円"
+  },
+  {
+   "who": "B",
+   "ja": "五百円のお返しです。ありがとうございました。",
+   "kana": "ごひゃくえんのおかえしです。ありがとうございました。",
+   "en": "500 yen change. Thank you very much.",
+   "kw": "お返し"
+  },
+  {
+   "who": "A",
+   "ja": "とてもおいしかったです。また来ます。",
+   "kana": "とてもおいしかったです。またきます。",
+   "en": "It was really good. I'll come again.",
+   "kw": "おいしかった・また"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 10: the grilled fish is sold out.",
+   "ja": "すみません、焼き魚は今日はもう終わってしまいました。",
+   "kana": "すみません、やきざかなはきょうはもうおわってしまいました。",
+   "reply_ja": "そうですか。じゃ、ほかに何がありますか。",
+   "reply_kana": "そうですか。じゃ、ほかになにがありますか。",
+   "reply_en": "I see. Then what else do you have?"
+  },
+  {
+   "by": "B",
+   "en": "While serving: ask where the customer is from.",
+   "ja": "どちらからいらっしゃいましたか。",
+   "kana": "どちらからいらっしゃいましたか。",
+   "reply_ja": "ベルギーから来ました。アントワープです。",
+   "reply_kana": "ベルギーからきました。アントワープです。",
+   "reply_en": "From Belgium. Antwerp."
+  },
+  {
+   "by": "A",
+   "en": "Before ordering: ask what the staff recommends.",
+   "ja": "すみません、お勧めは何ですか。",
+   "kana": "すみません、おすすめはなんですか。",
+   "reply_ja": "今日は飛騨牛のハンバーグがお勧めです。",
+   "reply_kana": "きょうはひだぎゅうのハンバーグがおすすめです。",
+   "reply_en": "Today the Hida-beef hamburg is our recommendation."
+  },
+  {
+   "by": "A",
+   "en": "At the till: ask if there's a public toilet nearby.",
+   "ja": "この近くにトイレはありますか。",
+   "kana": "このちかくにトイレはありますか。",
+   "reply_ja": "店の奥にありますよ。どうぞ使ってください。",
+   "reply_kana": "みせのおくにありますよ。どうぞつかってください。",
+   "reply_en": "There's one at the back of the shop. Please use it."
+  }
+ ],
+ "notes": [
+  {
+   "label": "New words:",
+   "text": "定食 ていしょく set meal · 焼き魚 やきざかな grilled fish · 食後 しょくご after the meal · 苦手 にがて not keen on · 現金 げんきん cash · お返し おかえし change · 飛騨牛 ひだぎゅう Hida beef"
+  },
+  {
+   "label": "Staff phrases to recognise, not say:",
+   "text": "かしこまりました certainly · よろしいですか would you like · お持ちします I'll bring (L50) · ただいま right away · お待たせしました sorry to keep you waiting"
+  },
+  {
+   "label": "Grammar:",
+   "text": "～たら (L25) · ～んですが (L26) · 払えます potential (L27) · ～だけなんです (L26) · ～にします (L19) · おいしそう looks tasty (L43, new)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "魚 → 野菜（やさい）· ホットコーヒー → 紅茶（こうちゃ）· 窓のそば → 奥（おく）the back"
+  }
+ ]
+}

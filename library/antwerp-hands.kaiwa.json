@@ -1,0 +1,182 @@
+{
+ "format": "kaiwa/1",
+ "id": "antwerp-hands",
+ "kind": "story",
+ "page_title": "Antwerpse Handjes",
+ "eyebrow": "Omiyage · アントワープの手",
+ "title": "ブラボーと巨人の話",
+ "subtitle": "The story behind Antwerp hands",
+ "scene": "Handing over the cookies to a host.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "meta": "Mostly Minna L1–33. New: 巨人, 兵士, 戦う, 召し上がる, 像, ほら.",
+ "tags": [
+  "omiyage",
+  "story",
+  "antwerp"
+ ],
+ "created": "2026-10-09",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "これはアントワープのお土産です。「アントワープの手」というクッキーです。",
+   "kana": "これはアントワープのおみやげです。「アントワープのて」というクッキーです。",
+   "en": "This is a souvenir from Antwerp. They're cookies called \"Antwerp hands\".",
+   "kw": "お土産・アントワープの手・クッキー"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "手の形をしています。昔の話があります。",
+   "kana": "てのかたちをしています。むかしのはなしがあります。",
+   "en": "They're shaped like a hand. There's an old story.",
+   "kw": "手の形・昔の話"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "昔、アントワープの川に大きい巨人が住んでいました。",
+   "kana": "むかし、アントワープのかわにおおきいきょじんがすんでいました。",
+   "en": "Long ago, a big giant lived by the river in Antwerp.",
+   "kw": "川・巨人・住んでいた"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "船が通る時、巨人は「お金を払え」と言いました。",
+   "kana": "ふねがとおるとき、きょじんは「おかねをはらえ」といいました。",
+   "en": "When ships passed, the giant said \"Pay money!\"",
+   "kw": "船・通る時・払え"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "払わない人の手を切って、川に捨てました。",
+   "kana": "はらわないひとのてをきって、かわにすてました。",
+   "en": "He cut off the hands of those who didn't pay and threw them in the river.",
+   "kw": "払わない人・切って・捨てた"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "ある日、ブラボーという若い兵士が来ました。",
+   "kana": "あるひ、ブラボーというわかいへいしがきました。",
+   "en": "One day a young soldier called Brabo came.",
+   "kw": "ある日・ブラボー・若い兵士"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "ブラボーは巨人と戦って、勝ちました。",
+   "kana": "ブラボーはきょじんとたたかって、かちました。",
+   "en": "Brabo fought the giant and won.",
+   "kw": "戦って・勝った"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "そして、巨人の手を切って、川に投げました。",
+   "kana": "そして、きょじんのてをきって、かわになげました。",
+   "en": "Then he cut off the giant's hand and threw it into the river.",
+   "kw": "巨人の手・投げた"
+  },
+  {
+   "n": "08a",
+   "who": "A",
+   "ja": "写真があると思います。ちょっと待ってください。……あ、ありました。",
+   "kana": "しゃしんがあるとおもいます。ちょっとまってください。……あ、ありました。",
+   "en": "I think I have a photo. Just a moment… ah, here it is. (search your phone)",
+   "kw": "写真・と思います・ありました"
+  },
+  {
+   "n": "08b",
+   "who": "A",
+   "ja": "これがブラボーの像です。ほら、巨人の手を投げていますね。",
+   "kana": "これがブラボーのぞうです。ほら、きょじんのてをなげていますね。",
+   "en": "This is the statue of Brabo. Look, he's throwing the giant's hand. (show the photo)",
+   "kw": "像・ほら・投げている"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "「手を投げる」はオランダ語で「ハント・ウェルペン」です。それが「アントワープ」になりました。",
+   "kana": "「てをなげる」はオランダごで「ハント・ウェルペン」です。それが「アントワープ」になりました。",
+   "en": "\"Throw the hand\" is \"hand werpen\" in Dutch. That became \"Antwerp\". (pause before それが)",
+   "kw": "オランダ語・ハント・ウェルペン・になった"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "だから、アントワープのお土産は手の形です。どうぞ、召し上がってください。",
+   "kana": "だから、アントワープのおみやげはてのかたちです。どうぞ、めしあがってください。",
+   "en": "So Antwerp's souvenir is hand-shaped. Please, enjoy.",
+   "kw": "だから・手の形・召し上がって"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "これは何ですか。",
+   "kana": "これはなんですか。",
+   "en": "What's this?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "どうして手の形ですか。",
+   "kana": "どうしててのかたちですか。",
+   "en": "Why is it hand-shaped?",
+   "answer": "02 → story"
+  },
+  {
+   "by": "B",
+   "ja": "巨人は何をしましたか。",
+   "kana": "きょじんはなにをしましたか。",
+   "en": "What did the giant do?",
+   "answer": "04 + 05"
+  },
+  {
+   "by": "B",
+   "ja": "ブラボーはだれですか。",
+   "kana": "ブラボーはだれですか。",
+   "en": "Who is Brabo?",
+   "answer": "06"
+  },
+  {
+   "by": "B",
+   "ja": "怖い話ですね。",
+   "kana": "こわいはなしですね。",
+   "en": "What a scary story!",
+   "answer": "そうですね。でも、クッキーは甘いです。"
+  }
+ ],
+ "notes": [
+  {
+   "label": "No time for the story?",
+   "text": "Line 01 alone works."
+  },
+  {
+   "label": "New words:",
+   "text": "巨人 きょじん giant · 兵士 へいし soldier · 戦う たたかう fight · 召し上がる めしあがる eat (honorific) · 像 ぞう statue · ほら look!"
+  }
+ ]
+}

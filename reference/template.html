@@ -1,0 +1,180 @@
+<title>__TITLE__</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap">
+<style>
+/* Layout: one reading column. Sticky control bar (who am I / my level / partner lines). Lines are numbered turns; my lines and partner lines are styled apart. */
+:root{
+  --bg:#F2F4F6; --surface:#FFFFFF; --fg:#1B2430; --muted:#5D6B7A;
+  --river:#2D5B7B; --gold:#A87A26; --line:#D8DEE5; --mine:#E7EEF4; --done:#8994A0;
+  --jp:"Shippori Mincho","Hiragino Mincho ProN","Yu Mincho",serif;
+  --kana:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic",sans-serif;
+  --latin:"Fraunces",Georgia,serif;
+  --ui:"Zen Kaku Gothic New",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121821; --surface:#1A222D; --fg:#E7ECF1; --muted:#97A5B4;
+  --river:#7FB0D3; --gold:#D9AA55; --line:#2A3542; --mine:#1E2B38; --done:#6B7785; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121821; --surface:#1A222D; --fg:#E7ECF1; --muted:#97A5B4;
+  --river:#7FB0D3; --gold:#D9AA55; --line:#2A3542; --mine:#1E2B38; --done:#6B7785; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--ui);font-size:16px;line-height:1.6}
+.wrap{max-width:40rem;margin:0 auto;padding-inline:16px;padding-block:24px 64px;display:flex;flex-direction:column;gap:18px}
+header{display:flex;flex-direction:column;gap:6px}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:500}
+h1{font-family:var(--jp);font-size:clamp(26px,7vw,36px);line-height:1.25;margin:0;text-wrap:balance}
+h1 small{display:block;font-family:var(--latin);font-size:17px;color:var(--muted);font-weight:500;margin-top:4px}
+.scene{font-size:14px;color:var(--muted);margin:0;font-style:italic}
+.meta{font-size:12px;color:var(--muted);margin:0}
+.bar{padding-block:8px;display:flex;flex-direction:column;gap:6px;border-bottom:1px solid var(--line)}
+.row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.row .lab{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);min-width:3.6rem}
+.row button{font:inherit;font-size:13px;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.row button[aria-pressed="true"]{background:var(--river);border-color:var(--river);color:var(--bg)}
+.row button.plain{border-style:dashed}
+button:focus-visible,.turn:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.hint{font-size:13px;color:var(--muted);margin:0}
+ol.turns{list-style:none;margin:0;padding:0}
+.turn{display:grid;grid-template-columns:2.6rem 1fr;gap:4px 10px;padding:14px 8px 14px 6px;border-top:1px solid var(--line);cursor:pointer;border-left:3px solid transparent}
+.turn:last-child{border-bottom:1px solid var(--line)}
+.turn.mine{background:var(--mine)}
+.turn.current{border-left-color:var(--gold)}
+.turn.done .ja,.turn.done .en,.turn.done .cue{color:var(--done)}
+.n{font-family:var(--latin);font-weight:700;color:var(--gold);font-size:18px;line-height:1.6;font-variant-numeric:tabular-nums}
+.body{min-width:0;display:flex;flex-direction:column;gap:3px}
+.who{font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--muted)}
+.turn.mine .who{color:var(--river)}
+.ja{font-family:var(--jp);font-size:20px;line-height:1.75;font-weight:500}
+.kana{font-family:var(--kana);font-size:14px;color:var(--river)}
+.en{font-family:var(--latin);font-size:15px;color:var(--muted)}
+.cue{font-size:17px;color:var(--fg)}
+.cue.kw{font-family:var(--jp);font-size:19px;color:var(--river)}
+.tap{font-size:12px;color:var(--gold)}
+section.extra{display:flex;flex-direction:column;gap:10px}
+h2{font-family:var(--jp);font-size:22px;margin:10px 0 0}
+h2 small{display:block;font-family:var(--ui);font-size:13px;color:var(--muted);font-weight:400}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:6px}
+.card .p{font-size:15px}
+details summary{cursor:pointer;font-size:13px;color:var(--gold)}
+details .ja{font-size:18px}
+footer{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:6px;margin-top:6px}
+footer b{color:var(--fg);font-weight:700}
+@media (prefers-reduced-motion:no-preference){.turn .reveal{animation:fade .25s ease-out}}
+@keyframes fade{from{opacity:.3}to{opacity:1}}
+</style>
+
+<div class="wrap">
+  <header>
+    <span class="eyebrow" id="eyebrow"></span>
+    <h1 id="title"></h1>
+    <p class="scene" id="scene"></p>
+    <p class="meta" id="meta"></p>
+  </header>
+
+  <div class="bar">
+    <div class="row" id="roleRow"><span class="lab">I am</span></div>
+    <div class="row" id="levelRow"><span class="lab">My lines</span></div>
+    <div class="row" id="partnerRow"><span class="lab">Partner</span></div>
+  </div>
+  <p class="hint" id="hint"></p>
+
+  <ol class="turns" id="turns"></ol>
+  <div class="row"><button class="plain" id="restart">Start again</button><button class="plain" id="swap">Swap roles</button></div>
+
+  <section class="extra" id="curveSec" hidden>
+    <h2>変化球<small>Curveballs: throw one in to make your partner answer off-script</small></h2>
+    <div id="curves"></div>
+  </section>
+
+  <section class="extra" id="qSec" hidden>
+    <h2>質問<small id="qSub"></small></h2>
+    <div id="qs"></div>
+  </section>
+
+  <footer id="notes"></footer>
+</div>
+
+<script>
+const DATA = /*DATA*/null;
+(function(){
+  const $=id=>document.getElementById(id);
+  const KEY='kaiwa:'+DATA.id;
+  let st={role:'both',level:1,partner:'show',open:{},done:{}};
+  try{const s=JSON.parse(localStorage.getItem(KEY)||'null'); if(s) st=Object.assign(st,s,{open:{},done:{}});}catch(e){}
+  if(DATA.roles.length===1&&st.role!=='both'&&st.role!==DATA.roles[0].id) st.role='both';
+  const save=()=>{try{localStorage.setItem(KEY,JSON.stringify({role:st.role,level:st.level,partner:st.partner}))}catch(e){}};
+  const esc=s=>String(s==null?'':s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+  const roleName=id=>{const r=DATA.roles.find(r=>r.id===id);return r?r.ja+' '+r.en:''};
+  const LEVELS=[[1,'Read'],[2,'No kana'],[3,'Cue'],[4,'Keywords'],[5,'Free']];
+  const HINT={1:'Your lines in Japanese, kana and English.',2:'Your lines without kana.',3:'Say your line from the English cue, tap to check.',4:'Build your line from the keywords, tap to check.',5:'Say your line freely, tap to see the model.'};
+
+  $('eyebrow').textContent=DATA.eyebrow; $('title').innerHTML=esc(DATA.title)+'<small>'+esc(DATA.subtitle)+'</small>';
+  $('scene').textContent=DATA.scene||''; $('meta').textContent=DATA.meta||'';
+
+  function btn(row,label,pressed,fn){const b=document.createElement('button');b.textContent=label;b.setAttribute('aria-pressed',pressed?'true':'false');b.onclick=fn;row.appendChild(b);return b}
+  function controls(){
+    ['roleRow','levelRow','partnerRow'].forEach(id=>{const r=$(id);while(r.children.length>1)r.removeChild(r.lastChild)});
+    DATA.roles.forEach(r=>btn($('roleRow'),r.ja+' '+r.en,st.role===r.id,()=>{st.role=r.id;save();render()}));
+    btn($('roleRow'),DATA.roles.length>1?'Both (alone)':'Just reading',st.role==='both',()=>{st.role='both';save();render()});
+    LEVELS.forEach(([n,l])=>btn($('levelRow'),l,st.level===n,()=>{st.level=n;st.open={};save();render()}));
+    const solo=st.role==='both'||DATA.roles.length===1;
+    $('partnerRow').hidden=solo;
+    btn($('partnerRow'),'Show',st.partner==='show',()=>{st.partner='show';st.open={};save();render()});
+    btn($('partnerRow'),'Listen only',st.partner==='listen',()=>{st.partner='listen';st.open={};save();render()});
+    $('swap').hidden=DATA.roles.length<2||st.role==='both';
+    $('hint').textContent=HINT[st.level]+(solo?'':(st.partner==='listen'?' Partner lines stay hidden: listen, then tap.':' Your partner reads the shaded-out lines.'));
+  }
+  function lineHTML(l,i){
+    const mine=st.role==='both'||l.who===st.role, open=!!st.open[i];
+    let inner='';
+    const full=(k)=>'<div class="ja reveal">'+esc(l.ja)+'</div>'+(k?'<div class="kana">'+esc(l.kana)+'</div>':'')+'<div class="en">'+esc(l.en)+'</div>';
+    if(mine){
+      const lv=st.level;
+      if(lv===1) inner=full(true);
+      else if(lv===2) inner='<div class="ja">'+esc(l.ja)+'</div><div class="en">'+esc(l.en)+'</div>';
+      else if(open) inner=full(true);
+      else if(lv===3) inner='<div class="cue">'+esc(l.en)+'</div><div class="tap">Tap to check</div>';
+      else if(lv===4) inner='<div class="cue kw">'+esc(l.kw||'…')+'</div><div class="tap">Tap to check</div>';
+      else inner='<div class="cue">Your turn</div><div class="tap">Tap to see the model line</div>';
+    }else{
+      if(st.partner==='listen'&&!open) inner='<div class="cue">Listen to your partner</div><div class="tap">Tap to read it</div>';
+      else inner=full(st.level<2||st.partner==='listen');
+    }
+    const who=DATA.roles.length>1?'<div class="who">'+esc(roleName(l.who))+'</div>':'';
+    return '<li class="turn'+(mine&&DATA.roles.length>1&&st.role!=='both'?' mine':'')+'" data-i="'+i+'" tabindex="0"><span class="n">'+esc(l.n||String(i+1).padStart(2,'0'))+'</span><div class="body">'+who+inner+'</div></li>';
+  }
+  function marks(){
+    const items=[...document.querySelectorAll('.turn')];let cur=-1;
+    items.forEach((el,i)=>{el.classList.toggle('done',!!st.done[i]);if(cur<0&&!st.done[i])cur=i});
+    items.forEach((el,i)=>el.classList.toggle('current',i===cur));
+  }
+  function tapTurn(i){
+    const l=DATA.lines[i], mine=st.role==='both'||l.who===st.role;
+    const hidden=mine?st.level>=3:st.partner==='listen';
+    if(hidden&&!st.open[i]){st.open[i]=true;}
+    else{st.done[i]=!st.done[i];}
+    const el=document.querySelector('.turn[data-i="'+i+'"]');el.outerHTML=lineHTML(l,i);bind();marks();
+  }
+  function bind(){document.querySelectorAll('.turn').forEach(el=>{const i=+el.dataset.i;el.onclick=()=>tapTurn(i);el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();tapTurn(i)}}})}
+  function extras(){
+    const cb=(DATA.curveballs||[]).filter(c=>st.role==='both'||c.by===st.role);
+    $('curveSec').hidden=!(DATA.curveballs||[]).length;
+    $('curves').innerHTML=cb.length?cb.map(c=>'<div class="card"><div class="who">'+esc(roleName(c.by))+' throws</div><div class="p">'+esc(c.en)+'</div><details><summary>Say it like this</summary><div class="ja">'+esc(c.ja)+'</div><div class="kana">'+esc(c.kana)+'</div></details><details><summary>A good answer</summary><div class="ja">'+esc(c.reply_ja)+'</div><div class="kana">'+esc(c.reply_kana)+'</div><div class="en">'+esc(c.reply_en)+'</div></details></div>').join('')
+      :'<p class="hint">Your partner has curveballs. Be ready to answer off-script.</p>';
+    const qs=DATA.questions||[];
+    $('qSec').hidden=!qs.length;
+    if(qs.length){
+      const asker=st.role==='both'||qs[0].by===st.role||DATA.roles.length===1;
+      $('qSub').textContent=asker?'Ask these in any order. The answers are folded.':'Your partner asks these. Answer without looking.';
+      $('qs').innerHTML=asker?qs.map((q,i)=>'<div class="card"><div class="who">Q'+String(i+1).padStart(2,'0')+'</div><div class="ja">'+esc(q.ja)+'</div><div class="kana">'+esc(q.kana)+'</div><div class="en">'+esc(q.en)+'</div><details><summary>Answer</summary><div class="kana">'+esc(q.answer)+'</div></details></div>').join(''):'';
+    }
+  }
+  function render(){
+    controls();
+    $('turns').innerHTML=DATA.lines.map(lineHTML).join('');
+    bind();marks();extras();
+    $('notes').innerHTML=(DATA.notes||[]).map(n=>'<span><b>'+esc(n.label)+'</b> '+esc(n.text)+'</span>').join('');
+  }
+  $('restart').onclick=()=>{st.open={};st.done={};render();window.scrollTo({top:0})};
+  $('swap').onclick=()=>{const ids=DATA.roles.map(r=>r.id);st.role=ids[(ids.indexOf(st.role)+1)%ids.length];st.open={};st.done={};save();render()};
+  render();
+})();
+</script>

@@ -1,0 +1,11 @@
+{
+  "name": "kaiwa",
+  "private": true,
+  "type": "module",
+  "description": "No build step. This file only tells Node that the .js files are ES modules (for tools/check.mjs).",
+  "scripts": {
+    "check": "node tools/check.mjs",
+    "test": "node tools/test-validate.mjs",
+    "serve": "node tools/serve.mjs"
+  }
+}
