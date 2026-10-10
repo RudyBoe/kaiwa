@@ -1,0 +1,247 @@
+{
+ "format": "kaiwa/1",
+ "kind": "dialogue",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "created": "2026-10-10",
+ "id": "hotel-checkin-tokyo",
+ "page_title": "Hoteru Kaiwa",
+ "eyebrow": "Kaiwa · N4 · ホテルで",
+ "title": "ホテルでチェックイン",
+ "subtitle": "Arriving early with two people: luggage, breakfast, check-out",
+ "scene": "Two o'clock in the afternoon at a business hotel in Tokyo. Two travellers arrive before the room is ready and ask the front desk about luggage, lunch and breakfast.",
+ "meta": "Minna L1–33, focus L29–33. New: 預かる, 預ける, 運ぶ, 料金. Beyond L33: none.",
+ "tags": [
+  "hotel",
+  "check-in",
+  "tokyo",
+  "two-people"
+ ],
+ "roles": [
+  {
+   "id": "A",
+   "ja": "お客",
+   "en": "Guest"
+  },
+  {
+   "id": "B",
+   "ja": "フロント",
+   "en": "Front desk"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "こんにちは。今日から三日間予約しているルディです。",
+   "kana": "こんにちは。きょうからみっかかんよやくしているルディです。",
+   "en": "Hello. I'm Rudy, booked for three days from today.",
+   "kw": "今日から・三日間・予約している"
+  },
+  {
+   "who": "B",
+   "ja": "いらっしゃいませ。ルディ様、お二人ですね。",
+   "kana": "いらっしゃいませ。ルディさま、おふたりですね。",
+   "en": "Welcome. Mr Rudy, two guests, correct?",
+   "kw": "ルディ様・お二人"
+  },
+  {
+   "who": "A",
+   "ja": "はい、二人です。少し早く着いてしまいました。もう部屋に入れますか。",
+   "kana": "はい、ふたりです。すこしはやくついてしまいました。もうへやにはいれますか。",
+   "en": "Yes, two. We've arrived a bit early. Can we go into the room yet?",
+   "kw": "二人・早く着いてしまった・入れる"
+  },
+  {
+   "who": "B",
+   "ja": "申し訳ありません。お部屋は三時から入れます。今は二時ですから、あと一時間ぐらいです。",
+   "kana": "もうしわけありません。おへやはさんじからはいれます。いまはにじですから、あといちじかんぐらいです。",
+   "en": "I'm very sorry. The room is available from three. It's two now, so about another hour.",
+   "kw": "三時から・今は二時・あと一時間"
+  },
+  {
+   "who": "A",
+   "ja": "そうですか。じゃ、荷物を預かっていただけませんか。",
+   "kana": "そうですか。じゃ、にもつをあずかっていただけませんか。",
+   "en": "I see. Then could you look after our luggage?",
+   "kw": "荷物・預かっていただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "はい、かしこまりました。ここに名前を書いてください。",
+   "kana": "はい、かしこまりました。ここになまえをかいてください。",
+   "en": "Certainly. Please write your name here.",
+   "kw": "ここに・名前・書いてください"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。この近くに、昼ご飯が食べられる所がありますか。",
+   "kana": "ありがとうございます。このちかくに、ひるごはんがたべられるところがありますか。",
+   "en": "Thank you. Is there somewhere near here where we can eat lunch?",
+   "kw": "近く・昼ご飯・食べられる所"
+  },
+  {
+   "who": "B",
+   "ja": "駅のほうに、おいしいそば屋があります。ホテルを出て、まっすぐ行ったら、右に見えますよ。",
+   "kana": "えきのほうに、おいしいそばやがあります。ホテルをでて、まっすぐいったら、みぎにみえますよ。",
+   "en": "Towards the station there's a good soba shop. Leave the hotel and go straight, and you'll see it on the right.",
+   "kw": "そば屋・出て・まっすぐ行ったら・見える"
+  },
+  {
+   "who": "A",
+   "ja": "朝ご飯は何時からですか。",
+   "kana": "あさごはんはなんじからですか。",
+   "en": "What time is breakfast from?",
+   "kw": "朝ご飯・何時から"
+  },
+  {
+   "who": "B",
+   "ja": "七時から十時までです。二階のレストランで食べられます。",
+   "kana": "しちじからじゅうじまでです。にかいのレストランでたべられます。",
+   "en": "From seven to ten. You can eat it in the restaurant on the second floor.",
+   "kw": "七時から十時まで・二階"
+  },
+  {
+   "who": "A",
+   "ja": "朝ご飯は料金に入っていますか。",
+   "kana": "あさごはんはりょうきんにはいっていますか。",
+   "en": "Is breakfast included in the price?",
+   "kw": "料金・入っている"
+  },
+  {
+   "who": "B",
+   "ja": "はい、入っています。レストランで部屋の番号を言ってください。",
+   "kana": "はい、はいっています。レストランでへやのばんごうをいってください。",
+   "en": "Yes, it's included. Please tell the restaurant your room number.",
+   "kw": "入っている・部屋の番号・言って"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。Wi-Fiのパスワードも教えてください。",
+   "kana": "わかりました。Wi-Fiのパスワードもおしえてください。",
+   "en": "Understood. Please tell us the Wi-Fi password too.",
+   "kw": "Wi-Fi・パスワード・教えて"
+  },
+  {
+   "who": "B",
+   "ja": "カードに書いてあります。",
+   "kana": "カードにかいてあります。",
+   "en": "It's written on the card.",
+   "kw": "カード・書いてある"
+  },
+  {
+   "who": "A",
+   "ja": "（三時ごろ）すみません、荷物を取りに来ました。",
+   "kana": "（さんじごろ）すみません、にもつをとりにきました。",
+   "en": "(Around three) Excuse me, we've come to collect our luggage.",
+   "kw": "荷物・取りに来た"
+  },
+  {
+   "who": "B",
+   "ja": "ありがとうございます。荷物はもう部屋に運んでおきました。五階の五〇三です。",
+   "kana": "ありがとうございます。にもつはもうへやにはこんでおきました。ごかいのごまるさんです。",
+   "en": "Thank you. We've already carried your luggage to the room, just in case. It's 503 on the fifth floor.",
+   "kw": "運んでおいた・五階・503"
+  },
+  {
+   "who": "A",
+   "ja": "五階ですね。エレベーターはどこですか。",
+   "kana": "ごかいですね。エレベーターはどこですか。",
+   "en": "Fifth floor. Where is the lift?",
+   "kw": "五階・エレベーター"
+  },
+  {
+   "who": "B",
+   "ja": "あちらです。お部屋の鍵はこちらです。どうぞごゆっくり。",
+   "kana": "あちらです。おへやのかぎはこちらです。どうぞごゆっくり。",
+   "en": "Over there. Here is your room key. Please take your time.",
+   "kw": "あちら・鍵・ごゆっくり"
+  },
+  {
+   "who": "A",
+   "ja": "あしたのチェックアウトは何時ですか。",
+   "kana": "あしたのチェックアウトはなんじですか。",
+   "en": "What time is check-out tomorrow?",
+   "kw": "あした・チェックアウト・何時"
+  },
+  {
+   "who": "B",
+   "ja": "十一時です。でも、荷物は夜まで預かることができますよ。",
+   "kana": "じゅういちじです。でも、にもつはよるまであずかることができますよ。",
+   "en": "Eleven. But we can keep your luggage until the evening.",
+   "kw": "十一時・夜まで・預かることができる"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。じゃ、朝ご飯を食べてから、荷物を預けようと思います。",
+   "kana": "ありがとうございます。じゃ、あさごはんをたべてから、にもつをあずけようとおもいます。",
+   "en": "Thank you. Then I think we'll leave our luggage with you after breakfast.",
+   "kw": "朝ご飯・食べてから・預けようと思う"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "At the desk: offer a choice of room.",
+   "ja": "ベッドが二つの部屋と、大きいベッドが一つの部屋と、どちらがいいですか。",
+   "kana": "ベッドがふたつのへやと、おおきいベッドがひとつのへやと、どちらがいいですか。",
+   "reply_ja": "ベッドが二つの部屋がいいです。",
+   "reply_kana": "ベッドがふたつのへやがいいです。",
+   "reply_en": "The room with two beds, please."
+  },
+  {
+   "by": "A",
+   "en": "In the room, phone the desk: the air-conditioning doesn't work.",
+   "ja": "部屋のエアコンが動かないんですが。",
+   "kana": "へやのエアコンがうごかないんですが。",
+   "reply_ja": "申し訳ありません。すぐ見に行きます。部屋を変えたほうがいいかもしれません。",
+   "reply_kana": "もうしわけありません。すぐみにいきます。へやをかえたほうがいいかもしれません。",
+   "reply_en": "I'm very sorry. I'll come and look right away. It may be better to change your room."
+  },
+  {
+   "by": "A",
+   "en": "Ask if there is a convenience store nearby.",
+   "ja": "この近くにコンビニはありますか。",
+   "kana": "このちかくにコンビニはありますか。",
+   "reply_ja": "出て左にありますよ。二十四時間開いています。",
+   "reply_kana": "でてひだりにありますよ。にじゅうよじかんあいています。",
+   "reply_en": "Out and to the left. It's open 24 hours."
+  },
+  {
+   "by": "B",
+   "en": "Ask to see the passports.",
+   "ja": "パスポートを見せてください。",
+   "kana": "パスポートをみせてください。",
+   "reply_ja": "はい、どうぞ。二人のパスポートです。",
+   "reply_kana": "はい、どうぞ。ふたりのパスポートです。",
+   "reply_en": "Here you are. Both our passports."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Many hotels in Japan let you check in from about 15:00 and want you out by 10:00–11:00. Most will keep your bags before check-in and after check-out, often for free. Ask at the desk, because rules differ per hotel."
+  },
+  {
+   "label": "New words:",
+   "text": "預かる あずかる look after · 預ける あずける leave with someone · 運ぶ はこぶ carry · 料金 りょうきん fee, price · 三日間 みっかかん three days · 五〇三 ごまるさん room 503"
+  },
+  {
+   "label": "Staff phrases to recognise, not say:",
+   "text": "かしこまりました certainly · 申し訳ありません I'm very sorry · ～様 Mr/Ms · お二人 the two of you · どうぞごゆっくり please take your time"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "～ようと思います (L31) · ～ておきました / 書いてあります (L30) · 着いてしまいました / 予約している / 入っている (L29) · かもしれません / ほうがいい (L32, curveball) · 入れます / 食べられます / 見えます potential (L27) · ～ていただけませんか / ～んですが (L26) · ～たら (L25) · ～ことができる (L18)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "ホテル → 民宿（みんしゅく）guest house · 三日間 → 一週間（いっしゅうかん）· 荷物 → スーツケース · そば屋 → ラーメン屋"
+  }
+ ]
+}

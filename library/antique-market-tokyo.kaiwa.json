@@ -1,0 +1,235 @@
+{
+ "format": "kaiwa/1",
+ "kind": "dialogue",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "created": "2026-10-10",
+ "id": "antique-market-tokyo",
+ "page_title": "Kottoichi Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 骨董市で",
+ "title": "骨董市でお買い物",
+ "subtitle": "Buying at an antique market in Tokyo",
+ "scene": "A Sunday morning at an outdoor antique market in Tokyo. A traveller looks at old tableware, asks the price, bargains a little and pays in cash.",
+ "meta": "Minna L1–33, focus L29–33. New: 茶碗, 皿, 包む, 新聞紙, 値段. Beyond L33: none.",
+ "tags": [
+  "shopping",
+  "market",
+  "tokyo"
+ ],
+ "roles": [
+  {
+   "id": "A",
+   "ja": "お客",
+   "en": "Customer"
+  },
+  {
+   "id": "B",
+   "ja": "店の人",
+   "en": "Stallholder"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "すみません、これを見てもいいですか。",
+   "kana": "すみません、これをみてもいいですか。",
+   "en": "Excuse me, may I look at this?",
+   "kw": "見てもいい"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、どうぞ。持ってもいいですよ。",
+   "kana": "ええ、どうぞ。もってもいいですよ。",
+   "en": "Sure. You may pick it up.",
+   "kw": "どうぞ・持ってもいい"
+  },
+  {
+   "who": "A",
+   "ja": "きれいなお茶碗ですね。古いものですか。",
+   "kana": "きれいなおちゃわんですね。ふるいものですか。",
+   "en": "A beautiful bowl. Is it old?",
+   "kw": "お茶碗・古いもの"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、八十年ぐらい前のものだと思います。",
+   "kana": "ええ、はちじゅうねんぐらいまえのものだとおもいます。",
+   "en": "Yes, I think it's about eighty years old.",
+   "kw": "八十年・前のもの・と思う"
+  },
+  {
+   "who": "A",
+   "ja": "値段はいくらですか。",
+   "kana": "ねだんはいくらですか。",
+   "en": "What's the price?",
+   "kw": "値段・いくら"
+  },
+  {
+   "who": "B",
+   "ja": "下に書いてありますよ。三千五百円です。",
+   "kana": "したにかいてありますよ。さんぜんごひゃくえんです。",
+   "en": "It's written underneath. 3,500 yen.",
+   "kw": "下・書いてある・3,500円"
+  },
+  {
+   "who": "A",
+   "ja": "ちょっと高いですね。もう少し安くなりませんか。",
+   "kana": "ちょっとたかいですね。もうすこしやすくなりませんか。",
+   "en": "That's a bit expensive. Can't it be a little cheaper?",
+   "kw": "高い・もう少し・安くなる"
+  },
+  {
+   "who": "B",
+   "ja": "うーん、二つ買ったら、五千円にしますよ。",
+   "kana": "うーん、ふたつかったら、ごせんえんにしますよ。",
+   "en": "Hmm, if you buy two, I'll make it 5,000 yen.",
+   "kw": "二つ・買ったら・5,000円"
+  },
+  {
+   "who": "A",
+   "ja": "そうですか。あの青いお皿も見たいんですが。",
+   "kana": "そうですか。あのあおいおさらもみたいんですが。",
+   "en": "I see. I'd like to see that blue plate too.",
+   "kw": "青いお皿・見たい・んですが"
+  },
+  {
+   "who": "B",
+   "ja": "はい、どうぞ。これは少し欠けていますから、安いですよ。",
+   "kana": "はい、どうぞ。これはすこしかけていますから、やすいですよ。",
+   "en": "Here you are. This one is a little chipped, so it's cheap.",
+   "kw": "少し欠けている・安い"
+  },
+  {
+   "who": "A",
+   "ja": "本当ですね。でも、使えますか。",
+   "kana": "ほんとうですね。でも、つかえますか。",
+   "en": "True. But can it still be used?",
+   "kw": "本当・使える"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、使えますよ。でも、お土産にするなら、欠けていないほうがいいでしょう。",
+   "kana": "ええ、つかえますよ。でも、おみやげにするなら、かけていないほうがいいでしょう。",
+   "en": "Yes. But if it's a souvenir, one that isn't chipped would probably be better.",
+   "kw": "お土産・欠けていない・ほうがいい・でしょう"
+  },
+  {
+   "who": "A",
+   "ja": "そうですね。じゃ、お茶碗とそのピンクのお皿を買おうと思います。",
+   "kana": "そうですね。じゃ、おちゃわんとそのピンクのおさらをかおうとおもいます。",
+   "en": "You're right. Then I think I'll buy the bowl and that pink plate.",
+   "kw": "お茶碗・ピンクのお皿・買おうと思う"
+  },
+  {
+   "who": "B",
+   "ja": "ありがとうございます。二つで五千円です。",
+   "kana": "ありがとうございます。ふたつでごせんえんです。",
+   "en": "Thank you. 5,000 yen for the two.",
+   "kw": "二つで・5,000円"
+  },
+  {
+   "who": "A",
+   "ja": "カードは使えますか。",
+   "kana": "カードはつかえますか。",
+   "en": "Can I use a card?",
+   "kw": "カード・使える"
+  },
+  {
+   "who": "B",
+   "ja": "すみません、現金だけなんです。",
+   "kana": "すみません、げんきんだけなんです。",
+   "en": "Sorry, it's cash only.",
+   "kw": "現金・だけなんです"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。壊れるかもしれませんから、しっかり包んでください。",
+   "kana": "わかりました。こわれるかもしれませんから、しっかりつつんでください。",
+   "en": "Understood. It might break, so please wrap it well.",
+   "kw": "壊れる・かもしれない・包んで"
+  },
+  {
+   "who": "B",
+   "ja": "はい、新聞紙で包んでおきますね。",
+   "kana": "はい、しんぶんしでつつんでおきますね。",
+   "en": "Sure, I'll wrap it in newspaper for you.",
+   "kw": "新聞紙・包んでおく"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。ところで、このマーケットは毎週ありますか。",
+   "kana": "ありがとうございます。ところで、このマーケットはまいしゅうありますか。",
+   "en": "Thanks. By the way, is this market held every week?",
+   "kw": "ところで・毎週"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、毎週じゃありません。月に二回、日曜日にあります。また来てくださいね。",
+   "kana": "いいえ、まいしゅうじゃありません。つきににかい、にちようびにあります。またきてくださいね。",
+   "en": "No, not every week. Twice a month, on Sundays. Please come again.",
+   "kw": "月に二回・日曜日"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "While the customer looks: ask where they are from and whether they like old things.",
+   "ja": "どちらから来ましたか。古いものが好きですか。",
+   "kana": "どちらからきましたか。ふるいものがすきですか。",
+   "reply_ja": "ベルギーから来ました。古い食器が好きです。",
+   "reply_kana": "ベルギーからきました。ふるいしょっきがすきです。",
+   "reply_en": "From Belgium. I like old tableware."
+  },
+  {
+   "by": "A",
+   "en": "At the end: ask whether the stall can post the things to Belgium.",
+   "ja": "ベルギーまで送っていただけませんか。",
+   "kana": "ベルギーまでおくっていただけませんか。",
+   "reply_ja": "すみません、送ることはできません。郵便局へ行ってください。",
+   "reply_kana": "すみません、おくることはできません。ゆうびんきょくへいってください。",
+   "reply_en": "Sorry, we can't send things. Please go to a post office."
+  },
+  {
+   "by": "A",
+   "en": "Ask if you may photograph the stall.",
+   "ja": "写真を撮ってもいいですか。",
+   "kana": "しゃしんをとってもいいですか。",
+   "reply_ja": "ええ、いいですよ。でも、人の顔は撮らないでください。",
+   "reply_kana": "ええ、いいですよ。でも、ひとのかおはとらないでください。",
+   "reply_en": "Sure. But please don't photograph people's faces."
+  },
+  {
+   "by": "B",
+   "en": "The customer reaches for a kimono: warn them.",
+   "ja": "すみません、その着物には触らないでください。",
+   "kana": "すみません、そのきものにはさわらないでください。",
+   "reply_ja": "あ、すみません。わかりました。",
+   "reply_kana": "あ、すみません。わかりました。",
+   "reply_en": "Oh, sorry. Understood."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Tokyo has regular open-air antique and flea markets, for example the Ōedo Antique Market at the Tokyo International Forum (held on selected Sundays, usually twice a month) and flea markets at Ōi Racecourse. Dates and places change, so check the market's website before you go. Many stalls take cash only, and a small discount for buying two items is common; ask politely, never push."
+  },
+  {
+   "label": "New words:",
+   "text": "茶碗 ちゃわん bowl · 皿 さら plate · 包む つつむ wrap · 新聞紙 しんぶんし newspaper · 値段 ねだん price · 骨董市 こっとういち antique market · 蚤の市 のみのいち flea market"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "～と書いてあります (L33 pattern, 書いてある L30) · ～ておきます (L30) · ～ようと思います (L31) · ～かもしれません / ～でしょう / ～たほうがいい (L32) · 欠けている / 壊れる (L29) · 使えます potential (L27) · ～ていただけませんか / ～んですが / ～だけなんです (L26) · ～たら (L25) · ～ことができる (L18)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "お茶碗 → 着物（きもの）· 古い切手（ふるいきって）· 時計（とけい）· 五千円 → 一万円（いちまんえん）· 日曜日 → 土曜日"
+  }
+ ]
+}

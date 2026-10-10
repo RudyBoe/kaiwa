@@ -1,0 +1,250 @@
+{
+ "format": "kaiwa/1",
+ "kind": "dialogue",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "created": "2026-10-10",
+ "id": "pharmacy-tokyo",
+ "page_title": "Yakkyoku Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 薬局で",
+ "title": "薬局で風邪薬",
+ "subtitle": "A travel companion has a cold: asking at a pharmacy",
+ "scene": "A drugstore near the hotel in Tokyo. A traveller asks the pharmacist for cold medicine for a friend, and learns how to take it.",
+ "meta": "Minna L1–33, focus L29–33. New: 風邪薬, 眠い, 度, 下がる, 箱, お大事に. Beyond L33: none in the lines (内科 L45 appears in the notes only).",
+ "tags": [
+  "health",
+  "pharmacy",
+  "tokyo",
+  "emergency"
+ ],
+ "roles": [
+  {
+   "id": "A",
+   "ja": "お客",
+   "en": "Customer"
+  },
+  {
+   "id": "B",
+   "ja": "薬剤師",
+   "en": "Pharmacist"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃいませ。どうしましたか。",
+   "kana": "いらっしゃいませ。どうしましたか。",
+   "en": "Welcome. What seems to be the matter?",
+   "kw": "どうしました"
+  },
+  {
+   "who": "A",
+   "ja": "すみません。友達が昨日から風邪をひいているんですが、いい薬がありますか。",
+   "kana": "すみません。ともだちがきのうからかぜをひいているんですが、いいくすりがありますか。",
+   "en": "Excuse me. My friend has had a cold since yesterday. Do you have a good medicine?",
+   "kw": "友達・昨日から・風邪をひいている・薬"
+  },
+  {
+   "who": "B",
+   "ja": "そうですか。熱はありますか。",
+   "kana": "そうですか。ねつはありますか。",
+   "en": "I see. Do they have a fever?",
+   "kw": "熱・ありますか"
+  },
+  {
+   "who": "A",
+   "ja": "昨日の夜は三十八度ぐらいありました。のどが痛くて、頭も痛いと言っています。",
+   "kana": "きのうのよるはさんじゅうはちどぐらいありました。のどがいたくて、あたまもいたいといっています。",
+   "en": "Last night it was about 38 degrees. They say their throat and head hurt.",
+   "kw": "38度・のどが痛くて・頭も痛い・と言っている"
+  },
+  {
+   "who": "B",
+   "ja": "せきも出ますか。",
+   "kana": "せきもでますか。",
+   "en": "Do they cough too?",
+   "kw": "せき・出る"
+  },
+  {
+   "who": "A",
+   "ja": "はい、少し出ます。",
+   "kana": "はい、すこしでます。",
+   "en": "Yes, a little.",
+   "kw": "少し・出る"
+  },
+  {
+   "who": "B",
+   "ja": "じゃ、この風邪薬がいいでしょう。一日三回、食事のあとで飲んでください。",
+   "kana": "じゃ、このかぜぐすりがいいでしょう。いちにちさんかい、しょくじのあとでのんでください。",
+   "en": "Then this cold medicine would probably be good. Take it three times a day, after meals.",
+   "kw": "風邪薬・いいでしょう・一日三回・食事のあと"
+  },
+  {
+   "who": "A",
+   "ja": "一回にいくつ飲みますか。",
+   "kana": "いっかいにいくつのみますか。",
+   "en": "How many at a time?",
+   "kw": "一回・いくつ・飲む"
+  },
+  {
+   "who": "B",
+   "ja": "二つ飲んでください。箱に書いてありますよ。",
+   "kana": "ふたつのんでください。はこにかいてありますよ。",
+   "en": "Take two. It's written on the box.",
+   "kw": "二つ・箱・書いてある"
+  },
+  {
+   "who": "A",
+   "ja": "この薬を飲むと、眠くなりますか。",
+   "kana": "このくすりをのむと、ねむくなりますか。",
+   "en": "If you take this medicine, do you get sleepy?",
+   "kw": "飲むと・眠くなる"
+  },
+  {
+   "who": "B",
+   "ja": "眠くなるかもしれません。車の運転はしないほうがいいですよ。",
+   "kana": "ねむくなるかもしれません。くるまのうんてんはしないほうがいいですよ。",
+   "en": "You might get sleepy. It's better not to drive.",
+   "kw": "眠くなる・かもしれない・運転しないほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。ほかに、何をしたほうがいいですか。",
+   "kana": "わかりました。ほかに、なにをしたほうがいいですか。",
+   "en": "Understood. What else should we do?",
+   "kw": "ほかに・何をしたほうがいい"
+  },
+  {
+   "who": "B",
+   "ja": "水をたくさん飲んで、ゆっくり休んだほうがいいですよ。",
+   "kana": "みずをたくさんのんで、ゆっくりやすんだほうがいいですよ。",
+   "en": "It's best to drink plenty of water and rest well.",
+   "kw": "水・たくさん飲んで・休んだほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "熱が下がらなかったら、病院へ行こうと思います。近くにありますか。",
+   "kana": "ねつがさがらなかったら、びょういんへいこうとおもいます。ちかくにありますか。",
+   "en": "If the fever doesn't go down, I think we'll go to a hospital. Is there one nearby?",
+   "kw": "熱が下がらなかったら・病院・行こうと思う"
+  },
+  {
+   "who": "B",
+   "ja": "駅の前にあります。でも、日曜日は休みかもしれません。",
+   "kana": "えきのまえにあります。でも、にちようびはやすみかもしれません。",
+   "en": "There's one in front of the station. But it may be closed on Sunday.",
+   "kw": "駅の前・日曜日・休みかもしれない"
+  },
+  {
+   "who": "A",
+   "ja": "そうですか。外国人でも行けますか。",
+   "kana": "そうですか。がいこくじんでもいけますか。",
+   "en": "I see. Can foreigners go too?",
+   "kw": "外国人でも・行ける"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、大丈夫です。パスポートを持って行ってください。",
+   "kana": "ええ、だいじょうぶです。パスポートをもっていってください。",
+   "en": "Yes, no problem. Please take your passport.",
+   "kw": "大丈夫・パスポート・持って行って"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。この薬はいくらですか。",
+   "kana": "ありがとうございます。このくすりはいくらですか。",
+   "en": "Thank you. How much is this medicine?",
+   "kw": "薬・いくら"
+  },
+  {
+   "who": "B",
+   "ja": "千二百円です。あちらのレジでお願いします。",
+   "kana": "せんにひゃくえんです。あちらのレジでおねがいします。",
+   "en": "1,200 yen. Please pay at that register.",
+   "kw": "1,200円・あちらのレジ"
+  },
+  {
+   "who": "A",
+   "ja": "カードで払えますか。",
+   "kana": "カードではらえますか。",
+   "en": "Can I pay by card?",
+   "kw": "カード・払える"
+  },
+  {
+   "who": "B",
+   "ja": "はい、大丈夫です。お大事にしてください。",
+   "kana": "はい、だいじょうぶです。おだいじにしてください。",
+   "en": "Yes, that's fine. Please take care of your friend.",
+   "kw": "大丈夫・お大事に"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございました。",
+   "kana": "ありがとうございました。",
+   "en": "Thank you very much.",
+   "kw": "ありがとう"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 04: ask about allergies.",
+   "ja": "薬のアレルギーはありませんか。",
+   "kana": "くすりのアレルギーはありませんか。",
+   "reply_ja": "はい、ありません。",
+   "reply_kana": "はい、ありません。",
+   "reply_en": "No, none."
+  },
+  {
+   "by": "A",
+   "en": "Ask for something for a stomach ache too.",
+   "ja": "おなかが痛い時の薬もありますか。",
+   "kana": "おなかがいたいときのくすりもありますか。",
+   "reply_ja": "はい、こちらにあります。この薬は食事の前に飲んでください。",
+   "reply_kana": "はい、こちらにあります。このくすりはしょくじのまえにのんでください。",
+   "reply_en": "Yes, over here. Take this one before meals."
+  },
+  {
+   "by": "A",
+   "en": "Ask for instructions in English.",
+   "ja": "日本語が少し難しいです。英語で書いてあるものはありますか。",
+   "kana": "にほんごがすこしむずかしいです。えいごでかいてあるものはありますか。",
+   "reply_ja": "はい、この箱に英語でも書いてありますよ。",
+   "reply_kana": "はい、このはこにえいごでもかいてありますよ。",
+   "reply_en": "Yes, this box also has English written on it."
+  },
+  {
+   "by": "B",
+   "en": "Ask who will take the medicine.",
+   "ja": "大人の人が飲みますか。",
+   "kana": "おとなのひとがのみますか。",
+   "reply_ja": "はい、大人です。",
+   "reply_kana": "はい、おとなです。",
+   "reply_en": "Yes, an adult."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Drugstores (ドラッグストア) and pharmacies (薬局) are all over Tokyo, often near stations, and a pharmacist will ask about symptoms and recommend an over-the-counter medicine. For a doctor, look for 内科 ないか (internal medicine, L45), and bring your passport and travel insurance. In a real emergency, call 119 for an ambulance (L4)."
+  },
+  {
+   "label": "New words:",
+   "text": "風邪薬 かぜぐすり cold medicine · 眠い ねむい sleepy · 度 ど degree · 下がる さがる go down · 箱 はこ box · 外国人 がいこくじん foreigner · お大事に おだいじに take care, get well · 薬剤師 やくざいし pharmacist"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "～ようと思います (L31) · ～でしょう / ～かもしれません / ～たほうがいい (L32) · 書いてあります (L30) · 風邪をひいている (L29) · 行けます / 払えます potential (L27) · ～んですが (L26) · ～たら (L25) · 飲むと (L23)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "友達 → 妻（つま）/ 夫（おっと）· 風邪 → おなかが痛い · 昨日から → 今朝から（けさから）· 車の運転 → 自転車（じてんしゃ）"
+  }
+ ]
+}
