@@ -49,6 +49,15 @@ export function toggleHard(id, i) {
 }
 export const allHard = () => hard;
 
+// Known kaiwa, hidden from the library list: { id: "YYYY-MM-DD" marked }
+const known = read("kaiwa:known", {});
+export const isKnown = (id) => id in known;
+export const knownCount = (ids) => ids.filter((id) => id in known).length;
+export function setKnown(id, on) {
+  if (on) known[id] = today(); else delete known[id];
+  write("kaiwa:known", known);
+}
+
 export function clearProgress() {
   for (const k of Object.keys(progress)) delete progress[k];
   for (const k of Object.keys(hard)) delete hard[k];

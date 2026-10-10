@@ -3,7 +3,7 @@
 // again to mark done; a gold bar marks the next line. Added here: listen
 // buttons, auto-play partner, optional mic check, long-press "hard" marks,
 // progress and remembered per-kaiwa settings.
-import { settings, getPrefs, savePrefs, recordDone, isHard, toggleHard, flag, setFlag } from "./store.js";
+import { settings, getPrefs, savePrefs, recordDone, isHard, toggleHard, flag, setFlag, isKnown, setKnown } from "./store.js";
 import { canSpeak, findVoice, speak, stop as stopSpeech, canListen, listen, matchHint } from "./speech.js";
 import { esc, lineLabel, ICON } from "./ui.js";
 
@@ -73,6 +73,7 @@ export function renderPractice(root, item, ctx) {
     <section class="extra this">
       <h2>This kaiwa<small>${item.source === "imported" ? "Imported, stored on this device only." : "Part of the built-in library."}</small></h2>
       <div class="row">
+        <button id="known" type="button" aria-pressed="${isKnown(id)}">${isKnown(id) ? "Known (hidden from the list)" : "Mark as known"}</button>
         <button class="plain" id="exportOne" type="button">Export file</button>
         ${item.source === "imported" ? '<button class="plain danger" id="deleteOne" type="button">Delete</button>' : ""}
       </div>
@@ -360,6 +361,13 @@ export function renderPractice(root, item, ctx) {
   $("#swap").onclick = () => { st.role = ids[(ids.indexOf(st.role) + 1) % ids.length]; reset(); save(); render(); };
   $("#share").onclick = () => ctx.share(item);
   $("#exportOne").onclick = () => ctx.exportOne(item);
+  $("#known").onclick = (e) => {
+    const on = !isKnown(id);
+    setKnown(id, on);
+    e.currentTarget.setAttribute("aria-pressed", String(on));
+    e.currentTarget.textContent = on ? "Known (hidden from the list)" : "Mark as known";
+    ctx.toast(on ? "Marked as known: hidden from the library. Use Show known to see it again." : "Back in the library list.");
+  };
   const del = $("#deleteOne");
   if (del) del.onclick = () => ctx.deleteImported(item);
 

@@ -3,7 +3,7 @@
 // link opens that kaiwa directly.
 import {
   settings, saveSettings, loadLibrary, parseKaiwaText, putImported, deleteImported,
-  getProgress, allHard, toggleHard, clearProgress,
+  getProgress, allHard, toggleHard, clearProgress, isKnown, knownCount,
 } from "./store.js";
 import { renderPractice } from "./practice.js";
 import { canSpeak, findVoice, voiceName, speak, canListen } from "./speech.js";
@@ -12,7 +12,7 @@ import { esc, lineLabel, fmtDate, ICON } from "./ui.js";
 const view = document.getElementById("view");
 const toastEl = document.getElementById("toast");
 const lib = { items: [], problems: [] };
-const filt = { q: "", kind: "all", tag: "" };
+const filt = { q: "", kind: "all", tag: "", showKnown: false };
 let tab = "library";
 let cleanup = null;
 let pendingFocus = null;
@@ -98,6 +98,8 @@ function renderMain() {
 function renderLibrary(panel) {
   const tags = [...new Set(lib.items.flatMap((x) => x.data.tags))].sort();
   if (filt.tag && !tags.includes(filt.tag)) filt.tag = "";
+  const nKnown = knownCount(lib.items.map((x) => x.data.id));
+  if (!nKnown) filt.showKnown = false;
   panel.innerHTML = `
     <div class="filters">
       <input type="search" id="q" placeholder="Search title or tag" value="${esc(filt.q)}" autocomplete="off" aria-label="Search title or tag">
@@ -107,6 +109,7 @@ function renderLibrary(panel) {
         ${[["all", "All"], ["dialogue", "Dialogue"], ["story", "Story"]].map(([k, l]) => `<button type="button" data-kind="${k}" aria-pressed="${filt.kind === k}">${l}</button>`).join("")}
       </div>
       ${tags.length ? `<div class="row tags">${tags.map((t) => `<button type="button" class="tag" data-tag="${esc(t)}" aria-pressed="${filt.tag === t}">${esc(t)}</button>`).join("")}</div>` : ""}
+      ${nKnown ? `<div class="row"><button type="button" id="showKnown" aria-pressed="${filt.showKnown}">Show known (${nKnown})</button></div>` : ""}
     </div>
     <div id="problems"></div>
     <p class="count" id="count"></p>
@@ -131,6 +134,7 @@ function renderLibrary(panel) {
   $("#upTo").onclick = () => { settings.upToLesson = !settings.upToLesson; saveSettings(); renderMain(); };
   panel.querySelectorAll("[data-kind]").forEach((b) => (b.onclick = () => { filt.kind = b.dataset.kind; renderMain(); }));
   panel.querySelectorAll("[data-tag]").forEach((b) => (b.onclick = () => { filt.tag = filt.tag === b.dataset.tag ? "" : b.dataset.tag; renderMain(); }));
+  if (nKnown) $("#showKnown").onclick = () => { filt.showKnown = !filt.showKnown; renderMain(); };
 
   $("#pick").onclick = () => $("#file").click();
   $("#file").onchange = async (e) => {
@@ -158,12 +162,14 @@ function renderLibrary(panel) {
   function renderList() {
     const q = filt.q.trim().toLowerCase();
     const shown = lib.items.filter(({ data: d }) =>
+      (filt.showKnown || !isKnown(d.id)) &&
       (!settings.upToLesson || d.level.minna_max <= settings.lesson) &&
       (filt.kind === "all" || d.kind === filt.kind) &&
       (!filt.tag || d.tags.includes(filt.tag)) &&
       (!q || [d.title, d.subtitle, d.page_title, ...d.tags].some((s) => String(s).toLowerCase().includes(q))));
     const above = settings.upToLesson ? lib.items.filter((x) => x.data.level.minna_max > settings.lesson).length : 0;
-    $("#count").textContent = `${shown.length} of ${lib.items.length} kaiwa` + (above ? ` · ${above} above L${settings.lesson} hidden` : "");
+    const hidden = [above ? `${above} above L${settings.lesson}` : "", nKnown && !filt.showKnown ? `${nKnown} known` : ""].filter(Boolean);
+    $("#count").textContent = `${shown.length} of ${lib.items.length} kaiwa` + (hidden.length ? ` · hidden: ${hidden.join(", ")}` : "");
     $("#klist").innerHTML = shown.length
       ? shown.map(cardHTML).join("")
       : `<li class="empty">${lib.items.length ? "Nothing matches these filters." : "No kaiwa yet. Add a file below."}</li>`;
@@ -180,7 +186,7 @@ function cardHTML({ data: d, source }) {
     : '<span class="kprog none">Not practised yet</span>';
   const f = d.level.focus;
   return `<li><a class="kcard" href="#${esc(d.id)}" data-open="${esc(d.id)}">
-    <span class="kmeta">${d.kind === "story" ? "Story" : "Dialogue"} · ${esc(d.level.jlpt)} · Minna ≤ L${d.level.minna_max} · focus L${f[0]}–${f[1]} · ${n} lines${source === "imported" ? ' · <span class="imp">imported</span>' : ""}</span>
+    <span class="kmeta">${d.kind === "story" ? "Story" : "Dialogue"} · ${esc(d.level.jlpt)} · Minna ≤ L${d.level.minna_max} · focus L${f[0]}–${f[1]} · ${n} lines${source === "imported" ? ' · <span class="imp">imported</span>' : ""}${isKnown(d.id) ? ' · <span class="imp">known</span>' : ""}</span>
     <span class="ktitle" lang="ja">${esc(d.title)}</span>
     <span class="ksub">${esc(d.subtitle)}</span>
     <span class="ktags">${d.tags.map(esc).join(" · ")}</span>

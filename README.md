@@ -25,6 +25,8 @@ On Android Chrome: open the link, then menu › *Add to Home screen* (or
   lines shows what was heard next to the model line, with a rough match hint.
 - **Hard lines**: long-press a line (or press H on a keyboard) to mark it
   hard. The *Hard lines* tab collects them across all kaiwa for quick review.
+- **Mark as known** (bottom of a kaiwa) hides it from the library list on this
+  device; *Show known* brings known kaiwa back. Progress is kept.
 - Role, level and partner mode are remembered per kaiwa on each device.
   Progress: *practised* = lines marked done; *mastered* = your own lines marked
   done at Cue, Keywords or Free (said before seeing them).

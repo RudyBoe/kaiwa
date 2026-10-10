@@ -4,7 +4,7 @@
 // fallback; everything else is cache first. Google Fonts are cached as they
 // load, in a cache that survives version bumps.
 // Bump VERSION together with the ?v= tags in index.html on every change.
-const VERSION = "v2";
+const VERSION = "v3";
 const CACHE = `kaiwa-${VERSION}`;
 const FONTS = "kaiwa-fonts";
 const V = VERSION.replace("v", "v=");
