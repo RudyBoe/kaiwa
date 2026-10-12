@@ -1,0 +1,300 @@
+{
+ "format": "kaiwa/1",
+ "id": "world-map-travel",
+ "kind": "dialogue",
+ "page_title": "Sekai Chizu Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 旅の話",
+ "title": "世界地図と旅の話",
+ "subtitle": "Where have you travelled? A talk with a host, with every katakana",
+ "scene": "Evening in the common room of a guesthouse in Gifu. The host has a world map on the wall with a pin for every place the guests have been, and the two start swapping travel stories.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 33,
+  "focus": [
+   29,
+   33
+  ]
+ },
+ "meta": "Minna L1–33, focus L29–33. All 46 basic katakana (ア–ン, including ヲ) appear at least twice in the lines. New: place names, ラクダ, ヘリコプター, ムール貝, 世界地図.",
+ "tags": [
+  "travel",
+  "host",
+  "katakana",
+  "places"
+ ],
+ "created": "2026-10-12",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "宿の人",
+   "en": "Host"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "ルディさん、この世界地図を見てください。お客さんが行った所に、ピンが付けてあります。",
+   "kana": "ルディさん、このせかいちずをみてください。おきゃくさんがいったところに、ピンがつけてあります。",
+   "en": "Rudy, look at this world map. There are pins where our guests have been.",
+   "kw": "世界地図・行った所・付けてある"
+  },
+  {
+   "who": "A",
+   "ja": "すごいですね。ヨーロッパにもアジアにも、ピンがたくさんありますね。",
+   "kana": "すごいですね。ヨーロッパにもアジアにも、ピンがたくさんありますね。",
+   "en": "Wow. There are lots of pins in Europe and in Asia.",
+   "kw": "ヨーロッパ・アジア・ピン・たくさん"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。私も旅行が好きで、アメリカやオーストラリアへ行ったことがあります。",
+   "kana": "ええ。わたしもりょこうがすきで、アメリカやオーストラリアへいったことがあります。",
+   "en": "Yes. I like travelling too, and I've been to America and Australia.",
+   "kw": "旅行が好き・アメリカ・オーストラリア・行ったことがある"
+  },
+  {
+   "who": "A",
+   "ja": "アフリカへも行ったことがありますか。",
+   "kana": "アフリカへもいったことがありますか。",
+   "en": "Have you been to Africa too?",
+   "kw": "アフリカ・行ったことがある"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、モロッコとエジプトへ行きました。ラクダに乗って、テントで寝ました。",
+   "kana": "ええ、モロッコとエジプトへいきました。ラクダにのって、テントでねました。",
+   "en": "Yes, I went to Morocco and Egypt. I rode a camel and slept in a tent.",
+   "kw": "モロッコ・エジプト・ラクダ・乗って・テントで寝た"
+  },
+  {
+   "who": "A",
+   "ja": "いいですね。私はまだ行ったことがありませんが、エジプトのピラミッドと、ネパールのヒマラヤを見たいです。",
+   "kana": "いいですね。わたしはまだいったことがありませんが、エジプトのピラミッドと、ネパールのヒマラヤをみたいです。",
+   "en": "Nice. I haven't been yet, but I want to see the pyramids in Egypt and the Himalayas in Nepal.",
+   "kw": "まだ・エジプト・ピラミッド・ヒマラヤ・見たい"
+  },
+  {
+   "who": "B",
+   "ja": "ヒマラヤは寒いでしょう。ヘリコプターで見る人もいますよ。",
+   "kana": "ヒマラヤはさむいでしょう。ヘリコプターでみるひともいますよ。",
+   "en": "The Himalayas are probably cold. Some people look at them from a helicopter.",
+   "kw": "寒いでしょう・ヘリコプター・見る人"
+  },
+  {
+   "who": "A",
+   "ja": "ヘリコプターですか。でも、私はバスや電車で、ゆっくり旅行するほうが好きです。",
+   "kana": "ヘリコプターですか。でも、わたしはバスやでんしゃで、ゆっくりりょこうするほうがすきです。",
+   "en": "A helicopter? But I prefer to travel slowly by bus and train.",
+   "kw": "バスや電車・ゆっくり・ほうが好き"
+  },
+  {
+   "who": "B",
+   "ja": "私もです。去年は、イタリアとスイスをレンタカーで回りました。イタリアではユーロが使えましたが、スイスではユーロが使えませんでした。",
+   "kana": "わたしもです。きょねんは、イタリアとスイスをレンタカーでまわりました。イタリアではユーロがつかえましたが、スイスではユーロがつかえませんでした。",
+   "en": "Me too. Last year I toured Italy and Switzerland by rental car. In Italy I could use euros, but in Switzerland I couldn't.",
+   "kw": "去年・レンタカー・回った・ユーロが使えた"
+  },
+  {
+   "who": "A",
+   "ja": "ローマやミラノにも行きましたか。",
+   "kana": "ローマやミラノにもいきましたか。",
+   "en": "Did you go to Rome and Milan too?",
+   "kw": "ローマ・ミラノ・行きましたか"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。ローマでは、ピザを食べたり、ワインを飲んだりしました。ナポリにも行きましたよ。",
+   "kana": "ええ。ローマでは、ピザをたべたり、ワインをのんだりしました。ナポリにもいきましたよ。",
+   "en": "Yes. In Rome I ate pizza and drank wine, among other things. I also went to Naples.",
+   "kw": "ピザ・食べたり・ワイン・飲んだり"
+  },
+  {
+   "who": "A",
+   "ja": "ベルギーはムール貝とフライドポテトが有名です。ブルージュのレストランで、ムール貝とビールを楽しみました。",
+   "kana": "ベルギーはムールがいとフライドポテトがゆうめいです。ブルージュのレストランで、ムールがいとビールをたのしみました。",
+   "en": "In Belgium mussels and fries are famous. In a restaurant in Bruges I enjoyed mussels and beer.",
+   "kw": "ムール貝・有名・ブルージュ・レストラン・楽しんだ"
+  },
+  {
+   "who": "B",
+   "ja": "いいですね。ベルギーの川で、カヌーに乗ったことがありますか。",
+   "kana": "いいですね。ベルギーのかわで、カヌーにのったことがありますか。",
+   "en": "Nice. Have you ever been canoeing on a river in Belgium?",
+   "kw": "川・カヌー・乗ったことがある"
+  },
+  {
+   "who": "A",
+   "ja": "ええ、あります。ノルウェーの海では、カヤックをしたいと思います。",
+   "kana": "ええ、あります。ノルウェーのうみでは、カヤックをしたいとおもいます。",
+   "en": "Yes, I have. In Norway I'd like to go kayaking at sea.",
+   "kw": "カヌー・ノルウェー・海・カヤック・したいと思う"
+  },
+  {
+   "who": "B",
+   "ja": "ノルウェーですか。オスロもヘルシンキも、きれいな町ですよ。フィンランドのサウナも有名です。",
+   "kana": "ノルウェーですか。オスロもヘルシンキも、きれいなまちですよ。フィンランドのサウナもゆうめいです。",
+   "en": "Norway? Oslo and Helsinki are both beautiful cities. Finnish saunas are famous too.",
+   "kw": "オスロ・ヘルシンキ・サウナ・有名"
+  },
+  {
+   "who": "A",
+   "ja": "北のほうは寒いでしょう。サウナに入って、コーヒーとケーキを食べたいです。",
+   "kana": "きたのほうはさむいでしょう。サウナにはいって、コーヒーとケーキをたべたいです。",
+   "en": "The north is probably cold. I'd like to go in a sauna and have coffee and cake.",
+   "kw": "北・寒いでしょう・サウナ・コーヒー・ケーキ"
+  },
+  {
+   "who": "B",
+   "ja": "いいですね。私は、ロンドンとパリにも行きました。パリのホテルの窓から、セーヌ川が見えました。",
+   "kana": "いいですね。わたしは、ロンドンとパリにもいきました。パリのホテルのまどから、セーヌがわがみえました。",
+   "en": "Nice. I also went to London and Paris. From my hotel window in Paris I could see the Seine.",
+   "kw": "ロンドン・パリ・ホテルの窓・セーヌ川・見えた"
+  },
+  {
+   "who": "A",
+   "ja": "パリとニューヨークと、どちらが好きですか。",
+   "kana": "パリとニューヨークと、どちらがすきですか。",
+   "en": "Which do you like better, Paris or New York?",
+   "kw": "パリ・ニューヨーク・どちら"
+  },
+  {
+   "who": "B",
+   "ja": "どちらも好きですが、ニューヨークはホテルが高いかもしれません。セーヌ川の旅もいいですよ。",
+   "kana": "どちらもすきですが、ニューヨークはホテルがたかいかもしれません。セーヌがわのたびもいいですよ。",
+   "en": "I like both, but hotels in New York may be expensive. A trip along the Seine is nice too.",
+   "kw": "どちらも・ホテルが高い・かもしれません"
+  },
+  {
+   "who": "A",
+   "ja": "旅行のときは、小さいスーツケースが便利ですね。ドイツで、大きいスーツケースが壊れてしまいました。",
+   "kana": "りょこうのときは、ちいさいスーツケースがべんりですね。ドイツで、おおきいスーツケースがこわれてしまいました。",
+   "en": "On trips a small suitcase is handy. In Germany my big suitcase broke.",
+   "kw": "小さいスーツケース・便利・ドイツ・壊れてしまった"
+  },
+  {
+   "who": "B",
+   "ja": "それは大変でしたね。ツアーに入るのも、いいかもしれません。",
+   "kana": "それはたいへんでしたね。ツアーにはいるのも、いいかもしれません。",
+   "en": "That was hard. Joining a tour might be a good idea too.",
+   "kw": "大変・ツアー・入る・かもしれません"
+  },
+  {
+   "who": "A",
+   "ja": "でも、自由に行くほうが好きです。チケットも、インターネットで買います。",
+   "kana": "でも、じゆうにいくほうがすきです。チケットも、インターネットでかいます。",
+   "en": "But I prefer to go freely. I buy tickets on the internet too.",
+   "kw": "自由に・ほうが好き・チケット・インターネット"
+  },
+  {
+   "who": "B",
+   "ja": "私も、ホノルルのホテルを、インターネットで予約しました。ハワイは暑かったですよ。",
+   "kana": "わたしも、ホノルルのホテルを、インターネットでよやくしました。ハワイはあつかったですよ。",
+   "en": "I booked my Honolulu hotel on the internet too. Hawaii was hot.",
+   "kw": "ホノルル・ホテル・予約・ハワイ・暑かった"
+  },
+  {
+   "who": "A",
+   "ja": "次は、ソウルかシンガポールへ行きたいです。ソウルのコンビニも見たいです。",
+   "kana": "つぎは、ソウルかシンガポールへいきたいです。ソウルのコンビニもみたいです。",
+   "en": "Next I'd like to go to Seoul or Singapore. I'd like to see the convenience stores in Seoul too.",
+   "kw": "次・ソウル・シンガポール・コンビニ"
+  },
+  {
+   "who": "B",
+   "ja": "メキシコやモスクワはどうですか。モナコもきれいですよ。",
+   "kana": "メキシコやモスクワはどうですか。モナコもきれいですよ。",
+   "en": "How about Mexico or Moscow? Monaco is pretty too.",
+   "kw": "メキシコ・モスクワ・モナコ・どうですか"
+  },
+  {
+   "who": "A",
+   "ja": "ハノイやホーチミンへ行こうと思います。ハノイでフォーを食べたいです。",
+   "kana": "ハノイやホーチミンへいこうとおもいます。ハノイでフォーをたべたいです。",
+   "en": "I'm thinking of going to Hanoi and Ho Chi Minh City. I want to eat pho in Hanoi.",
+   "kw": "ハノイ・ホーチミン・行こうと思う・フォー"
+  },
+  {
+   "who": "B",
+   "ja": "日本では、ヲタクの町の秋葉原にも行きましたか。",
+   "kana": "にほんでは、ヲタクのまちのあきはばらにもいきましたか。",
+   "en": "In Japan, did you go to Akihabara, the 'wotaku' town, too?",
+   "kw": "日本・ヲタクの町・秋葉原"
+  },
+  {
+   "who": "A",
+   "ja": "まだです。ヲタクではありませんが、行こうと思います。",
+   "kana": "まだです。ヲタクではありませんが、いこうとおもいます。",
+   "en": "Not yet. I'm not a wotaku, but I'm thinking of going.",
+   "kw": "まだ・ヲタク・行こうと思う"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "A",
+   "en": "Ask what ヲタク means.",
+   "ja": "「ヲタク」はどういう意味ですか。",
+   "kana": "「ヲタク」はどういういみですか。",
+   "reply_ja": "アニメやゲームが大好きな人という意味です。",
+   "reply_kana": "アニメやゲームがだいすきなひとといういみです。",
+   "reply_en": "It means a person who loves anime and games."
+  },
+  {
+   "by": "B",
+   "en": "Ask which trip was the best so far.",
+   "ja": "今までの旅行で、どこが一番よかったですか。",
+   "kana": "いままでのりょこうで、どこがいちばんよかったですか。",
+   "reply_ja": "ブルージュが一番よかったです。静かで、きれいな町です。",
+   "reply_kana": "ブルージュがいちばんよかったです。しずかで、きれいなまちです。",
+   "reply_en": "Bruges was the best. It's a quiet, pretty town."
+  },
+  {
+   "by": "A",
+   "en": "Ask the host to show you their travel photos.",
+   "ja": "旅行の写真を見せてもらえませんか。",
+   "kana": "りょこうのしゃしんをみせてもらえませんか。",
+   "reply_ja": "はい、どうぞ。これはモロッコで撮った写真です。",
+   "reply_kana": "はい、どうぞ。これはモロッコでとったしゃしんです。",
+   "reply_en": "Sure. This is a photo I took in Morocco."
+  },
+  {
+   "by": "B",
+   "en": "Ask where the traveller is going in Japan.",
+   "ja": "日本では、どこへ行こうと思っていますか。",
+   "kana": "にほんでは、どこへいこうとおもっていますか。",
+   "reply_ja": "大阪から、滋賀と岐阜を通って、富山まで行こうと思っています。",
+   "reply_kana": "おおさかから、しがとぎふをとおって、とやままでいこうとおもっています。",
+   "reply_en": "From Osaka, through Shiga and Gifu, to Toyama."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "A pin map like this is a nice way to start a conversation with a host: ask 「どこへ行ったことがありますか」 and let the pins do the talking. Switzerland uses the franc, not the euro, which is why ユーロ fails there."
+  },
+  {
+   "label": "New words:",
+   "text": "世界地図 せかいちず world map · ピン pin · ラクダ camel · ヘリコプター helicopter · 回る まわる go around, tour · ムール貝 ムールがい mussel · 楽しむ たのしむ enjoy · 予約 よやく booking · 秋葉原 あきはばら Akihabara · ツアー tour · ピラミッド pyramid · ヲタク wotaku (see below)"
+  },
+  {
+   "label": "About ヲ:",
+   "text": "ヲ is almost never used in modern writing (ウォ and オ take its place). It survives in old telegram-style katakana text and in stylised spellings like ヲタク, a playful variant of オタク. It is read お."
+  },
+  {
+   "label": "Katakana map (each appears 2+ times):",
+   "text": "ア アメリカ · イ イタリア · ウ ソウル · エ エジプト · オ オスロ · カ カヌー · キ ケーキ · ク ニューヨーク · ケ スーツケース · コ モロッコ · サ サウナ · シ ヘルシンキ · ス スイス · セ セーヌ · ソ ソウル · タ レンタカー · チ チケット · ツ ツアー · テ ホテル · ト テント · ナ ナポリ · ニ ニューヨーク · ヌ カヌー · ネ ネパール · ノ ミラノ · ハ ハワイ · ヒ ヒマラヤ · フ フォー · ヘ ヘリコプター · ホ ホーチミン · マ ローマ · ミ ミラノ · ム ムール貝 · メ メキシコ · モ モスクワ · ヤ カヤック · ユ ユーロ · ヨ ヨーロッパ · ラ ラクダ · リ パリ · ル ホテル · レ レンタカー · ロ ロンドン · ワ ワイン · ヲ ヲタク · ン ロンドン"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "～ようと思います / 思っています (L31) · ～でしょう / ～かもしれません (L32) · ～という意味です (L33, curveball) · 付けてあります (L30) · 壊れてしまいました (L29) · 見えました / 使えました potential (L27) · ～てもらえませんか (L24–26) · ～たり～たりしました / ～たことがあります (L19) · ～ほうが好き"
+  },
+  {
+   "label": "Swap in:",
+   "text": "アメリカ → カナダ · ヒマラヤ → アルプス · ユーロ → ドル · ムール貝 → ワッフル · ブルージュ → アントワープ · ホテル → ユースホステル"
+  }
+ ]
+}
