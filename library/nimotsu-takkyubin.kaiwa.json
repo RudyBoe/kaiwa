@@ -1,0 +1,269 @@
+{
+ "format": "kaiwa/1",
+ "id": "nimotsu-takkyubin",
+ "kind": "dialogue",
+ "page_title": "Takkyuubin Kaiwa",
+ "eyebrow": "Kaiwa · N4 · ホテルのフロントで",
+ "title": "荷物を送る",
+ "subtitle": "Collecting and sending luggage at a Toyama hotel",
+ "scene": "Check-in at a hotel near Toyama Station. The traveller sent his suitcase ahead from Takayama by takkyubin; now he picks it up and wants to send another bag to Kansai Airport for the flight home.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 40,
+  "focus": [
+   36,
+   40
+  ]
+ },
+ "meta": "Minna L1–40, focus L36–40. Beyond L40: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "hotel",
+  "luggage",
+  "delivery",
+  "airport",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Guest"
+  },
+  {
+   "id": "B",
+   "ja": "フロント",
+   "en": "Front desk"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "すみません。高山から宅急便で荷物を送ったんですが、着いたかどうか確かめていただけませんか。",
+   "kana": "すみません。たかやまからたっきゅうびんでにもつをおくったんですが、ついたかどうかたしかめていただけませんか。",
+   "en": "Excuse me. I sent a bag here by takkyubin from Takayama. Could you check whether it has arrived?",
+   "kw": "宅急便・着いたかどうか・確かめていただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "かしこまりました。お名前をお願いします。",
+   "kana": "かしこまりました。おなまえをおねがいします。",
+   "en": "Certainly. Your name, please.",
+   "kw": "かしこまりました・お名前"
+  },
+  {
+   "who": "A",
+   "ja": "ヤンセンスです。今日から二泊します。",
+   "kana": "ヤンセンスです。きょうからにはくします。",
+   "en": "Janssens. I'm staying two nights from today.",
+   "kw": "今日から・二泊"
+  },
+  {
+   "who": "B",
+   "ja": "ヤンセンス様ですね。……はい、今朝着いております。黒いスーツケースですね。",
+   "kana": "ヤンセンスさまですね。……はい、けさついております。くろいスーツケースですね。",
+   "en": "Mr Janssens… Yes, it arrived this morning. A black suitcase, is that right?",
+   "kw": "今朝・着いております・黒いスーツケース"
+  },
+  {
+   "who": "A",
+   "ja": "はい、それです。よかった。ちゃんと着くかどうか、心配だったんです。",
+   "kana": "はい、それです。よかった。ちゃんとつくかどうか、しんぱいだったんです。",
+   "en": "Yes, that's the one. Phew, I was worried whether it would get here all right.",
+   "kw": "ちゃんと・着くかどうか・心配だった"
+  },
+  {
+   "who": "B",
+   "ja": "こちらです。ただ、申し訳ありませんが、ここに小さい傷があります。",
+   "kana": "こちらです。ただ、もうしわけありませんが、ここにちいさいきずがあります。",
+   "en": "Here it is. I'm sorry, though: there's a small scratch here.",
+   "kw": "申し訳ありません・小さい傷"
+  },
+  {
+   "who": "A",
+   "ja": "あ、本当ですね。高山で出したときは、傷はなかったんですが……。",
+   "kana": "あ、ほんとうですね。たかやまでだしたときは、きずはなかったんですが……。",
+   "en": "Oh, you're right. There was no scratch when I sent it from Takayama…",
+   "kw": "出したとき・傷はなかった"
+  },
+  {
+   "who": "B",
+   "ja": "運ぶときに付いたかもしれません。中の物が壊れていないかどうか、開けてみてください。",
+   "kana": "はこぶときについたかもしれません。なかのものがこわれていないかどうか、あけてみてください。",
+   "en": "It may have happened on the way. Please open it and see whether anything inside is broken.",
+   "kw": "付いたかもしれない・壊れていないかどうか・開けてみて"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、開けてみます。……お土産のお皿は割れていません。よかった。",
+   "kana": "じゃ、あけてみます。……おみやげのおさらはわれていません。よかった。",
+   "en": "OK, I'll open it… The plates I bought as souvenirs aren't broken. What a relief.",
+   "kw": "開けてみます・お皿・割れていない"
+  },
+  {
+   "who": "B",
+   "ja": "それはよかったです。宅急便の会社に連絡しましょうか。",
+   "kana": "それはよかったです。たっきゅうびんのかいしゃにれんらくしましょうか。",
+   "en": "I'm glad. Shall I contact the delivery company?",
+   "kw": "会社・連絡しましょうか"
+  },
+  {
+   "who": "A",
+   "ja": "小さい傷なので、大丈夫です。それから、もう一つお願いがあるんですが。",
+   "kana": "ちいさいきずなので、だいじょうぶです。それから、もうひとつおねがいがあるんですが。",
+   "en": "It's only a small scratch, so it's fine. There's one more thing I'd like to ask, though.",
+   "kw": "小さい傷なので・もう一つ・お願い"
+  },
+  {
+   "who": "B",
+   "ja": "はい、何でしょうか。",
+   "kana": "はい、なんでしょうか。",
+   "en": "Of course, what is it?",
+   "kw": "何でしょうか"
+  },
+  {
+   "who": "A",
+   "ja": "帰りは関西空港から飛行機に乗ります。このバッグを空港へ送れるかどうか、知りたいんですが。",
+   "kana": "かえりはかんさいくうこうからひこうきにのります。このバッグをくうこうへおくれるかどうか、しりたいんですが。",
+   "en": "On the way home I'm flying from Kansai Airport. I'd like to know whether I can send this bag to the airport.",
+   "kw": "関西空港・送れるかどうか・知りたい"
+  },
+  {
+   "who": "B",
+   "ja": "はい、送れます。何日の何時の飛行機か、わかりますか。",
+   "kana": "はい、おくれます。なんにちのなんじのひこうきか、わかりますか。",
+   "en": "Yes, you can. Do you know the date and time of your flight?",
+   "kw": "何日の何時・飛行機か"
+  },
+  {
+   "who": "A",
+   "ja": "二十日の夜です。何便か、今調べてみます。……この便です。",
+   "kana": "はつかのよるです。なんびんか、いましらべてみます。……このびんです。",
+   "en": "The 20th, in the evening. I'll look up the flight number now… It's this one.",
+   "kw": "二十日・何便か・調べてみます"
+  },
+  {
+   "who": "B",
+   "ja": "ありがとうございます。空港へ送るときは、飛行機に乗る二日前までに出してください。",
+   "kana": "ありがとうございます。くうこうへおくるときは、ひこうきにのるふつかまえまでにだしてください。",
+   "en": "Thank you. To send luggage to the airport, please hand it in at least two days before your flight.",
+   "kw": "空港へ送るとき・二日前までに・出す"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、出すのを忘れないように、今日お願いします。",
+   "kana": "じゃ、だすのをわすれないように、きょうおねがいします。",
+   "en": "Then I'll do it today, so I don't forget.",
+   "kw": "出すのを・忘れないように・今日"
+  },
+  {
+   "who": "B",
+   "ja": "かしこまりました。料金は大きさと重さで変わりますので、測ってみますね。",
+   "kana": "かしこまりました。りょうきんはおおきさとおもさでかわりますので、はかってみますね。",
+   "en": "Certainly. The price depends on the size and weight, so let me measure it.",
+   "kw": "大きさと重さ・変わりますので・測ってみます"
+  },
+  {
+   "who": "A",
+   "ja": "お願いします。お土産をたくさん入れたので、重さが心配です。",
+   "kana": "おねがいします。おみやげをたくさんいれたので、おもさがしんぱいです。",
+   "en": "Please. I've packed a lot of souvenirs, so I'm worried about the weight.",
+   "kw": "たくさん入れたので・重さ・心配"
+  },
+  {
+   "who": "B",
+   "ja": "縦と横と高さを全部合わせて、百二十センチです。重さも量ってみます。……十五キロですね。",
+   "kana": "たてとよことたかさをぜんぶあわせて、ひゃくにじゅっセンチです。おもさもはかってみます。……じゅうごキロですね。",
+   "en": "Length, width and height together come to 120 cm. Let me weigh it too… Fifteen kilos.",
+   "kw": "縦と横と高さ・百二十センチ・量ってみます"
+  },
+  {
+   "who": "A",
+   "ja": "その重さで大丈夫ですか。",
+   "kana": "そのおもさでだいじょうぶですか。",
+   "en": "Is that weight OK?",
+   "kw": "重さ・大丈夫"
+  },
+  {
+   "who": "B",
+   "ja": "はい、この大きさなら、問題ありません。この紙に便名と出発の時間を書いてください。",
+   "kana": "はい、このおおきさなら、もんだいありません。このかみにびんめいとしゅっぱつのじかんをかいてください。",
+   "en": "Yes, at this size there's no problem. Please write the flight number and departure time on this form.",
+   "kw": "大きさなら・問題ありません・便名・出発の時間"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。空港では、どこで荷物を受け取ればいいか、教えていただけませんか。",
+   "kana": "わかりました。くうこうでは、どこでにもつをうけとればいいか、おしえていただけませんか。",
+   "en": "OK. Could you tell me where I should pick the bag up at the airport?",
+   "kw": "どこで・受け取ればいいか・教えていただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "空港の宅配便のカウンターで受け取れます。場所はこの紙に書いてあります。",
+   "kana": "くうこうのたくはいびんのカウンターでうけとれます。ばしょはこのかみにかいてあります。",
+   "en": "You can collect it at the delivery-service counter in the airport. The location is written on this sheet.",
+   "kw": "宅配便のカウンター・受け取れる・書いてある"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 03: the suitcase hasn't arrived yet.",
+   "ja": "申し訳ありませんが、まだ届いておりません。伝票をお持ちですか。",
+   "kana": "もうしわけありませんが、まだとどいておりません。でんぴょうをおもちですか。",
+   "reply_ja": "はい、これです。いつ着くか、調べていただけませんか。",
+   "reply_kana": "はい、これです。いつつくか、しらべていただけませんか。",
+   "reply_en": "Yes, here it is. Could you find out when it will arrive?"
+  },
+  {
+   "by": "B",
+   "en": "After line 20: the bag is quite heavy; staff suggest splitting it.",
+   "ja": "少し重いので、二つに分けたほうがいいかもしれません。",
+   "kana": "すこしおもいので、ふたつにわけたほうがいいかもしれません。",
+   "reply_ja": "じゃ、お土産を別の箱に入れてみます。箱はありますか。",
+   "reply_kana": "じゃ、おみやげをべつのはこにいれてみます。はこはありますか。",
+   "reply_en": "Then I'll try putting the souvenirs in a separate box. Do you have a box?"
+  },
+  {
+   "by": "A",
+   "en": "After line 06: ask whether you may photograph the scratch.",
+   "ja": "傷の写真を撮ってもいいですか。",
+   "kana": "きずのしゃしんをとってもいいですか。",
+   "reply_ja": "はい、どうぞ。後で何か問題があったら、その写真が役に立ちます。",
+   "reply_kana": "はい、どうぞ。あとでなにかもんだいがあったら、そのしゃしんがやくにたちます。",
+   "reply_en": "Of course. If there's any problem later, the photo will be useful."
+  },
+  {
+   "by": "A",
+   "en": "After line 16: ask roughly how much it will cost.",
+   "ja": "関西空港までいくらぐらいかかるか、わかりますか。",
+   "kana": "かんさいくうこうまでいくらぐらいかかるか、わかりますか。",
+   "reply_ja": "大きさと重さを測ってから、お知らせします。",
+   "reply_kana": "おおきさとおもさをはかってから、おしらせします。",
+   "reply_en": "I'll let you know once I've measured the size and weight."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "宅急便 is Yamato Transport's delivery service, and most people use the word for any door-to-door parcel service (宅配便). Japanese hotels routinely accept luggage sent ahead by guests (write your name and check-in date on the label) and send parcels from the front desk. Airport delivery (空港宅急便 and similar) needs your flight date and flight number, and the bag must be handed in a couple of days before departure; you collect it at the delivery companies' counter in the terminal. The price depends on the size band (length + width + height added together) and the weight. If a parcel arrives damaged, take a photo and tell the carrier soon. Check before you go: the exact deadline for Kansai Airport from Toyama, size and weight limits, prices and the counter's location and hours change, so ask at the front desk."
+  },
+  {
+   "label": "New words:",
+   "text": "宅急便 たっきゅうびん parcel delivery (Yamato) · 宅配便 たくはいびん delivery service · 二泊 にはく two nights · ちゃんと properly · 傷 きず scratch · 運ぶ はこぶ carry · 割れる われる break (glass, plates) · 関西空港 かんさいくうこう Kansai Airport · 便 びん flight · 便名 びんめい flight number · 縦 たて length · 横 よこ width · 高さ たかさ height · 合わせる あわせる add together · 量る はかる weigh · 測る はかる measure · 受け取る うけとる receive · 伝票 でんぴょう delivery slip · 届く とどく arrive"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "かしこまりました certainly · ～様 Mr/Ms · 着いております it has arrived · 申し訳ありませんが I'm sorry, but · 何でしょうか what is it? · 届いておりません it hasn't arrived · お持ちですか do you have · お知らせします I'll let you know"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "着いたかどうか / 着くかどうか / 壊れていないかどうか / 送れるかどうか, 何日の何時の飛行機か / 何便か / どこで受け取ればいいか, 開けてみて / 開けてみます / 調べてみます / 測ってみます / 量ってみます, 大きさ / 重さ / 高さ (L40) · 傷なので / 変わりますので / 入れたので (L39) · 出すのを忘れない (L38) · 忘れないように (L36) · この大きさなら, 受け取ればいい (L35) · 書いてあります (L30) · 割れていません / 着いております state (L29) · 受け取れる / 送れる (L27) · ～ていただけませんか / ～んですが (L26) · かもしれません (L32) · ～とき (L23)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "関西空港 → 成田空港（なりたくうこう）· スーツケース → ゴルフバッグ · お皿 → 日本酒の瓶（にほんしゅのびん）· 二十日 → 十八日（じゅうはちにち）"
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "format": "kaiwa/1",
+ "id": "onsen-yoyaku-denwa",
+ "kind": "dialogue",
+ "page_title": "Onsen Yoyaku Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 電話で",
+ "title": "温泉に電話する",
+ "subtitle": "Phoning an Okuhida onsen about a day visit",
+ "scene": "A December morning in Takayama. Before driving into the snowy mountains, a traveller phones a ryokan in Okuhida Onsen-gō to ask about day-visit bathing and the private bath.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 40,
+  "focus": [
+   36,
+   40
+  ]
+ },
+ "meta": "Minna L1–40, focus L36–40. Beyond L40: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "onsen",
+  "phone",
+  "booking",
+  "snow",
+  "driving",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "旅館の人",
+   "en": "Ryokan staff"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "はい、お電話ありがとうございます。",
+   "kana": "はい、おでんわありがとうございます。",
+   "en": "Hello, thank you for calling.",
+   "kw": "電話・ありがとう"
+  },
+  {
+   "who": "A",
+   "ja": "もしもし。今日、日帰り入浴ができるかどうか、知りたいんですが。",
+   "kana": "もしもし。きょう、ひがえりにゅうよくができるかどうか、しりたいんですが。",
+   "en": "Hello. I'd like to know whether day visitors can bathe today.",
+   "kw": "日帰り入浴・できるかどうか・知りたい"
+  },
+  {
+   "who": "B",
+   "ja": "はい、今日も日帰り入浴をやっております。",
+   "kana": "はい、きょうもひがえりにゅうよくをやっております。",
+   "en": "Yes, we're open to day visitors today as well.",
+   "kw": "今日も・やっております"
+  },
+  {
+   "who": "A",
+   "ja": "よかった。何時まで入れるか、教えていただけませんか。",
+   "kana": "よかった。なんじまではいれるか、おしえていただけませんか。",
+   "en": "Great. Could you tell me until what time I can come in?",
+   "kw": "何時まで・入れるか・教えていただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "受付は午後三時までで、お風呂は四時までです。",
+   "kana": "うけつけはごごさんじまでで、おふろはよじまでです。",
+   "en": "Reception is until 3 p.m., and the baths are open until 4.",
+   "kw": "受付・三時まで・四時まで"
+  },
+  {
+   "who": "A",
+   "ja": "高山から車で行くつもりなんですが、どの道を通ればいいか、教えてください。",
+   "kana": "たかやまからくるまでいくつもりなんですが、どのみちをとおればいいか、おしえてください。",
+   "en": "I'm planning to drive from Takayama. Please tell me which road I should take.",
+   "kw": "車で行くつもり・どの道・通ればいいか"
+  },
+  {
+   "who": "B",
+   "ja": "国道158号線で平湯の方へ来てください。高山から一時間ぐらいです。",
+   "kana": "こくどうひゃくごじゅうはちごうせんでひらゆのほうへきてください。たかやまからいちじかんぐらいです。",
+   "en": "Take Route 158 towards Hirayu. It's about an hour from Takayama.",
+   "kw": "158号線・平湯の方・一時間"
+  },
+  {
+   "who": "A",
+   "ja": "昨日の雪で、道が凍っていないかどうか、心配なんですが……。",
+   "kana": "きのうのゆきで、みちがこおっていないかどうか、しんぱいなんですが……。",
+   "en": "After yesterday's snow, I'm worried the roads might be icy…",
+   "kw": "昨日の雪で・凍っていないかどうか・心配"
+  },
+  {
+   "who": "B",
+   "ja": "今朝、除雪車が通りましたので、大丈夫だと思います。冬用のタイヤですか。",
+   "kana": "けさ、じょせつしゃがとおりましたので、だいじょうぶだとおもいます。ふゆようのタイヤですか。",
+   "en": "The snowplough came through this morning, so I think it's fine. Do you have winter tyres?",
+   "kw": "除雪車・通りましたので・冬用のタイヤ"
+  },
+  {
+   "who": "A",
+   "ja": "はい、スタッドレスタイヤです。チェーンも借りておきました。",
+   "kana": "はい、スタッドレスタイヤです。チェーンもかりておきました。",
+   "en": "Yes, studless winter tyres. I've rented chains as well, just in case.",
+   "kw": "スタッドレスタイヤ・チェーン・借りておいた"
+  },
+  {
+   "who": "B",
+   "ja": "それなら大丈夫でしょう。でも、夕方になると道が凍りますので、ゆっくり走ってください。",
+   "kana": "それならだいじょうぶでしょう。でも、ゆうがたになるとみちがこおりますので、ゆっくりはしってください。",
+   "en": "Then you should be fine. But the roads freeze towards evening, so drive slowly.",
+   "kw": "それなら・夕方になると・凍りますので・ゆっくり"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。それから、貸切風呂があるかどうか、聞きたいんですが。",
+   "kana": "わかりました。それから、かしきりぶろがあるかどうか、ききたいんですが。",
+   "en": "Understood. Also, I wanted to ask whether you have a private bath.",
+   "kw": "貸切風呂・あるかどうか・聞きたい"
+  },
+  {
+   "who": "B",
+   "ja": "はい、ございます。今日空いているかどうか確かめますので、少々お待ちください。",
+   "kana": "はい、ございます。きょうあいているかどうかたしかめますので、しょうしょうおまちください。",
+   "en": "Yes, we do. I'll check whether it's free today, so one moment, please.",
+   "kw": "空いているかどうか・確かめる・少々お待ちください"
+  },
+  {
+   "who": "A",
+   "ja": "はい、お願いします。",
+   "kana": "はい、おねがいします。",
+   "en": "Yes, please.",
+   "kw": "お願いします"
+  },
+  {
+   "who": "B",
+   "ja": "お待たせしました。三時からなら、空いております。一回四十五分です。",
+   "kana": "おまたせしました。さんじからなら、あいております。いっかいよんじゅうごふんです。",
+   "en": "Sorry to keep you waiting. It's free from three o'clock. One session is forty-five minutes.",
+   "kw": "三時からなら・空いております・四十五分"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、三時からお願いします。タオルが料金に入っているかどうか、わかりますか。",
+   "kana": "じゃ、さんじからおねがいします。タオルがりょうきんにはいっているかどうか、わかりますか。",
+   "en": "Then three o'clock, please. Do you know whether towels are included in the price?",
+   "kw": "三時から・タオル・入っているかどうか"
+  },
+  {
+   "who": "B",
+   "ja": "タオルは入っておりませんので、持ってきてください。受付で買うこともできます。",
+   "kana": "タオルははいっておりませんので、もってきてください。うけつけでかうこともできます。",
+   "en": "Towels aren't included, so please bring your own. You can also buy one at reception.",
+   "kw": "入っておりませんので・持ってくる・買うこともできる"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。雪の中の露天風呂に入るのは初めてなので、楽しみです。",
+   "kana": "わかりました。ゆきのなかのろてんぶろにはいるのははじめてなので、たのしみです。",
+   "en": "OK. It's my first time in an outdoor bath in the snow, so I'm really looking forward to it.",
+   "kw": "露天風呂・入るのは初めて・なので・楽しみ"
+  },
+  {
+   "who": "B",
+   "ja": "雪を見ながら入る露天風呂は、本当に気持ちがいいですよ。貸切風呂の後で、大きいお風呂にも入ってみてください。",
+   "kana": "ゆきをみながらはいるろてんぶろは、ほんとうにきもちがいいですよ。かしきりぶろのあとで、おおきいおふろにもはいってみてください。",
+   "en": "An outdoor bath while you watch the snow feels wonderful. After the private bath, do try the big bath too.",
+   "kw": "見ながら・気持ちがいい・入ってみてください"
+  },
+  {
+   "who": "A",
+   "ja": "はい、入ってみます。もし遅れたら、電話してもいいですか。",
+   "kana": "はい、はいってみます。もしおくれたら、でんわしてもいいですか。",
+   "en": "I will. If I'm running late, may I call you?",
+   "kw": "入ってみます・遅れたら・電話してもいい"
+  },
+  {
+   "who": "B",
+   "ja": "はい、お電話ください。では、お名前をお願いします。",
+   "kana": "はい、おでんわください。では、おなまえをおねがいします。",
+   "en": "Yes, please do. Now, your name, please.",
+   "kw": "お電話ください・お名前"
+  },
+  {
+   "who": "A",
+   "ja": "ヤンセンスです。三時に間に合うように、早めに出発します。",
+   "kana": "ヤンセンスです。さんじにまにあうように、はやめにしゅっぱつします。",
+   "en": "Janssens. I'll set off early so I'm there in time for three.",
+   "kw": "間に合うように・早めに・出発する"
+  },
+  {
+   "who": "B",
+   "ja": "ヤンセンス様ですね。雪道ですので、お気をつけてお越しください。",
+   "kana": "ヤンセンスさまですね。ゆきみちですので、おきをつけておこしください。",
+   "en": "Mr Janssens, then. The roads are snowy, so please drive carefully on your way here.",
+   "kw": "様・雪道・お越しください"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。雪道は初めてですが、ゆっくり行ってみます。",
+   "kana": "ありがとうございます。ゆきみちははじめてですが、ゆっくりいってみます。",
+   "en": "Thank you. I've never driven on snowy roads, but I'll take it slowly and give it a try.",
+   "kw": "雪道・初めて・行ってみます"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 05: because of heavy snow, reception may close early today.",
+   "ja": "今日は雪が多いので、受付が早く終わるかもしれません。何時ごろ着くか、わかりますか。",
+   "kana": "きょうはゆきがおおいので、うけつけがはやくおわるかもしれません。なんじごろつくか、わかりますか。",
+   "reply_ja": "一時半ごろ着くと思います。間に合うかどうか、もう一度電話します。",
+   "reply_kana": "いちじはんごろつくとおもいます。まにあうかどうか、もういちどでんわします。",
+   "reply_en": "Around half past one, I think. I'll call again to let you know whether I'll make it."
+  },
+  {
+   "by": "B",
+   "en": "After line 14: three o'clock has just been booked; only two o'clock is free.",
+   "ja": "すみません、三時は今予約が入りました。二時からでもいいですか。",
+   "kana": "すみません、さんじはいまよやくがはいりました。にじからでもいいですか。",
+   "reply_ja": "二時だと、着けるかどうかわかりません。今日は大きいお風呂だけにします。",
+   "reply_kana": "にじだと、つけるかどうかわかりません。きょうはおおきいおふろだけにします。",
+   "reply_en": "I'm not sure I can get there by two. I'll just use the big bath today."
+  },
+  {
+   "by": "A",
+   "en": "After line 13: ask how big the private bath is.",
+   "ja": "貸切風呂の大きさはどのくらいですか。家族四人で入れますか。",
+   "kana": "かしきりぶろのおおきさはどのくらいですか。かぞくよにんではいれますか。",
+   "reply_ja": "四人なら、大丈夫ですよ。",
+   "reply_kana": "よにんなら、だいじょうぶですよ。",
+   "reply_en": "For four people it's fine."
+  },
+  {
+   "by": "A",
+   "en": "At the end: ask whether there's a petrol station nearby.",
+   "ja": "近くにガソリンスタンドがあるかどうか、知っていますか。",
+   "kana": "ちかくにガソリンスタンドがあるかどうか、しっていますか。",
+   "reply_ja": "このへんは少ないので、高山で満タンにしておいたほうがいいですよ。",
+   "reply_kana": "このへんはすくないので、たかやまでまんタンにしておいたほうがいいですよ。",
+   "reply_en": "There aren't many around here, so you'd better fill up in Takayama."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Okuhida Onsen-gō (奥飛騨温泉郷) is a group of five hot-spring villages (Hirayu, Fukuji, Shin-Hirayu, Tochio, Shin-Hotaka) in Takayama city, reached from central Takayama on Route 158 towards Hirayu, roughly an hour by car in good weather. Many ryokan there accept day visitors (日帰り入浴) in set afternoon hours, and many have a private family bath (貸切風呂) booked by time slot. Towels are usually not included: bring your own or buy or rent one at reception. In December the mountain roads are snowy and freeze at dusk; winter tyres are essential and Hida rental cars normally have them in winter. Check before you go: day-visit hours, closing days, prices, and whether day visitors can book the private bath change per ryokan and season, so phone on the day as in this kaiwa. Fill up before leaving Takayama."
+  },
+  {
+   "label": "New words:",
+   "text": "日帰り入浴 ひがえりにゅうよく day-visit bathing · 受付 うけつけ reception · 国道 こくどう national road · 平湯 ひらゆ Hirayu · 凍る こおる freeze · 除雪車 じょせつしゃ snowplough · 冬用 ふゆよう for winter · スタッドレスタイヤ studless winter tyre · チェーン snow chains · 貸切風呂 かしきりぶろ private bath · 露天風呂 ろてんぶろ outdoor bath · 楽しみ たのしみ looking forward · 間に合う まにあう be in time · 早めに はやめに a bit early · 雪道 ゆきみち snowy road · 満タン まんタン full tank"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "やっております we are open (humble) · ございます we have (polite) · 少々お待ちください one moment, please · お待たせしました sorry to keep you waiting · 空いております it is free · 入っておりません it isn't included · お電話ください please call · ～様 Mr/Ms · お気をつけてお越しください please come safely"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "できるかどうか / 凍っていないかどうか / あるかどうか / 空いているかどうか / 入っているかどうか, 何時まで入れるか / どの道を通ればいいか, 入ってみてください / 入ってみます / 行ってみます, 大きさ (L40) · 雪で, ので / なので (L39) · 入るのは初めて (L38) · 間に合うように (L36) · 通ればいい, それなら / 三時からなら (L35) · ～と (L23) · ～でしょう / ～たほうがいい (L32) · つもり (L31) · 借りておきました (L30) · 見ながら (L28) · ～んですが / ～ていただけませんか (L26) · もし～たら (L25)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "奥飛騨 → 宇奈月温泉（うなづきおんせん, Toyama）· 三時から → 二時半から · タオル → シャンプー · 車で → バスで（濃飛バス のうひバス）"
+  }
+ ]
+}

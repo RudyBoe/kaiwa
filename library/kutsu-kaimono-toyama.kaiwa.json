@@ -1,0 +1,269 @@
+{
+ "format": "kaiwa/1",
+ "id": "kutsu-kaimono-toyama",
+ "kind": "dialogue",
+ "page_title": "Kutsu Kaimono Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 靴屋で",
+ "title": "雪の日の靴",
+ "subtitle": "Buying snow boots in Toyama",
+ "scene": "A shoe shop in Toyama in December. Snow is forecast, and a traveller in ordinary city shoes asks a shop assistant for boots that won't slip.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 40,
+  "focus": [
+   36,
+   40
+  ]
+ },
+ "meta": "Minna L1–40, focus L36–40. Beyond L40: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "shopping",
+  "shoes",
+  "snow",
+  "tax-free",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Customer"
+  },
+  {
+   "id": "B",
+   "ja": "店員",
+   "en": "Shop assistant"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃいませ。",
+   "kana": "いらっしゃいませ。",
+   "en": "Welcome.",
+   "kw": "いらっしゃいませ"
+  },
+  {
+   "who": "A",
+   "ja": "すみません、雪の日にどんな靴をはいたらいいか、教えていただけませんか。",
+   "kana": "すみません、ゆきのひにどんなくつをはいたらいいか、おしえていただけませんか。",
+   "en": "Excuse me, could you tell me what kind of shoes I should wear on snowy days?",
+   "kw": "どんな靴・はいたらいいか・教えていただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "雪用の靴ですね。こちらは底が特別なゴムなので、氷の上でも滑りません。",
+   "kana": "ゆきようのくつですね。こちらはそこがとくべつなゴムなので、こおりのうえでもすべりません。",
+   "en": "Snow boots, then. These have soles of a special rubber, so they don't slip even on ice.",
+   "kw": "雪用の靴・底・ゴムなので・滑りません"
+  },
+  {
+   "who": "A",
+   "ja": "いいですね。雪の多い町を歩くのは初めてなので、こういう靴が欲しかったんです。",
+   "kana": "いいですね。ゆきのおおいまちをあるくのははじめてなので、こういうくつがほしかったんです。",
+   "en": "Great. It's my first time walking around a town with this much snow, so this is just what I wanted.",
+   "kw": "歩くのは初めて・なので・欲しかった"
+  },
+  {
+   "who": "B",
+   "ja": "この黒い靴は、富山の人によく買われていますよ。",
+   "kana": "このくろいくつは、とやまのひとによくかわれていますよ。",
+   "en": "These black ones are very popular with people in Toyama.",
+   "kw": "黒い靴・よく買われている"
+  },
+  {
+   "who": "A",
+   "ja": "はいてみてもいいですか。",
+   "kana": "はいてみてもいいですか。",
+   "en": "May I try them on?",
+   "kw": "はいてみてもいい"
+  },
+  {
+   "who": "B",
+   "ja": "どうぞ。サイズはいくつですか。",
+   "kana": "どうぞ。サイズはいくつですか。",
+   "en": "Please do. What size are you?",
+   "kw": "サイズ・いくつ"
+  },
+  {
+   "who": "A",
+   "ja": "ベルギーでは四十三ですが、日本のサイズはいくつか、わかりません。",
+   "kana": "ベルギーではよんじゅうさんですが、にほんのサイズはいくつか、わかりません。",
+   "en": "In Belgium I'm a 43, but I don't know what that is in Japanese sizes.",
+   "kw": "四十三・日本のサイズ・いくつか"
+  },
+  {
+   "who": "B",
+   "ja": "日本では、足の長さをセンチで言います。測ってみましょう。……二十七センチですね。",
+   "kana": "にほんでは、あしのながさをセンチでいいます。はかってみましょう。……にじゅうななセンチですね。",
+   "en": "In Japan we give the length of the foot in centimetres. Let's measure… Twenty-seven centimetres.",
+   "kw": "足の長さ・センチ・測ってみましょう"
+  },
+  {
+   "who": "A",
+   "ja": "二十七センチですね。サイズが合うかどうか、はいてみます。",
+   "kana": "にじゅうななセンチですね。サイズがあうかどうか、はいてみます。",
+   "en": "Twenty-seven, OK. I'll try them on and see whether the size fits.",
+   "kw": "合うかどうか・はいてみます"
+  },
+  {
+   "who": "B",
+   "ja": "いかがですか。",
+   "kana": "いかがですか。",
+   "en": "How are they?",
+   "kw": "いかが"
+  },
+  {
+   "who": "A",
+   "ja": "冬は厚い靴下をはくので、少し小さいです。もう少し大きいのはありますか。",
+   "kana": "ふゆはあついくつしたをはくので、すこしちいさいです。もうすこしおおきいのはありますか。",
+   "en": "I wear thick socks in winter, so they're a bit small. Do you have a slightly bigger pair?",
+   "kw": "厚い靴下・はくので・大きいの"
+  },
+  {
+   "who": "B",
+   "ja": "では、二十七・五センチをはいてみてください。",
+   "kana": "では、にじゅうななてんごセンチをはいてみてください。",
+   "en": "Then try the 27.5.",
+   "kw": "二十七・五・はいてみてください"
+  },
+  {
+   "who": "A",
+   "ja": "……ちょうどいいです。店の中を少し歩いてみてもいいですか。",
+   "kana": "……ちょうどいいです。みせのなかをすこしあるいてみてもいいですか。",
+   "en": "…These are just right. May I walk around the shop a little?",
+   "kw": "ちょうどいい・歩いてみてもいい"
+  },
+  {
+   "who": "B",
+   "ja": "どうぞ、どうぞ。",
+   "kana": "どうぞ、どうぞ。",
+   "en": "Go ahead.",
+   "kw": "どうぞ"
+  },
+  {
+   "who": "A",
+   "ja": "軽くて、いいですね。この靴は水に強いかどうか、わかりますか。",
+   "kana": "かるくて、いいですね。このくつはみずにつよいかどうか、わかりますか。",
+   "en": "They're light, nice. Do you know whether they're waterproof?",
+   "kw": "軽くて・水に強いかどうか"
+  },
+  {
+   "who": "B",
+   "ja": "はい、雪がとけても、中はぬれません。富山の雪は重くて、水が多いので、大切ですよ。",
+   "kana": "はい、ゆきがとけても、なかはぬれません。とやまのゆきはおもくて、みずがおおいので、たいせつですよ。",
+   "en": "Yes, even when the snow melts, the inside stays dry. Toyama snow is heavy and wet, so that matters.",
+   "kw": "とけても・ぬれません・水が多いので"
+  },
+  {
+   "who": "A",
+   "ja": "ベルギーは雨が多いので、国へ帰ってからも使えるかどうか、知りたいんですが。",
+   "kana": "ベルギーはあめがおおいので、くにへかえってからもつかえるかどうか、しりたいんですが。",
+   "en": "It rains a lot in Belgium, so I'd like to know whether I can use them back home too.",
+   "kw": "雨が多いので・帰ってからも・使えるかどうか"
+  },
+  {
+   "who": "B",
+   "ja": "もちろん使えますよ。寒さにも強いですから、ヨーロッパの冬にもいいと思います。",
+   "kana": "もちろんつかえますよ。さむさにもつよいですから、ヨーロッパのふゆにもいいとおもいます。",
+   "en": "Of course. They also stand up well to the cold, so they should be good for a European winter too.",
+   "kw": "もちろん・寒さにも強い・ヨーロッパの冬"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、これにします。免税で買えるかどうか、教えていただけませんか。",
+   "kana": "じゃ、これにします。めんぜいでかえるかどうか、おしえていただけませんか。",
+   "en": "Then I'll take these. Could you tell me whether I can buy them tax-free?",
+   "kw": "これにします・免税・買えるかどうか"
+  },
+  {
+   "who": "B",
+   "ja": "はい、免税の手続きができます。パスポートをお持ちですか。",
+   "kana": "はい、めんぜいのてつづきができます。パスポートをおもちですか。",
+   "en": "Yes, we can do the tax-free procedure. Do you have your passport with you?",
+   "kw": "免税の手続き・パスポート・お持ちですか"
+  },
+  {
+   "who": "A",
+   "ja": "はい、どうぞ。ちょうどいい靴が見つかって、よかったです。",
+   "kana": "はい、どうぞ。ちょうどいいくつがみつかって、よかったです。",
+   "en": "Here you are. I'm glad I found shoes that fit just right.",
+   "kw": "見つかって・よかった"
+  },
+  {
+   "who": "B",
+   "ja": "ありがとうございます。雪の日は、転ばないように、ゆっくり歩いてくださいね。",
+   "kana": "ありがとうございます。ゆきのひは、ころばないように、ゆっくりあるいてくださいね。",
+   "en": "Thank you. On snowy days, walk slowly so you don't fall.",
+   "kw": "転ばないように・ゆっくり歩く"
+  },
+  {
+   "who": "A",
+   "ja": "はい、気をつけます。明日、雪の中を歩いてみます。",
+   "kana": "はい、きをつけます。あした、ゆきのなかをあるいてみます。",
+   "en": "I will. Tomorrow I'll try them out in the snow.",
+   "kw": "気をつけます・雪の中・歩いてみます"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 21: ask whether to put the boots in a box.",
+   "ja": "箱に入れましょうか。",
+   "kana": "はこにいれましょうか。",
+   "reply_ja": "いいえ、箱は要りません。袋だけでいいです。",
+   "reply_kana": "いいえ、はこはいりません。ふくろだけでいいです。",
+   "reply_en": "No, I don't need the box. Just a bag is fine."
+  },
+  {
+   "by": "B",
+   "en": "After line 17: recommend a waterproofing spray.",
+   "ja": "このスプレーを使うと、もっと水に強くなりますよ。いかがですか。",
+   "kana": "このスプレーをつかうと、もっとみずにつよくなりますよ。いかがですか。",
+   "reply_ja": "いくらですか。安かったら、一緒に買ってみます。",
+   "reply_kana": "いくらですか。やすかったら、いっしょにかってみます。",
+   "reply_en": "How much is it? If it's cheap, I'll give it a try and buy it too."
+  },
+  {
+   "by": "A",
+   "en": "After line 16: ask how heavy the boots are.",
+   "ja": "重さはどのくらいですか。スーツケースに入れて、持って帰りたいんですが。",
+   "kana": "おもさはどのくらいですか。スーツケースにいれて、もってかえりたいんですが。",
+   "reply_ja": "あまり重くないですよ。量ってみましょうか。",
+   "reply_kana": "あまりおもくないですよ。はかってみましょうか。",
+   "reply_en": "They're not very heavy. Shall I weigh them?"
+  },
+  {
+   "by": "A",
+   "en": "After line 05: ask whether there are other colours.",
+   "ja": "ほかの色があるかどうか、見てもいいですか。",
+   "kana": "ほかのいろがあるかどうか、みてもいいですか。",
+   "reply_ja": "はい、茶色と白もございます。こちらへどうぞ。",
+   "reply_kana": "はい、ちゃいろとしろもございます。こちらへどうぞ。",
+   "reply_en": "Yes, we also have brown and white. This way, please."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Toyama faces the Sea of Japan, and its snow is heavy and wet, so locals wear waterproof winter boots with anti-slip rubber soles (滑り止め); shoe shops and big stores stock them from late autumn. How much snow falls in the city in December varies from year to year. Japanese shoe sizes are the foot length in centimetres: EU 43 is about 27–27.5 cm, and with thick socks many people go half a size up. Tax-free shopping: visitors on a short-term stay can buy tax-free at shops showing a Tax-Free sign, usually above a minimum amount and only with the passport. Japan announced a change to a refund system from November 2026 (you pay the tax and get it back when you leave), so check before you go how it works at the time of your trip and keep the receipts."
+  },
+  {
+   "label": "New words:",
+   "text": "靴 くつ shoes · はく put on (shoes, socks) · 雪用 ゆきよう for snow · 底 そこ sole · 特別 とくべつ special · ゴム rubber · 氷 こおり ice · 滑る すべる slip · 長さ ながさ length · 測る はかる measure · 合う あう fit · 厚い あつい thick · 靴下 くつした socks · ちょうどいい just right · 水に強い みずにつよい waterproof · とける melt · ぬれる get wet · 寒さ さむさ cold · 免税 めんぜい tax-free · 手続き てつづき procedure · 見つかる みつかる be found · 転ぶ ころぶ fall over"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "いらっしゃいませ welcome · いかがですか how are they? · お持ちですか do you have · ございます we have (polite) · こちらへどうぞ this way, please"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "どんな靴をはいたらいいか / いくつか, 合うかどうか / 水に強いかどうか / 使えるかどうか / 買えるかどうか, はいてみてもいい / 測ってみましょう / はいてみます / 歩いてみます, 長さ / 寒さ (L40) · ～ので / 軽くて / 見つかって、よかった (L39) · 歩くのは初めて (L38) · よく買われています (L37) · 転ばないように (L36) · ～ても (L25) · ～んですが / ～ていただけませんか (L26) · 使える / 買える (L27)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "靴 → 手袋（てぶくろ）· 四十三 → 三十八（にじゅうよんセンチ）· 黒 → 茶色（ちゃいろ）· 富山 → 高山（たかやま）"
+  }
+ ]
+}
