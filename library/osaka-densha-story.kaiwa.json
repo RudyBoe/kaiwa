@@ -1,0 +1,243 @@
+{
+ "format": "kaiwa/1",
+ "id": "osaka-densha-story",
+ "kind": "story",
+ "page_title": "Osaka Ichinichi Monogatari",
+ "eyebrow": "Story · N4 · 大阪で",
+ "title": "踏まれて、ほめられて",
+ "subtitle": "A day in Osaka: stepped on, praised and invited",
+ "scene": "Back at the rental house in the evening, a traveller tells a friend about his day in Osaka, from the crowded morning train to takoyaki in Dōtonbori.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 37,
+  "focus": [
+   33,
+   37
+  ]
+ },
+ "meta": "Minna L1–37, focus L33–37. Beyond L37: none.",
+ "tags": [
+  "city",
+  "train",
+  "castle",
+  "food",
+  "osaka"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "先週の土曜日、一人で大阪へ遊びに行きました。",
+   "kana": "せんしゅうのどようび、ひとりでおおさかへあそびにいきました。",
+   "en": "Last Saturday I went to Osaka on my own for the day.",
+   "kw": "土曜日・一人で・遊びに行く"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "朝の電車はとても混んでいましたから、となりの人に足を踏まれました。",
+   "kana": "あさのでんしゃはとてもこんでいましたから、となりのひとにあしをふまれました。",
+   "en": "The morning train was really crowded, so the person next to me stepped on my foot.",
+   "kw": "混んでいた・となりの人に・足を踏まれた"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "駅を出たとき、知らない人に英語で道を聞かれました。わたしも旅行者ですが、地図を見ながら教えました。",
+   "kana": "えきをでたとき、しらないひとにえいごでみちをきかれました。わたしもりょこうしゃですが、ちずをみながらおしえました。",
+   "en": "When I left the station, a stranger asked me the way in English. I'm a tourist too, but I looked at the map and told him.",
+   "kw": "知らない人に・英語で・道を聞かれた"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "大阪城の案内には、「今の天守閣は1931年に建てられました」と書いてありました。",
+   "kana": "おおさかじょうのあんないには、「いまのてんしゅかくはせんきゅうひゃくさんじゅういちねんにたてられました」とかいてありました。",
+   "en": "The sign at Osaka Castle said, \"The present keep was built in 1931.\"",
+   "kw": "案内・天守閣・1931年・建てられた"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "最初のお城は、1583年から豊臣秀吉によって建てられたと書いてありました。",
+   "kana": "さいしょのおしろは、せんごひゃくはちじゅうさんねんからとよとみひでよしによってたてられたとかいてありました。",
+   "en": "It said the first castle was built by Toyotomi Hideyoshi, starting in 1583.",
+   "kw": "最初のお城・1583年・豊臣秀吉によって"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "天守閣の前で、小学生ぐらいの男の子に「どこから来ましたか」と聞かれました。",
+   "kana": "てんしゅかくのまえで、しょうがくせいぐらいのおとこのこに「どこからきましたか」ときかれました。",
+   "en": "In front of the keep, a boy of about primary-school age asked me, \"Where are you from?\"",
+   "kw": "男の子に・どこから・聞かれた"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "「ベルギーです」と答えたら、「日本語が上手ですね」とほめられました。うれしかったです。",
+   "kana": "「ベルギーです」とこたえたら、「にほんごがじょうずですね」とほめられました。うれしかったです。",
+   "en": "When I answered \"Belgium,\" he praised me: \"Your Japanese is good!\" I was happy.",
+   "kw": "答えたら・日本語が上手・ほめられた"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "それから、外国から来た家族に写真を頼まれましたから、四人の写真を撮ってあげました。",
+   "kana": "それから、がいこくからきたかぞくにしゃしんをたのまれましたから、よにんのしゃしんをとってあげました。",
+   "en": "Then a family from abroad asked me to take a photo, so I took one of the four of them.",
+   "kw": "家族に・写真を頼まれた・撮ってあげた"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "お城を見たあとで、道頓堀へ行きました。歩いていたら、たこ焼き屋のおじさんに「食べて行かない？」と誘われました。",
+   "kana": "おしろをみたあとで、どうとんぼりへいきました。あるいていたら、たこやきやのおじさんに「たべていかない？」とさそわれました。",
+   "en": "After the castle I went to Dōtonbori. As I was walking, the man at a takoyaki stall called out, \"Why not stop and eat?\"",
+   "kw": "見たあとで・道頓堀・おじさんに・誘われた"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "雨が降っていましたから、傘を店の前に置いて、中で食べました。",
+   "kana": "あめがふっていましたから、かさをみせのまえにおいて、なかでたべました。",
+   "en": "It was raining, so I left my umbrella in front of the shop and ate inside.",
+   "kw": "雨・傘を置いて・中で食べる"
+  },
+  {
+   "n": "11",
+   "who": "A",
+   "ja": "でも、食べているとき、だれかに傘を持って行かれました。",
+   "kana": "でも、たべているとき、だれかにかさをもっていかれました。",
+   "en": "But while I was eating, somebody walked off with my umbrella.",
+   "kw": "食べているとき・だれかに・傘を持って行かれた"
+  },
+  {
+   "n": "12",
+   "who": "A",
+   "ja": "わたしが困っていたら、おじさんが店の古い傘をくれました。",
+   "kana": "わたしがこまっていたら、おじさんがみせのふるいかさをくれました。",
+   "en": "While I was standing there at a loss, the man gave me an old umbrella from the shop.",
+   "kw": "困っていたら・古い傘・くれた"
+  },
+  {
+   "n": "13",
+   "who": "A",
+   "ja": "足を踏まれたり、傘を持って行かれたりしましたが、大阪の人は親切で、いい一日でした。",
+   "kana": "あしをふまれたり、かさをもっていかれたりしましたが、おおさかのひとはしんせつで、いいいちにちでした。",
+   "en": "I got my foot stepped on and my umbrella taken, but the people of Osaka were kind, and it was a good day.",
+   "kw": "踏まれたり・持って行かれたり・親切・いい一日"
+  },
+  {
+   "n": "14",
+   "who": "A",
+   "ja": "これからは、傘を店の中に持って入るようにします。",
+   "kana": "これからは、かさをみせのなかにもってはいるようにします。",
+   "en": "From now on I'll make sure to take my umbrella into the shop with me.",
+   "kw": "これから・持って入る・ようにする"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "いつ、どこへ行きましたか。",
+   "kana": "いつ、どこへいきましたか。",
+   "en": "When and where did you go?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "朝の電車で何をされましたか。",
+   "kana": "あさのでんしゃでなにをされましたか。",
+   "en": "What happened to you on the morning train?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "駅を出たとき、何を聞かれましたか。",
+   "kana": "えきをでたとき、なにをきかれましたか。",
+   "en": "What were you asked when you left the station?",
+   "answer": "03"
+  },
+  {
+   "by": "B",
+   "ja": "今の天守閣はいつ建てられましたか。",
+   "kana": "いまのてんしゅかくはいつたてられましたか。",
+   "en": "When was the present keep built?",
+   "answer": "04"
+  },
+  {
+   "by": "B",
+   "ja": "最初のお城はだれによって建てられましたか。",
+   "kana": "さいしょのおしろはだれによってたてられましたか。",
+   "en": "Who built the first castle?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "男の子に何と聞かれましたか。",
+   "kana": "おとこのこになんときかれましたか。",
+   "en": "What did the boy ask you?",
+   "answer": "06"
+  },
+  {
+   "by": "B",
+   "ja": "「ベルギーです」と答えたら、何と言われましたか。",
+   "kana": "「ベルギーです」とこたえたら、なんといわれましたか。",
+   "en": "When you answered \"Belgium,\" what were you told?",
+   "answer": "07"
+  },
+  {
+   "by": "B",
+   "ja": "外国から来た家族に何を頼まれましたか。",
+   "kana": "がいこくからきたかぞくになにをたのまれましたか。",
+   "en": "What did the family from abroad ask you to do?",
+   "answer": "08"
+  },
+  {
+   "by": "B",
+   "ja": "道頓堀でだれに誘われましたか。",
+   "kana": "どうとんぼりでだれにさそわれましたか。",
+   "en": "Who invited you in, in Dōtonbori?",
+   "answer": "09"
+  },
+  {
+   "by": "B",
+   "ja": "食べているとき、傘はどうなりましたか。",
+   "kana": "たべているとき、かさはどうなりましたか。",
+   "en": "What happened to your umbrella while you were eating?",
+   "answer": "11"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Osaka Castle (大阪城) was begun by Toyotomi Hideyoshi in 1583. His castle was destroyed in 1615, rebuilt by the Tokugawa, and its keep later burned down; the present keep (天守閣) was rebuilt in 1931 in concrete, paid for by donations from Osaka citizens, and is now a museum with a lift inside. The nearest stations are Ōsakajō-kōen and Morinomiya on the JR Osaka Loop Line. Weekday rush hour (roughly 7:30–9:30) is the most crowded; many lines have women-only cars in the morning. Dōtonbori (道頓堀) is the canal-side street in Namba known for takoyaki and street food, where stall staff often call out to passers-by. Plastic umbrellas left in stands outside shops are easily taken by mistake, so many people keep theirs with them. Castle opening hours and fees: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "混む こむ be crowded · 踏む ふむ step on · 旅行者 りょこうしゃ traveller · 案内 あんない information sign · 天守閣 てんしゅかく castle keep · 最初 さいしょ first · 豊臣秀吉 とよとみひでよし · 小学生 しょうがくせい primary-school pupil · ほめる praise · 頼む たのむ ask, request · 道頓堀 どうとんぼり Dōtonbori · たこ焼き屋 たこやきや takoyaki stall · 誘う さそう invite · 困る こまる be in trouble · 親切 しんせつ kind"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "足を踏まれました / 傘を持って行かれました (L37, something of mine affected) · 道を聞かれました / ほめられました / 頼まれました / 誘われました (L37, person affected) · 1931年に建てられました / 豊臣秀吉によって建てられた (L37, things as subject) · 持って入るようにします (L36) · 見たあとで (L34) · ～と書いてありました (L33) · 撮ってあげました / くれました (L24) · 答えたら / 歩いていたら / 困っていたら (L25) · 見ながら (L28) · 踏まれたり、持って行かれたり (L19)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "足を踏まれました → かばんを押されました · 大阪城 → 通天閣（つうてんかく）· たこ焼き → お好み焼き（おこのみやき）· 傘 → 自転車（じてんしゃ）"
+  }
+ ]
+}

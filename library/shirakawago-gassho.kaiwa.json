@@ -1,0 +1,255 @@
+{
+ "format": "kaiwa/1",
+ "id": "shirakawago-gassho",
+ "kind": "dialogue",
+ "page_title": "Shirakawago Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 合掌造りの家で",
+ "title": "合掌造りの家",
+ "subtitle": "Inside a thatched gasshō house in Shirakawa-go",
+ "scene": "A cold morning in Ogimachi, Shirakawa-go. A traveller steps into a gasshō-zukuri farmhouse that is open to visitors, and a local who looks after it shows him round.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 37,
+  "focus": [
+   33,
+   37
+  ]
+ },
+ "meta": "Minna L1–37, focus L33–37. Beyond L37: none.",
+ "tags": [
+  "village",
+  "history",
+  "world-heritage",
+  "gifu"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "村の人",
+   "en": "Local"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃい。どうぞ中に入ってください。靴はここで脱いでくださいね。",
+   "kana": "いらっしゃい。どうぞなかにはいってください。くつはここでぬいでくださいね。",
+   "en": "Welcome. Come on in. Please take your shoes off here.",
+   "kw": "中に入る・靴・脱ぐ"
+  },
+  {
+   "who": "A",
+   "ja": "おじゃまします。わあ、広いですね。この家はいつ建てられたんですか。",
+   "kana": "おじゃまします。わあ、ひろいですね。このいえはいつたてられたんですか。",
+   "en": "Excuse me for coming in. Wow, it's spacious. When was this house built?",
+   "kw": "広い・いつ・建てられた"
+  },
+  {
+   "who": "B",
+   "ja": "二百年ぐらい前に建てられました。この村には、二百年から三百年前に建てられた家がたくさんあります。",
+   "kana": "にひゃくねんぐらいまえにたてられました。このむらには、にひゃくねんからさんびゃくねんまえにたてられたいえがたくさんあります。",
+   "en": "About two hundred years ago. In this village there are lots of houses built two to three hundred years ago.",
+   "kw": "二百年前・建てられた家・たくさん"
+  },
+  {
+   "who": "A",
+   "ja": "屋根は何で造られていますか。",
+   "kana": "やねはなにでつくられていますか。",
+   "en": "What is the roof made of?",
+   "kw": "屋根・何で・造られている"
+  },
+  {
+   "who": "B",
+   "ja": "かやという草で造られています。それから、この家には釘が一本も使われていないんですよ。",
+   "kana": "かやというくさでつくられています。それから、このいえにはくぎがいっぽんもつかわれていないんですよ。",
+   "en": "It's made of a grass called kaya. And not a single nail was used in this house.",
+   "kw": "かやという草で・造られている・釘・使われていない"
+  },
+  {
+   "who": "A",
+   "ja": "えっ、釘がなくても大丈夫なんですか。",
+   "kana": "えっ、くぎがなくてもだいじょうぶなんですか。",
+   "en": "What? Is it all right without nails?",
+   "kw": "釘がなくても・大丈夫"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。木と木は縄で強く結ばれていますから、大丈夫です。",
+   "kana": "ええ。きときはなわでつよくむすばれていますから、だいじょうぶです。",
+   "en": "Yes. The timbers are tied tightly together with rope, so it's fine.",
+   "kw": "縄で・結ばれている"
+  },
+  {
+   "who": "A",
+   "ja": "屋根がとても急ですね。どうしてこんな形なんですか。",
+   "kana": "やねがとてもきゅうですね。どうしてこんなかたちなんですか。",
+   "en": "The roof is really steep. Why is it this shape?",
+   "kw": "急・どうして・形"
+  },
+  {
+   "who": "B",
+   "ja": "冬は雪がたくさん降りますから、雪が自然に落ちるように、屋根を急にしてあるんです。",
+   "kana": "ふゆはゆきがたくさんふりますから、ゆきがしぜんにおちるように、やねをきゅうにしてあるんです。",
+   "en": "It snows a lot in winter, so the roof has been made steep so the snow slides off by itself.",
+   "kw": "雪・自然に落ちるように・急にしてある"
+  },
+  {
+   "who": "A",
+   "ja": "「合掌造り」という名前は、手を合わせた形から来ているんですか。",
+   "kana": "「がっしょうづくり」というなまえは、てをあわせたかたちからきているんですか。",
+   "en": "Does the name gasshō-zukuri come from the shape of hands pressed together?",
+   "kw": "合掌造りという名前・手を合わせた形"
+  },
+  {
+   "who": "B",
+   "ja": "そうです。よく知っていますね。",
+   "kana": "そうです。よくしっていますね。",
+   "en": "That's right. You know a lot!",
+   "kw": "よく知っている"
+  },
+  {
+   "who": "A",
+   "ja": "上の階は、昔、何に使われていましたか。",
+   "kana": "うえのかいは、むかし、なににつかわれていましたか。",
+   "en": "What were the upper floors used for in the old days?",
+   "kw": "上の階・何に・使われていた"
+  },
+  {
+   "who": "B",
+   "ja": "蚕が育てられていました。蚕の糸から絹が造られますから、大切な仕事でした。",
+   "kana": "かいこがそだてられていました。かいこのいとからきぬがつくられますから、たいせつなしごとでした。",
+   "en": "Silkworms were raised there. Silk is made from silkworm thread, so it was important work.",
+   "kw": "蚕・育てられていた・糸から絹が造られる"
+  },
+  {
+   "who": "A",
+   "ja": "屋根は何年ぐらいで新しくしなければなりませんか。",
+   "kana": "やねはなんねんぐらいであたらしくしなければなりませんか。",
+   "en": "After how many years does the roof have to be redone?",
+   "kw": "何年ぐらいで・新しくしなければならない"
+  },
+  {
+   "who": "B",
+   "ja": "三十年から四十年ぐらいです。そのときは、村の人たちが集まって、みんなでかやを替えます。",
+   "kana": "さんじゅうねんからよんじゅうねんぐらいです。そのときは、むらのひとたちがあつまって、みんなでかやをかえます。",
+   "en": "About every thirty to forty years. Then the villagers gather and replace the thatch together.",
+   "kw": "三十年から四十年・集まって・みんなで替える"
+  },
+  {
+   "who": "A",
+   "ja": "村のみんなでするんですか。すごいですね。",
+   "kana": "むらのみんなでするんですか。すごいですね。",
+   "en": "The whole village does it? That's amazing.",
+   "kw": "村のみんなで・するんですか"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。この助け合いは「結」と呼ばれています。昔から続いているんですよ。",
+   "kana": "ええ。このたすけあいは「ゆい」とよばれています。むかしからつづいているんですよ。",
+   "en": "Yes. This helping each other is called yui. It has gone on since long ago.",
+   "kw": "助け合い・結と呼ばれている・続いている"
+  },
+  {
+   "who": "A",
+   "ja": "白川郷はいつ世界遺産に選ばれたんですか。",
+   "kana": "しらかわごうはいつせかいいさんにえらばれたんですか。",
+   "en": "When was Shirakawa-go chosen as a World Heritage Site?",
+   "kw": "世界遺産・いつ・選ばれた"
+  },
+  {
+   "who": "B",
+   "ja": "1995年に、富山県の五箇山といっしょに選ばれました。それから、世界中から観光客が来るようになりました。",
+   "kana": "せんきゅうひゃくきゅうじゅうごねんに、とやまけんのごかやまといっしょにえらばれました。それから、せかいじゅうからかんこうきゃくがくるようになりました。",
+   "en": "In 1995, together with Gokayama in Toyama. Since then, tourists have started coming from all over the world.",
+   "kw": "1995年・五箇山といっしょに・選ばれた・来るようになった"
+  },
+  {
+   "who": "A",
+   "ja": "冬のライトアップも有名だと聞きました。十二月に見られますか。",
+   "kana": "ふゆのライトアップもゆうめいだとききました。じゅうにがつにみられますか。",
+   "en": "I heard the winter light-up is famous too. Can I see it in December?",
+   "kw": "ライトアップ・有名だと聞いた・見られる"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、ライトアップは一月と二月の何日かだけです。予約しなければなりませんから、気をつけてください。",
+   "kana": "いいえ、ライトアップはいちがつとにがつのなんにちかだけです。よやくしなければなりませんから、きをつけてください。",
+   "en": "No, the light-up is only on a few days in January and February. You have to book, so be careful.",
+   "kw": "一月と二月・何日かだけ・予約しなければならない"
+  },
+  {
+   "who": "A",
+   "ja": "そうですか。十二月なら、もう雪がありますか。",
+   "kana": "そうですか。じゅうにがつなら、もうゆきがありますか。",
+   "en": "I see. In December, will there already be snow?",
+   "kw": "十二月なら・もう・雪"
+  },
+  {
+   "who": "B",
+   "ja": "たぶんあるでしょう。雪があれば、ライトアップがなくても、とてもきれいですよ。",
+   "kana": "たぶんあるでしょう。ゆきがあれば、ライトアップがなくても、とてもきれいですよ。",
+   "en": "Probably. If there's snow, it's very beautiful even without the light-up.",
+   "kw": "たぶん・雪があれば・なくても"
+  },
+  {
+   "who": "A",
+   "ja": "楽しみです。今日はどうもありがとうございました。",
+   "kana": "たのしみです。きょうはどうもありがとうございました。",
+   "en": "I'm looking forward to it. Thank you very much for today.",
+   "kw": "楽しみ・ありがとう"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 07: the local invites you to the open hearth.",
+   "ja": "囲炉裏のそばへどうぞ。この火の煙で、屋根のかやが虫から守られているんですよ。",
+   "kana": "いろりのそばへどうぞ。このひのけむりで、やねのかやがむしからまもられているんですよ。",
+   "reply_ja": "そうですか。煙も大切なんですね。暖かいです。",
+   "reply_kana": "そうですか。けむりもたいせつなんですね。あたたかいです。",
+   "reply_en": "Really? So the smoke matters too. It's warm."
+  },
+  {
+   "by": "B",
+   "en": "At the end: a warning about the other houses.",
+   "ja": "村の家には今も人が住んでいますから、勝手に入らないでくださいね。",
+   "kana": "むらのいえにはいまもひとがすんでいますから、かってにはいらないでくださいね。",
+   "reply_ja": "わかりました。外から写真を撮るだけにします。",
+   "reply_kana": "わかりました。そとからしゃしんをとるだけにします。",
+   "reply_en": "Understood. I'll just take photos from outside."
+  },
+  {
+   "by": "A",
+   "en": "After line 19: ask about the viewpoint above the village.",
+   "ja": "展望台から村が見えますか。",
+   "kana": "てんぼうだいからむらがみえますか。",
+   "reply_ja": "ええ、村が全部見えますよ。天気がよければ、ぜひ行ってください。",
+   "reply_kana": "ええ、むらがぜんぶみえますよ。てんきがよければ、ぜひいってください。",
+   "reply_en": "Yes, you can see the whole village. If the weather's good, do go."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Ogimachi (荻町) in Shirakawa-go, Gifu, and the Gokayama villages in Toyama were inscribed together as a UNESCO World Heritage Site in 1995. Their gasshō-zukuri (合掌造り) farmhouses, many of them two to three hundred years old, have steep thatched roofs shaped like hands pressed together in prayer, so the heavy snow slides off. The frames are tied with rope and straw cord instead of nails, the large upper floors were used for raising silkworms, and smoke from the open hearth (囲炉裏) helps protect the thatch from insects. A roof is re-thatched every few decades by the whole community working together, a custom called yui (結). Several houses are open to visitors for a small fee; most others are private homes. The winter light-up is held on a few evenings in January–February and needs a reservation: dates, booking and opening hours change every year, so check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "合掌造り がっしょうづくり gasshō-style house · かや thatching grass · 草 くさ grass · 釘 くぎ nail · 縄 なわ rope · 結ぶ むすぶ tie · 急 きゅう steep · 自然に しぜんに by itself · 合わせる あわせる put together · 階 かい floor · 蚕 かいこ silkworm · 育てる そだてる raise · 糸 いと thread · 絹 きぬ silk · 替える かえる replace · 助け合い たすけあい helping each other · 結 ゆい mutual help · 呼ぶ よぶ call · 続く つづく continue · 世界遺産 せかいいさん World Heritage · 五箇山 ごかやま Gokayama · 観光客 かんこうきゃく tourist · 囲炉裏 いろり open hearth · 煙 けむり smoke · 虫 むし insect · 守る まもる protect · 勝手に かってに without permission · 展望台 てんぼうだい viewpoint"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "建てられた / 使われていない / 結ばれている / 使われていた / 育てられていた / 呼ばれている / 選ばれた (L37, things as subject) · かやで造られています / 糸から絹が造られます (L37, material: で visible, から changed) · 落ちるように / 来るようになりました (L36) · 十二月なら / 雪があれば / 天気がよければ (L35) · かやという草 / 合掌造りという名前 (L33) · 急にしてある (L30) · ～でしょう (L32) · 釘がなくても (L25) · ～と聞きました (L21) · ～なければなりません (L17)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "二百年 → 三百年 · かや → わら（straw）· 蚕 → 牛（うし）· 十二月 → 一月"
+  }
+ ]
+}

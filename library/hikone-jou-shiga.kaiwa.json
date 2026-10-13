@@ -1,0 +1,252 @@
+{
+ "format": "kaiwa/1",
+ "id": "hikone-jou-shiga",
+ "kind": "dialogue",
+ "page_title": "Hikone Jou Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 彦根城で",
+ "title": "彦根城を案内してもらう",
+ "subtitle": "A volunteer guide shows you round Hikone Castle",
+ "scene": "A clear morning at Hikone Castle in Shiga. A volunteer guide meets a traveller at the gate and walks with him up to the keep, which looks out over Lake Biwa.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 37,
+  "focus": [
+   33,
+   37
+  ]
+ },
+ "meta": "Minna L1–37, focus L33–37. Beyond L37: none; guide keigo listed under Staff phrases.",
+ "tags": [
+  "castle",
+  "history",
+  "sightseeing",
+  "shiga"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "ガイド",
+   "en": "Volunteer guide"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "彦根城へようこそ。今日はわたしがご案内します。",
+   "kana": "ひこねじょうへようこそ。きょうはわたしがごあんないします。",
+   "en": "Welcome to Hikone Castle. I'll be your guide today.",
+   "kw": "ようこそ・ご案内します"
+  },
+  {
+   "who": "A",
+   "ja": "よろしくお願いします。このお城はいつ建てられたんですか。",
+   "kana": "よろしくおねがいします。このおしろはいつたてられたんですか。",
+   "en": "Nice to meet you. When was this castle built?",
+   "kw": "いつ・建てられた"
+  },
+  {
+   "who": "B",
+   "ja": "江戸時代の初めに、井伊家によって建てられました。二十年ぐらいかかって、1622年ごろ全部できました。",
+   "kana": "えどじだいのはじめに、いいけによってたてられました。にじゅうねんぐらいかかって、せんろっぴゃくにじゅうにねんごろぜんぶできました。",
+   "en": "It was built by the Ii family at the start of the Edo period. It took about twenty years and was all finished around 1622.",
+   "kw": "江戸時代の初め・井伊家によって・建てられた・1622年"
+  },
+  {
+   "who": "A",
+   "ja": "四百年ぐらい前ですね。あの天守も江戸時代に建てられたんですか。",
+   "kana": "よんひゃくねんぐらいまえですね。あのてんしゅもえどじだいにたてられたんですか。",
+   "en": "About four hundred years ago, then. Was that keep built in the Edo period too?",
+   "kw": "四百年・天守・建てられた"
+  },
+  {
+   "who": "B",
+   "ja": "はい。江戸時代の天守が今も残っていて、国宝に指定されています。",
+   "kana": "はい。えどじだいのてんしゅがいまものこっていて、こくほうにしていされています。",
+   "en": "Yes. The Edo-period keep still stands, and it's designated a National Treasure.",
+   "kw": "今も残る・国宝・指定されている"
+  },
+  {
+   "who": "A",
+   "ja": "国宝ですか。国宝のお城はたくさんありますか。",
+   "kana": "こくほうですか。こくほうのおしろはたくさんありますか。",
+   "en": "A National Treasure? Are there many National Treasure castles?",
+   "kw": "国宝のお城・たくさん"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ。天守が国宝に指定されているお城は、日本に五つしかありません。",
+   "kana": "いいえ。てんしゅがこくほうにしていされているおしろは、にほんにいつつしかありません。",
+   "en": "No. There are only five castles in Japan whose keep is a National Treasure.",
+   "kw": "指定されている・五つしかない"
+  },
+  {
+   "who": "A",
+   "ja": "そんなに少ないんですか。それは知りませんでした。",
+   "kana": "そんなにすくないんですか。それはしりませんでした。",
+   "en": "As few as that? I didn't know that.",
+   "kw": "そんなに少ない・知らなかった"
+  },
+  {
+   "who": "B",
+   "ja": "それから、このお城の一部は、ほかのお城から運ばれたと言われています。",
+   "kana": "それから、このおしろのいちぶは、ほかのおしろからはこばれたといわれています。",
+   "en": "And it's said that parts of this castle were brought from other castles.",
+   "kw": "一部・ほかのお城から・運ばれた・言われている"
+  },
+  {
+   "who": "A",
+   "ja": "えっ、お城を運んだんですか。どこから運ばれたんですか。",
+   "kana": "えっ、おしろをはこんだんですか。どこからはこばれたんですか。",
+   "en": "What, they moved a castle? Where was it brought from?",
+   "kw": "運んだんですか・どこから"
+  },
+  {
+   "who": "B",
+   "ja": "天守は大津城から、あの天秤櫓は長浜城から運ばれたと言われています。",
+   "kana": "てんしゅはおおつじょうから、あのてんびんやぐらはながはまじょうからはこばれたといわれています。",
+   "en": "The keep is said to have come from Ōtsu Castle, and that Tenbin turret over there from Nagahama Castle.",
+   "kw": "大津城・天秤櫓・長浜城・運ばれた"
+  },
+  {
+   "who": "A",
+   "ja": "明治時代に、たくさんのお城が壊されたと聞きましたが、このお城は大丈夫でしたか。",
+   "kana": "めいじじだいに、たくさんのおしろがこわされたとききましたが、このおしろはだいじょうぶでしたか。",
+   "en": "I heard lots of castles were pulled down in the Meiji era. Was this one all right?",
+   "kw": "明治時代・壊された・と聞いた"
+  },
+  {
+   "who": "B",
+   "ja": "はい、このお城は壊されませんでした。ですから、江戸時代のお城を今も見ることができます。",
+   "kana": "はい、このおしろはこわされませんでした。ですから、えどじだいのおしろをいまもみることができます。",
+   "en": "Yes, this castle wasn't pulled down. That's why you can still see an Edo-period castle today.",
+   "kw": "壊されなかった・今も・見ることができる"
+  },
+  {
+   "who": "A",
+   "ja": "よかったですね。あ、あそこにいる白い猫は何ですか。",
+   "kana": "よかったですね。あ、あそこにいるしろいねこはなんですか。",
+   "en": "That's lucky. Oh, what's that white cat over there?",
+   "kw": "白い猫・何"
+  },
+  {
+   "who": "B",
+   "ja": "「ひこにゃん」です。お城の四百年のお祭りのときに作られて、今はとても人気があります。",
+   "kana": "「ひこにゃん」です。おしろのよんひゃくねんのおまつりのときにつくられて、いまはとてもにんきがあります。",
+   "en": "That's Hikonyan. He was created for the castle's 400th-anniversary festival, and now he's very popular.",
+   "kw": "ひこにゃん・お祭りのとき・作られた・人気"
+  },
+  {
+   "who": "A",
+   "ja": "かわいいですね。頭に何をかぶっていますか。",
+   "kana": "かわいいですね。あたまになにをかぶっていますか。",
+   "en": "Cute! What's he wearing on his head?",
+   "kw": "頭・かぶっている"
+  },
+  {
+   "who": "B",
+   "ja": "井伊家の赤いかぶとです。ひこにゃんは、いつも子どもたちに写真を撮られていますよ。",
+   "kana": "いいけのあかいかぶとです。ひこにゃんは、いつもこどもたちにしゃしんをとられていますよ。",
+   "en": "The Ii family's red helmet. Children are always taking photos of Hikonyan.",
+   "kw": "赤いかぶと・子どもたちに・写真を撮られる"
+  },
+  {
+   "who": "A",
+   "ja": "わたしもあとで撮ります。天守に上れば、琵琶湖が見えますか。",
+   "kana": "わたしもあとでとります。てんしゅにのぼれば、びわこがみえますか。",
+   "en": "I'll take one later too. If I go up the keep, can I see Lake Biwa?",
+   "kw": "天守に上れば・琵琶湖・見える"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、見えますよ。でも、中の階段はとても急ですから、落ちないように、気をつけて上ってください。",
+   "kana": "ええ、みえますよ。でも、なかのかいだんはとてもきゅうですから、おちないように、きをつけてのぼってください。",
+   "en": "Yes, you can. But the stairs inside are very steep, so take care going up so you don't fall.",
+   "kw": "階段・急・落ちないように・気をつけて上る"
+  },
+  {
+   "who": "A",
+   "ja": "……わあ、本当に急でした。でも、琵琶湖がきれいに見えますね。",
+   "kana": "……わあ、ほんとうにきゅうでした。でも、びわこがきれいにみえますね。",
+   "en": "…Wow, that really was steep. But you can see Lake Biwa beautifully.",
+   "kw": "本当に急・琵琶湖・きれいに見える"
+  },
+  {
+   "who": "B",
+   "ja": "昔の殿様も、この窓から同じ湖を見ていたでしょう。",
+   "kana": "むかしのとのさまも、このまどからおなじみずうみをみていたでしょう。",
+   "en": "The lords of old probably looked at the same lake from this window.",
+   "kw": "殿様・同じ湖・見ていた・でしょう"
+  },
+  {
+   "who": "A",
+   "ja": "そう考えると、おもしろいですね。今日はどうもありがとうございました。",
+   "kana": "そうかんがえると、おもしろいですね。きょうはどうもありがとうございました。",
+   "en": "Thinking of it like that is fascinating. Thank you very much for today.",
+   "kw": "そう考えると・ありがとう"
+  },
+  {
+   "who": "B",
+   "ja": "どういたしまして。下の玄宮園という庭もきれいですから、ぜひ行ってください。",
+   "kana": "どういたしまして。したのげんきゅうえんというにわもきれいですから、ぜひいってください。",
+   "en": "You're welcome. The garden below, Genkyūen, is lovely too, so do go there.",
+   "kw": "玄宮園という庭・ぜひ"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 08: the guide asks about castles in Belgium.",
+   "ja": "ベルギーにも古いお城がありますか。",
+   "kana": "ベルギーにもふるいおしろがありますか。",
+   "reply_ja": "はい。アントワープの川のそばに「ステーン」という古いお城があります。八百年ぐらい前に建てられたと言われています。",
+   "reply_kana": "はい。アントワープのかわのそばに「ステーン」というふるいおしろがあります。はっぴゃくねんぐらいまえにたてられたといわれています。",
+   "reply_en": "Yes. In Antwerp, by the river, there's an old castle called Het Steen. It's said to have been built about eight hundred years ago."
+  },
+  {
+   "by": "B",
+   "en": "At the door of the keep: shoes off.",
+   "ja": "天守の中では靴を脱いで、この袋に入れて持って行ってください。",
+   "kana": "てんしゅのなかではくつをぬいで、このふくろにいれてもっていってください。",
+   "reply_ja": "わかりました。靴を持って上るんですね。",
+   "reply_kana": "わかりました。くつをもってのぼるんですね。",
+   "reply_en": "Got it. So I carry my shoes up with me."
+  },
+  {
+   "by": "A",
+   "en": "After line 17: ask when Hikonyan comes out.",
+   "ja": "ひこにゃんは何時ごろ来ますか。写真を撮りたいんですが。",
+   "kana": "ひこにゃんはなんじごろきますか。しゃしんをとりたいんですが。",
+   "reply_ja": "毎日同じ時間ではありませんから、入り口の案内を見てください。",
+   "reply_kana": "まいにちおなじじかんではありませんから、いりぐちのあんないをみてください。",
+   "reply_en": "It isn't the same time every day, so please look at the notice at the entrance."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Hikone Castle (彦根城) was built by the Ii family (井伊家), lords of Hikone, from the early 1600s; the keep was up within a few years and the whole castle was finished around 1622. Its keep is one of only five castle keeps designated a National Treasure (with Himeji, Matsumoto, Inuyama and Matsue), and it is one of the twelve original keeps that survive from the Edo period. Tradition says the keep was moved from Ōtsu Castle and the Tenbin turret (天秤櫓) from Nagahama Castle. Many castles were pulled down in the early Meiji era, but Hikone was spared. The keep's wooden stairs are famously steep, shoes come off at the door, and from the top floor you look out over Lake Biwa. Hikonyan (ひこにゃん), a white cat in the Ii family's red helmet, was created for the castle's 400th-anniversary festival; his appearance times change, so check before you go. Genkyūen (玄宮園) is the lord's garden just below the castle. Opening hours and fees: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "案内する あんないする guide, show round · 江戸時代 えどじだい Edo period · 井伊家 いいけ the Ii family · 天守 てんしゅ castle keep · 残る のこる remain · 国宝 こくほう National Treasure · 指定する していする designate · 一部 いちぶ part · 運ぶ はこぶ carry · 天秤櫓 てんびんやぐら Tenbin turret · 明治時代 めいじじだい Meiji era · 壊す こわす destroy · 人気 にんき popularity · かぶと helmet · 琵琶湖 びわこ Lake Biwa · 急 きゅう steep · 殿様 とのさま feudal lord · 湖 みずうみ lake · 庭 にわ garden"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "ようこそ welcome · ご案内します I'll show you round (humble) · と言われています it is said that"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "建てられた / 運ばれた / 壊された / 作られた, 井伊家によって建てられました, 指定されています, と言われています (L37, things and events as subject) · 子どもたちに写真を撮られています (L37, person affected) · 天守に上れば (L35) · 落ちないように (L36) · 気をつけて上ってください (L34) · 玄宮園という庭 (L33) · ～でしょう (L32) · 見える / ～しかありません (L27) · ～んですか (L26) · そう考えると (L23) · ～と聞きました (L21) · ～ことができます (L18)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "彦根城 → 犬山城（いぬやまじょう, Aichi, also a National Treasure keep）· 琵琶湖 → 町 · ひこにゃん → 天秤櫓 · 江戸時代の初め → 四百年ぐらい前"
+  }
+ ]
+}
