@@ -1,0 +1,254 @@
+{
+ "format": "kaiwa/1",
+ "id": "wasuremono-eki",
+ "kind": "dialogue",
+ "page_title": "Wasuremono Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 駅で",
+ "title": "電車にかばんを忘れてしまいました",
+ "subtitle": "Lost property at Toyama Station",
+ "scene": "Late morning at the ticket gate office in Toyama Station. A traveller has just got off a train from Takaoka and realises his backpack is still on the luggage rack.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 39,
+  "focus": [
+   35,
+   39
+  ]
+ },
+ "meta": "Minna L1–39, focus L35–39. Beyond L39: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "station",
+  "train",
+  "lost-property",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "駅員",
+   "en": "Station staff"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "すみません。電車にかばんを忘れてしまったんですが…。",
+   "kana": "すみません。でんしゃにかばんをわすれてしまったんですが…。",
+   "en": "Excuse me. I've left my bag on the train...",
+   "kw": "かばん・忘れてしまった・んですが"
+  },
+  {
+   "who": "B",
+   "ja": "それはお困りですね。どの電車ですか。",
+   "kana": "それはおこまりですね。どのでんしゃですか。",
+   "en": "Oh dear, that's a problem. Which train was it?",
+   "kw": "お困り・どの電車"
+  },
+  {
+   "who": "A",
+   "ja": "高岡から来た電車です。十時半ごろ富山に着いて、急いで降りました。",
+   "kana": "たかおかからきたでんしゃです。じゅうじはんごろとやまについて、いそいでおりました。",
+   "en": "The train from Takaoka. It got to Toyama around half past ten, and I got off in a hurry.",
+   "kw": "高岡から来た・十時半ごろ・急いで降りる"
+  },
+  {
+   "who": "B",
+   "ja": "何両目に乗っていましたか。",
+   "kana": "なんりょうめにのっていましたか。",
+   "en": "Which car were you in?",
+   "kw": "何両目・乗っていた"
+  },
+  {
+   "who": "A",
+   "ja": "前から二両目です。荷物が多くて、棚にかばんを置いたのを忘れてしまいました。",
+   "kana": "まえからにりょうめです。にもつがおおくて、たなにかばんをおいたのをわすれてしまいました。",
+   "en": "The second car from the front. I had so much luggage that I forgot I'd put my bag on the rack.",
+   "kw": "二両目・荷物が多くて・置いたのを忘れる"
+  },
+  {
+   "who": "B",
+   "ja": "どんなかばんですか。細かく教えていただけますか。",
+   "kana": "どんなかばんですか。こまかくおしえていただけますか。",
+   "en": "What kind of bag is it? Could you describe it in detail?",
+   "kw": "どんな・細かく・教えていただけますか"
+  },
+  {
+   "who": "A",
+   "ja": "黒くて、小さいリュックです。中にカメラと財布が入っています。",
+   "kana": "くろくて、ちいさいリュックです。なかにカメラとさいふがはいっています。",
+   "en": "It's a small black backpack. There's a camera and a wallet inside.",
+   "kw": "黒くて小さい・リュック・カメラ・財布"
+  },
+  {
+   "who": "B",
+   "ja": "財布は何色ですか。ほかに何か目印がありますか。",
+   "kana": "さいふはなにいろですか。ほかになにかめじるしがありますか。",
+   "en": "What colour is the wallet? Is there anything else to recognise it by?",
+   "kw": "何色・目印"
+  },
+  {
+   "who": "A",
+   "ja": "財布は茶色です。リュックにベルギーの旗のシールがはってあります。",
+   "kana": "さいふはちゃいろです。リュックにベルギーのはたのシールがはってあります。",
+   "en": "The wallet is brown. There's a Belgian flag sticker on the backpack.",
+   "kw": "茶色・旗のシール・はってある"
+  },
+  {
+   "who": "B",
+   "ja": "わかりました。その電車は魚津のほうへ行きましたので、今から駅に電話します。少々お待ちください。",
+   "kana": "わかりました。そのでんしゃはうおづのほうへいきましたので、いまからえきにでんわします。しょうしょうおまちください。",
+   "en": "Understood. That train went on towards Uozu, so I'll phone the stations now. One moment, please.",
+   "kw": "魚津のほう・ので・電話する"
+  },
+  {
+   "who": "A",
+   "ja": "お願いします。カードも財布に入っていて、本当に困っています。",
+   "kana": "おねがいします。カードもさいふにはいっていて、ほんとうにこまっています。",
+   "en": "Please. My cards are in the wallet too, so I'm really in trouble.",
+   "kw": "カード・入っていて・困っている"
+  },
+  {
+   "who": "B",
+   "ja": "お待たせしました。魚津駅で黒いリュックが見つかりました。ベルギーの旗のシールもあります。",
+   "kana": "おまたせしました。うおづえきでくろいリュックがみつかりました。ベルギーのはたのシールもあります。",
+   "en": "Sorry to keep you waiting. A black backpack was found at Uozu Station. It has the Belgian flag sticker too.",
+   "kw": "お待たせしました・魚津駅・見つかる"
+  },
+  {
+   "who": "A",
+   "ja": "よかった！見つかって、安心しました。",
+   "kana": "よかった！みつかって、あんしんしました。",
+   "en": "Thank goodness! I'm so relieved it was found.",
+   "kw": "見つかって・安心する"
+  },
+  {
+   "who": "B",
+   "ja": "車掌が見つけて、魚津駅に届けてくれました。カメラも財布も入っています。",
+   "kana": "しゃしょうがみつけて、うおづえきにとどけてくれました。カメラもさいふもはいっています。",
+   "en": "The conductor found it and handed it in at Uozu Station. The camera and wallet are in it.",
+   "kw": "車掌・見つけて・届ける"
+  },
+  {
+   "who": "A",
+   "ja": "どうすればいいですか。ここに送ってもらうことはできますか。",
+   "kana": "どうすればいいですか。ここにおくってもらうことはできますか。",
+   "en": "What should I do? Can they send it here?",
+   "kw": "どうすれば・送ってもらう・ことができる"
+  },
+  {
+   "who": "B",
+   "ja": "申し訳ありませんが、財布が入っていますので、ご本人が取りに行ってください。",
+   "kana": "もうしわけありませんが、さいふがはいっていますので、ごほんにんがとりにいってください。",
+   "en": "I'm sorry, but since there's a wallet in it, you need to go and collect it yourself.",
+   "kw": "財布・ので・ご本人・取りに行く"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。魚津まで電車でどのくらいかかりますか。",
+   "kana": "わかりました。うおづまででんしゃでどのくらいかかりますか。",
+   "en": "I see. How long does it take to Uozu by train?",
+   "kw": "魚津まで・どのくらい"
+  },
+  {
+   "who": "B",
+   "ja": "三十分ぐらいです。身分証明書が要りますので、パスポートを持って行ってください。",
+   "kana": "さんじゅっぷんぐらいです。みぶんしょうめいしょがいりますので、パスポートをもっていってください。",
+   "en": "About thirty minutes. You'll need ID, so please take your passport.",
+   "kw": "三十分・身分証明書・ので・持って行く"
+  },
+  {
+   "who": "A",
+   "ja": "パスポートは今持っています。リュックに入れないで、よかったです。",
+   "kana": "パスポートはいまもっています。リュックにいれないで、よかったです。",
+   "en": "I've got my passport on me. It's a good thing I didn't put it in the backpack.",
+   "kw": "持っている・入れないで・よかった"
+  },
+  {
+   "who": "B",
+   "ja": "では、なくさないように、この紙を持って行って、魚津駅の窓口で見せてください。",
+   "kana": "では、なくさないように、このかみをもっていって、うおづえきのまどぐちでみせてください。",
+   "en": "Then take this slip, and don't lose it. Show it at the counter at Uozu Station.",
+   "kw": "なくさないように・紙・窓口・見せる"
+  },
+  {
+   "who": "A",
+   "ja": "いろいろ調べていただいて、ありがとうございました。",
+   "kana": "いろいろしらべていただいて、ありがとうございました。",
+   "en": "Thank you for looking into all this for me.",
+   "kw": "調べていただいて・ありがとう"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ。外は雪で道が滑りますので、お気をつけて。",
+   "kana": "いいえ。そとはゆきでみちがすべりますので、おきをつけて。",
+   "en": "You're welcome. The roads are slippery with snow outside, so take care.",
+   "kw": "雪で・滑る・ので・お気をつけて"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 07: ask what time the train was.",
+   "ja": "何時ごろの電車でしたか。",
+   "kana": "なんじごろのでんしゃでしたか。",
+   "reply_ja": "十時ごろ高岡を出た電車です。急いでいて、時間をよく見ませんでした。",
+   "reply_kana": "じゅうじごろたかおかをでたでんしゃです。いそいでいて、じかんをよくみませんでした。",
+   "reply_en": "The one that left Takaoka around ten. I was in a hurry, so I didn't really look at the time."
+  },
+  {
+   "by": "B",
+   "en": "After line 12: ask for something inside that shows his name.",
+   "ja": "財布の中に、お名前が書いてあるものがありますか。",
+   "kana": "さいふのなかに、おなまえがかいてあるものがありますか。",
+   "reply_ja": "はい、ベルギーの運転免許証が入っています。",
+   "reply_kana": "はい、ベルギーのうんてんめんきょしょうがはいっています。",
+   "reply_en": "Yes, my Belgian driving licence is in it."
+  },
+  {
+   "by": "A",
+   "en": "After line 16: say you have an errand today and ask to collect it tomorrow.",
+   "ja": "今日は用事があるので、明日取りに行ってもいいですか。",
+   "kana": "きょうはようじがあるので、あしたとりにいってもいいですか。",
+   "reply_ja": "はい。でも、長い間は置けませんので、なるべく早く行ってください。",
+   "reply_kana": "はい。でも、ながいあいだはおけませんので、なるべくはやくいってください。",
+   "reply_en": "Yes. But they can't keep it for long, so please go as soon as you can."
+  },
+  {
+   "by": "A",
+   "en": "After line 20: ask the staff to write a note in Japanese for Uozu Station.",
+   "ja": "日本語がうまく話せなくて、心配です。魚津駅の人に見せるメモを書いていただけませんか。",
+   "kana": "にほんごがうまくはなせなくて、しんぱいです。うおづえきのひとにみせるメモをかいていただけませんか。",
+   "reply_ja": "はい、いいですよ。ここに書いておきますので、このメモを見せてください。",
+   "reply_kana": "はい、いいですよ。ここにかいておきますので、このメモをみせてください。",
+   "reply_en": "Sure. I'll write it here, so just show them this note."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Japan is famous for returning lost property. Go straight to station staff at the ticket gate and give the train (where from, roughly what time), the car (何両目, counted from the front) and a detailed description (colour, contents, stickers): staff phone ahead and items are often found the same day at a later station on the line. Items are kept at that station for a short time and later passed to a central lost-property office or the police, so collect quickly. You usually collect in person and must show ID (for visitors, the passport); some railways can send an item cash-on-delivery (着払い), but rules differ by company. From Toyama, the Ainokaze Toyama Railway runs west to Takaoka and east via Uozu towards Tomari; Toyama to Uozu takes roughly half an hour by local train. Lost-property rules and train times: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "高岡 たかおか Takaoka · 魚津 うおづ Uozu · 何両目 なんりょうめ which car · 棚 たな luggage rack · 細かい こまかい detailed · リュック backpack · 財布 さいふ wallet · 目印 めじるし distinguishing mark · 旗 はた flag · シール sticker · 見つかる みつかる be found · 安心する あんしんする be relieved · 車掌 しゃしょう conductor · 届ける とどける hand in · 本人 ほんにん the person himself · 身分証明書 みぶんしょうめいしょ ID · 窓口 まどぐち counter · 滑る すべる be slippery · 用事 ようじ errand"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "お困りですね that's a problem for you · 少々お待ちください one moment please · お待たせしました sorry to keep you waiting · ご本人 you yourself · お気をつけて take care"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "cause ～て / ～くて / ～なくて / N で: 荷物が多くて, 入っていて困っています, 見つかって安心しました, 話せなくて心配です, 雪で道が滑ります, ～ので (行きましたので / 入っていますので / 要りますので / 用事があるので), 細かく (L39) · 置いたのを忘れてしまいました (L38) · なくさないように (L36) · どうすればいいですか (L35) · 入れないで (L34) · はってあります (L30) · 忘れてしまいました (L29) · ～んですが / ～ていただけますか (L26) · 送ってもらう (L24) · ～ことができます (L18)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "かばん → かさ / コート · カメラ → パソコン · 魚津 → 黒部（くろべ）· 二両目 → 一番後ろの車両"
+  }
+ ]
+}

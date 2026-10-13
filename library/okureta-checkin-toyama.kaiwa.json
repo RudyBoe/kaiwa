@@ -1,0 +1,248 @@
+{
+ "format": "kaiwa/1",
+ "id": "okureta-checkin-toyama",
+ "kind": "dialogue",
+ "page_title": "Okureta Checkin Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 旅館で",
+ "title": "遅れてしまって、申し訳ありません",
+ "subtitle": "Arriving two hours late at a ryokan in Toyama",
+ "scene": "A snowy December evening at a ryokan in Toyama. The guest was expected at six but arrives after eight, cold and hungry, and explains at the front desk.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 39,
+  "focus": [
+   35,
+   39
+  ]
+ },
+ "meta": "Minna L1–39, focus L35–39. Beyond L39: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "ryokan",
+  "hotel",
+  "snow",
+  "train",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Guest"
+  },
+  {
+   "id": "B",
+   "ja": "フロント",
+   "en": "Front desk"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "ヤンセンス様ですね。お待ちしておりました。",
+   "kana": "ヤンセンスさまですね。おまちしておりました。",
+   "en": "Mr Janssens, isn't it? We've been expecting you.",
+   "kw": "様・お待ちしておりました"
+  },
+  {
+   "who": "A",
+   "ja": "はい。遅れてしまって、申し訳ありません。",
+   "kana": "はい。おくれてしまって、もうしわけありません。",
+   "en": "Yes. I'm terribly sorry I'm so late.",
+   "kw": "遅れてしまって・申し訳ありません"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ。雪で大変だったでしょう。",
+   "kana": "いいえ。ゆきでたいへんだったでしょう。",
+   "en": "Not at all. The snow must have made it hard for you.",
+   "kw": "雪で・大変・でしょう"
+  },
+  {
+   "who": "A",
+   "ja": "ええ。高山から電車で来ましたが、途中で雪で電車が止まってしまいました。",
+   "kana": "ええ。たかやまからでんしゃできましたが、とちゅうでゆきででんしゃがとまってしまいました。",
+   "en": "Yes. I came by train from Takayama, but on the way the train stopped because of the snow.",
+   "kw": "途中で・雪で・止まってしまう"
+  },
+  {
+   "who": "B",
+   "ja": "そうでしたか。高山線は雪が多いと、よく止まりますから。",
+   "kana": "そうでしたか。たかやませんはゆきがおおいと、よくとまりますから。",
+   "en": "I see. The Takayama Line often stops when there's a lot of snow.",
+   "kw": "高山線・雪が多いと・よく止まる"
+  },
+  {
+   "who": "A",
+   "ja": "一時間ぐらい動かなくて、困りました。それに、富山駅から道が込んでいて、また遅れました。",
+   "kana": "いちじかんぐらいうごかなくて、こまりました。それに、とやまえきからみちがこんでいて、またおくれました。",
+   "en": "It didn't move for about an hour, which was a real problem. And from Toyama Station the roads were jammed, so I was late again.",
+   "kw": "動かなくて・困る・道が込んでいて・遅れる"
+  },
+  {
+   "who": "B",
+   "ja": "六時のお約束で、お電話もありませんでしたので、心配していました。",
+   "kana": "ろくじのおやくそくで、おでんわもありませんでしたので、しんぱいしていました。",
+   "en": "You were due at six and we hadn't had a call, so we were worried.",
+   "kw": "六時・お電話・ので・心配"
+  },
+  {
+   "who": "A",
+   "ja": "すみません。携帯の電池がなくなって、電話できなかったんです。",
+   "kana": "すみません。けいたいのでんちがなくなって、でんわできなかったんです。",
+   "en": "Sorry. My phone battery died, so I couldn't call.",
+   "kw": "電池がなくなって・電話できなかった・んです"
+  },
+  {
+   "who": "B",
+   "ja": "そうでしたか。でも、お顔を見て、安心しました。",
+   "kana": "そうでしたか。でも、おかおをみて、あんしんしました。",
+   "en": "I see. Well, seeing you here, we're relieved.",
+   "kw": "お顔を見て・安心する"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。あのう、晩ご飯はまだ食べられますか。",
+   "kana": "ありがとうございます。あのう、ばんごはんはまだたべられますか。",
+   "en": "Thank you. Um, can I still have dinner?",
+   "kw": "晩ご飯・まだ・食べられる"
+  },
+  {
+   "who": "B",
+   "ja": "申し訳ございません。夕食は八時までですので、もう終わってしまいました。",
+   "kana": "もうしわけございません。ゆうしょくははちじまでですので、もうおわってしまいました。",
+   "en": "I'm very sorry. Dinner is served until eight, so it's already finished.",
+   "kw": "夕食・八時まで・ので・終わってしまう"
+  },
+  {
+   "who": "A",
+   "ja": "そうですか。お昼から何も食べていなくて、おなかがぺこぺこなんです。",
+   "kana": "そうですか。おひるからなにもたべていなくて、おなかがぺこぺこなんです。",
+   "en": "I see. I haven't eaten anything since lunch, so I'm starving.",
+   "kw": "何も食べていなくて・ぺこぺこ"
+  },
+  {
+   "who": "B",
+   "ja": "では、簡単なものでよろしければ、おにぎりとみそ汁をお部屋にお持ちしましょうか。",
+   "kana": "では、かんたんなものでよろしければ、おにぎりとみそしるをおへやにおもちしましょうか。",
+   "en": "Then, if something simple is all right, shall I bring rice balls and miso soup to your room?",
+   "kw": "簡単なもの・よろしければ・おにぎり・お持ちする"
+  },
+  {
+   "who": "A",
+   "ja": "本当ですか。おにぎりがあれば、十分です。ぜひお願いします。",
+   "kana": "ほんとうですか。おにぎりがあれば、じゅうぶんです。ぜひおねがいします。",
+   "en": "Really? Rice balls would be plenty. Yes, please.",
+   "kw": "あれば・十分・ぜひ"
+  },
+  {
+   "who": "B",
+   "ja": "かしこまりました。二十分ぐらいでお持ちします。",
+   "kana": "かしこまりました。にじゅっぷんぐらいでおもちします。",
+   "en": "Certainly. I'll bring them in about twenty minutes.",
+   "kw": "二十分ぐらいで・お持ちする"
+  },
+  {
+   "who": "A",
+   "ja": "それから、お風呂は何時まで入れますか。",
+   "kana": "それから、おふろはなんじまではいれますか。",
+   "en": "And until what time can I use the bath?",
+   "kw": "お風呂・何時まで・入れる"
+  },
+  {
+   "who": "B",
+   "ja": "大浴場は夜十二時までです。朝は六時から入れます。",
+   "kana": "だいよくじょうはよるじゅうにじまでです。あさはろくじからはいれます。",
+   "en": "The large bath is open until midnight. In the morning you can go in from six.",
+   "kw": "大浴場・十二時まで・六時から"
+  },
+  {
+   "who": "A",
+   "ja": "駅で長い時間待って、体が冷たくなってしまったので、ご飯の前に入ろうと思います。",
+   "kana": "えきでながいじかんまって、からだがつめたくなってしまったので、ごはんのまえにはいろうとおもいます。",
+   "en": "I waited at the station for a long time and got chilled through, so I think I'll have a bath before eating.",
+   "kw": "長い時間待って・冷たくなる・ので・入ろうと思う"
+  },
+  {
+   "who": "B",
+   "ja": "それがいいですね。タオルとゆかたはお部屋にございます。こちらがお部屋のかぎです。",
+   "kana": "それがいいですね。タオルとゆかたはおへやにございます。こちらがおへやのかぎです。",
+   "en": "Good idea. Towels and a yukata are in your room. Here is your room key.",
+   "kw": "タオル・ゆかた・ございます・かぎ"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。明日は遅れないように、早く寝ます。",
+   "kana": "ありがとうございます。あしたはおくれないように、はやくねます。",
+   "en": "Thank you. I'll go to bed early so I'm not late tomorrow.",
+   "kw": "遅れないように・早く寝る"
+  },
+  {
+   "who": "B",
+   "ja": "どうぞごゆっくりお休みください。",
+   "kana": "どうぞごゆっくりおやすみください。",
+   "en": "Please have a good rest.",
+   "kw": "ごゆっくり・お休みください"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 09: ask the guest to fill in the register and show his passport.",
+   "ja": "こちらにお名前とご住所を書いていただけますか。それから、パスポートを見せていただけますか。",
+   "kana": "こちらにおなまえとごじゅうしょをかいていただけますか。それから、パスポートをみせていただけますか。",
+   "reply_ja": "はい。手が冷たくて、字が下手ですが、すみません。",
+   "reply_kana": "はい。てがつめたくて、じがへたですが、すみません。",
+   "reply_en": "Sure. My hands are cold, so my writing is messy, sorry."
+  },
+  {
+   "by": "B",
+   "en": "After line 13: there's no rice left, so suggest the convenience store instead.",
+   "ja": "申し訳ございません。ご飯がもうなくて、ご用意できません。近くにコンビニがありますので…。",
+   "kana": "もうしわけございません。ごはんがもうなくて、ごよういできません。ちかくにコンビニがありますので…。",
+   "reply_ja": "そうですか。じゃ、コンビニへ行って来ます。道を教えていただけませんか。",
+   "reply_kana": "そうですか。じゃ、コンビニへいってきます。みちをおしえていただけませんか。",
+   "reply_en": "I see. Then I'll go to the convenience store. Could you tell me the way?"
+  },
+  {
+   "by": "A",
+   "en": "After line 17: ask to borrow a phone charger.",
+   "ja": "携帯の電池がなくて、困っています。充電器を貸していただけませんか。",
+   "kana": "けいたいのでんちがなくて、こまっています。じゅうでんきをかしていただけませんか。",
+   "reply_ja": "はい、フロントにございますので、どうぞお使いください。",
+   "reply_kana": "はい、フロントにございますので、どうぞおつかいください。",
+   "reply_en": "Yes, we have one at the front desk, so please use it."
+  },
+  {
+   "by": "A",
+   "en": "At the end: say you have an errand and ask to leave early tomorrow.",
+   "ja": "明日は用事があるので、朝早く出てもいいですか。",
+   "kana": "あしたはようじがあるので、あさはやくでてもいいですか。",
+   "reply_ja": "はい、かまいません。お出かけの前に、かぎをフロントに返してください。",
+   "reply_kana": "はい、かまいません。おでかけのまえに、かぎをフロントにかえしてください。",
+   "reply_en": "Yes, that's fine. Before you go out, please return the key to the front desk."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Ryokan expect you at the check-in time you gave, because dinner is cooked for each guest and served at a fixed time, often starting between 18:00 and 19:30; if you will be late, phone the ryokan (a short call in English is fine), or they may worry or give up on dinner. The JR Takayama Line between Takayama and Toyama runs through narrow snowy valleys and is sometimes delayed or suspended by heavy snow in winter; the main roads in Toyama city also slow down badly after snowfall. Many ryokan and business hotels have a large shared bath (大浴場) that closes around midnight and reopens early in the morning, but exact hours differ. Foreign guests without an address in Japan show their passport at check-in. Dinner times, bath hours and train conditions: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "途中 とちゅう on the way · 申し訳ありません もうしわけありません I'm very sorry · 高山線 たかやません Takayama Line · 込む こむ be crowded · 携帯 けいたい mobile phone · 電池 でんち battery · 安心する あんしんする be relieved · 夕食 ゆうしょく dinner · ぺこぺこ starving · おにぎり rice ball · みそ汁 みそしる miso soup · 大浴場 だいよくじょう large shared bath · ゆかた light cotton robe · 充電器 じゅうでんき charger · 用事 ようじ errand"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "お待ちしておりました we have been expecting you · お約束 / お電話 / お顔 / お部屋 polite お- · 申し訳ございません I am very sorry · よろしければ if it is all right · お持ちしましょうか / お持ちします shall I bring / I will bring · かしこまりました certainly · ございます there is (polite) · ご用意できません we can't prepare · お使いください please use · ごゆっくりお休みください have a good rest"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "cause ～て / ～なくて / N で: 雪で, 遅れてしまって申し訳ありません, 動かなくて困りました, 道が込んでいて遅れました, 電池がなくなって, お顔を見て安心しました, 食べていなくて, 待って冷たくなってしまった, ～ので (お電話もありませんでしたので / 八時までですので / 冷たくなってしまったので), 途中で (L39) · 遅れないように (L36) · おにぎりがあれば (L35) · 入ろうと思います (L31) · 止まってしまいました / 終わってしまいました (L29) · 食べられます / 入れます (L27) · ～んです / ～ていただけますか (L26) · 雪が多いと (L23) · 大変だったでしょう (L21)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "電車 → バス · 一時間 → 二時間 · おにぎりとみそ汁 → おそば · 大浴場 → 露天風呂（ろてんぶろ）"
+  }
+ ]
+}

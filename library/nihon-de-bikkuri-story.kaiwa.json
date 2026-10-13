@@ -1,0 +1,243 @@
+{
+ "format": "kaiwa/1",
+ "id": "nihon-de-bikkuri-story",
+ "kind": "story",
+ "page_title": "Bikkuri Monogatari",
+ "eyebrow": "Story · N4 · 日本でびっくり",
+ "title": "日本でびっくりしたこと",
+ "subtitle": "Things that surprised me in Japan",
+ "scene": "Near the end of the trip, in Toyama, a traveller tells a Japanese friend about the things that surprised him on his journey from Osaka to the Japan Sea.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 39,
+  "focus": [
+   35,
+   39
+  ]
+ },
+ "meta": "Minna L1–39, focus L35–39. Beyond L39: none.",
+ "tags": [
+  "culture",
+  "travel",
+  "snow",
+  "takayama",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "日本に来て、びっくりしたことがたくさんありました。",
+   "kana": "にほんにきて、びっくりしたことがたくさんありました。",
+   "en": "Since coming to Japan, lots of things have surprised me.",
+   "kw": "日本に来て・びっくりしたこと"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "まず、大阪のホテルのトイレはボタンがたくさんあって、とても複雑でした。",
+   "kana": "まず、おおさかのホテルのトイレはボタンがたくさんあって、とてもふくざつでした。",
+   "en": "First, the toilet in my Osaka hotel had lots of buttons and was very complicated.",
+   "kw": "トイレ・ボタン・あって・複雑"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "説明が全部漢字で、使い方がわかりませんでした。",
+   "kana": "せつめいがぜんぶかんじで、つかいかたがわかりませんでした。",
+   "en": "The explanations were all in kanji, so I couldn't work out how to use it.",
+   "kw": "全部漢字で・使い方・わからない"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "岐阜では、店にかさを忘れて、外に出てしまいました。",
+   "kana": "ぎふでは、みせにかさをわすれて、そとにでてしまいました。",
+   "en": "In Gifu I left my umbrella in a shop and went outside.",
+   "kw": "かさを忘れる・出てしまう"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "駅へ行く途中で、後ろから呼ばれました。店の人がかさを持って、走って来てくれたんです。",
+   "kana": "えきへいくとちゅうで、うしろからよばれました。みせのひとがかさをもって、はしってきてくれたんです。",
+   "en": "On the way to the station, someone called me from behind. The shop assistant had come running with my umbrella.",
+   "kw": "途中で・呼ばれる・走って来てくれた"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "そんなに親切で、びっくりしました。そして、とてもうれしかったです。",
+   "kana": "そんなにしんせつで、びっくりしました。そして、とてもうれしかったです。",
+   "en": "I was amazed they were so kind. And I was really happy.",
+   "kw": "親切で・びっくりする・うれしい"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "十二月に高山に着いた日は、朝から雪が降っていました。",
+   "kana": "じゅうにがつにたかやまについたひは、あさからゆきがふっていました。",
+   "en": "The day I arrived in Takayama in December, it had been snowing since morning.",
+   "kw": "高山に着いた日・雪が降っていた"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "ベルギーではあまり雪が降らないので、道にも屋根にも雪がたくさんあって、驚きました。",
+   "kana": "ベルギーではあまりゆきがふらないので、みちにもやねにもゆきがたくさんあって、おどろきました。",
+   "en": "It doesn't snow much in Belgium, so I was amazed by all the snow on the roads and roofs.",
+   "kw": "降らないので・屋根・雪があって・驚く"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "ある夜、地震で起きました。部屋が少し揺れて、怖かったです。",
+   "kana": "あるよる、じしんでおきました。へやがすこしゆれて、こわかったです。",
+   "en": "One night an earthquake woke me up. The room shook a little and I was scared.",
+   "kw": "地震で起きる・揺れて・怖い"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "次の朝、家の人に話すと、「小さい地震ですから、大丈夫ですよ」と言いました。それを聞いて、安心しました。",
+   "kana": "つぎのあさ、いえのひとにはなすと、「ちいさいじしんですから、だいじょうぶですよ」といいました。それをきいて、あんしんしました。",
+   "en": "The next morning I told my host, and she said, \"It was only a small one, so it's fine.\" Hearing that, I felt relieved.",
+   "kw": "家の人・と言った・聞いて・安心する"
+  },
+  {
+   "n": "11",
+   "who": "A",
+   "ja": "富山のすし屋では、メニューの漢字が読めなくて、恥ずかしかったです。",
+   "kana": "とやまのすしやでは、メニューのかんじがよめなくて、はずかしかったです。",
+   "en": "At a sushi restaurant in Toyama I couldn't read the kanji on the menu and felt embarrassed.",
+   "kw": "すし屋・読めなくて・恥ずかしい"
+  },
+  {
+   "n": "12",
+   "who": "A",
+   "ja": "でも、店の人が「写真を見れば、わかりますよ」と言って、写真を見せてくれたので、おいしいすしが食べられました。",
+   "kana": "でも、みせのひとが「しゃしんをみれば、わかりますよ」といって、しゃしんをみせてくれたので、おいしいすしがたべられました。",
+   "en": "But the staff said, \"If you look at the photos, you'll understand,\" and showed me pictures, so I got to eat delicious sushi.",
+   "kw": "見れば・見せてくれたので・食べられた"
+  },
+  {
+   "n": "13",
+   "who": "A",
+   "ja": "いちばんうれしかったのは、どこでも日本の人がとても親切だったことです。",
+   "kana": "いちばんうれしかったのは、どこでもにほんのひとがとてもしんせつだったことです。",
+   "en": "What made me happiest was that people in Japan were so kind everywhere.",
+   "kw": "いちばんうれしかったのは・親切だったこと"
+  },
+  {
+   "n": "14",
+   "who": "A",
+   "ja": "また来たいので、メニューが読めるように、もっと漢字を勉強しようと思います。",
+   "kana": "またきたいので、メニューがよめるように、もっとかんじをべんきょうしようとおもいます。",
+   "en": "I want to come back, so I'm going to study more kanji so that I can read menus.",
+   "kw": "来たいので・読めるように・勉強しようと思う"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "ホテルのトイレはどうでしたか。",
+   "kana": "ホテルのトイレはどうでしたか。",
+   "en": "What was the hotel toilet like?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "どうしてトイレの使い方がわかりませんでしたか。",
+   "kana": "どうしてトイレのつかいかたがわかりませんでしたか。",
+   "en": "Why couldn't you work out how to use the toilet?",
+   "answer": "03"
+  },
+  {
+   "by": "B",
+   "ja": "岐阜で何を忘れましたか。",
+   "kana": "ぎふでなにをわすれましたか。",
+   "en": "What did you forget in Gifu?",
+   "answer": "04"
+  },
+  {
+   "by": "B",
+   "ja": "駅へ行く途中で、何がありましたか。",
+   "kana": "えきへいくとちゅうで、なにがありましたか。",
+   "en": "What happened on the way to the station?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "どうして雪を見て、驚きましたか。",
+   "kana": "どうしてゆきをみて、おどろきましたか。",
+   "en": "Why were you surprised to see the snow?",
+   "answer": "08"
+  },
+  {
+   "by": "B",
+   "ja": "夜、どうして起きましたか。",
+   "kana": "よる、どうしておきましたか。",
+   "en": "Why did you wake up in the night?",
+   "answer": "09"
+  },
+  {
+   "by": "B",
+   "ja": "家の人は何と言いましたか。",
+   "kana": "いえのひとはなんといいましたか。",
+   "en": "What did your host say?",
+   "answer": "10"
+  },
+  {
+   "by": "B",
+   "ja": "すし屋で、どうして恥ずかしかったですか。",
+   "kana": "すしやで、どうしてはずかしかったですか。",
+   "en": "Why were you embarrassed at the sushi restaurant?",
+   "answer": "11"
+  },
+  {
+   "by": "B",
+   "ja": "いちばんうれしかったのは何ですか。",
+   "kana": "いちばんうれしかったのはなんですか。",
+   "en": "What made you happiest?",
+   "answer": "13"
+  },
+  {
+   "by": "B",
+   "ja": "これから何をしようと思っていますか。",
+   "kana": "これからなにをしようとおもっていますか。",
+   "en": "What are you planning to do from now on?",
+   "answer": "14"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Japanese toilets with a washlet have a control panel, often only in kanji: 止 stop, おしり rear wash, ビデ bidet, 乾燥 drying, 流す / 大・小 flush; many hotels now add English or pictograms. Shop staff running after a customer with a forgotten item is a common story among visitors, and lost things are very often returned. Takayama gets regular snow from December, and Toyama city also sees heavy snow in some winters. Small earthquakes are frequent in Japan; most are harmless, and the Japanese often hardly react, but learn where the exits are and follow official alerts (the NHK World app and Safety tips app give warnings in English). Many sushi restaurants in Toyama have menus in kanji only, but staff will often point at pictures or the display case. Weather and snow vary by year: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "複雑 ふくざつ complicated · 説明 せつめい explanation · 使い方 つかいかた how to use · 途中 とちゅう on the way · 屋根 やね roof · 驚く おどろく be surprised · 地震 じしん earthquake · 揺れる ゆれる shake · 安心する あんしんする be relieved · すし屋 すしや sushi restaurant · 恥ずかしい はずかしい embarrassed"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "cause ～て / ～くて / ～なくて / な-adj, N で: 日本に来て, ボタンがあって複雑でした, 全部漢字で, 親切で, 雪があって驚きました, 地震で起きました, 揺れて怖かった, 聞いて安心しました, 読めなくて恥ずかしかった, ～ので (降らないので / 見せてくれたので / 来たいので), 途中で (L39) · いちばんうれしかったのは (L38) · 呼ばれました (L37) · 読めるように (L36) · 見れば (L35) · 勉強しようと思います (L31) · 出てしまいました (L29) · 食べられました / 読める (L27) · ～てくれたんです (L24, L26) · 話すと (L23)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "かさ → 帽子（ぼうし）· 高山 → 白川郷（しらかわごう）· すし屋 → ラーメン屋 · 地震 → 台風（たいふう）"
+  }
+ ]
+}
