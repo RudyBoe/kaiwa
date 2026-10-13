@@ -1,0 +1,278 @@
+{
+ "format": "kaiwa/1",
+ "id": "gomi-ofuro-hida",
+ "kind": "dialogue",
+ "page_title": "Gomi to Ofuro Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 貸家で",
+ "title": "ごみとお風呂のルール",
+ "subtitle": "The host explains rubbish sorting and the bath",
+ "scene": "Late afternoon in early November, a rented old house in Hida-Furukawa. The host shows a guest who has just arrived how to sort the rubbish and use the bath.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 34,
+  "focus": [
+   30,
+   34
+  ]
+ },
+ "meta": "Minna L1–34, focus L30–34. Beyond L34: none.",
+ "tags": [
+  "house",
+  "rules",
+  "bath",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Guest"
+  },
+  {
+   "id": "B",
+   "ja": "大家さん",
+   "en": "Host"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃい。遠くから、お疲れさまでした。",
+   "kana": "いらっしゃい。とおくから、おつかれさまでした。",
+   "en": "Welcome. You must be tired after coming so far.",
+   "kw": "遠くから・お疲れさま"
+  },
+  {
+   "who": "A",
+   "ja": "はじめまして。今日から三日間、お世話になります。",
+   "kana": "はじめまして。きょうからみっかかん、おせわになります。",
+   "en": "Nice to meet you. Thank you for having us for the next three days.",
+   "kw": "三日間・お世話になります"
+  },
+  {
+   "who": "B",
+   "ja": "じゃ、家の使い方を説明しますね。まず、ごみのことです。",
+   "kana": "じゃ、いえのつかいかたをせつめいしますね。まず、ごみのことです。",
+   "en": "Right, let me explain how the house works. First, the rubbish.",
+   "kw": "使い方・説明する・ごみ"
+  },
+  {
+   "who": "A",
+   "ja": "日本のごみは分け方が難しいと聞きました。",
+   "kana": "にほんのごみはわけかたがむずかしいとききました。",
+   "en": "I've heard sorting rubbish in Japan is difficult.",
+   "kw": "分け方・難しい・と聞いた"
+  },
+  {
+   "who": "B",
+   "ja": "大丈夫ですよ。この紙に書いてあるとおりに分けてください。",
+   "kana": "だいじょうぶですよ。このかみにかいてあるとおりにわけてください。",
+   "en": "Don't worry. Just sort it the way it's written on this sheet.",
+   "kw": "書いてあるとおりに・分ける"
+  },
+  {
+   "who": "A",
+   "ja": "燃えるごみと燃えないごみですね。",
+   "kana": "もえるごみともえないごみですね。",
+   "en": "Burnable and non-burnable rubbish, right?",
+   "kw": "燃えるごみ・燃えないごみ"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。それから、缶とびんとペットボトルは別の袋に入れてください。",
+   "kana": "ええ。それから、かんとびんとペットボトルはべつのふくろにいれてください。",
+   "en": "Yes. And put cans, bottles and PET bottles in a separate bag.",
+   "kw": "缶・びん・ペットボトル・別の袋"
+  },
+  {
+   "who": "A",
+   "ja": "ペットボトルはそのまま捨ててもいいですか。",
+   "kana": "ペットボトルはそのまますててもいいですか。",
+   "en": "Can I throw PET bottles away as they are?",
+   "kw": "そのまま・捨ててもいい"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、キャップを取って、中を洗ったあとで、捨ててください。",
+   "kana": "いいえ、キャップをとって、なかをあらったあとで、すててください。",
+   "en": "No. Take the cap off and rinse them out, then throw them away.",
+   "kw": "キャップを取る・洗ったあとで・捨てる"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。ごみはいつ出しますか。",
+   "kana": "わかりました。ごみはいつだしますか。",
+   "en": "Got it. When do I put the rubbish out?",
+   "kw": "いつ・出す"
+  },
+  {
+   "who": "B",
+   "ja": "燃えるごみは火曜日と金曜日です。前の晩に出さないで、朝八時までに出してください。",
+   "kana": "もえるごみはかようびときんようびです。まえのばんにださないで、あさはちじまでにだしてください。",
+   "en": "Burnable rubbish is Tuesdays and Fridays. Don't put it out the night before; put it out in the morning by eight.",
+   "kw": "前の晩・出さないで・朝八時までに"
+  },
+  {
+   "who": "A",
+   "ja": "どこに出したらいいですか。",
+   "kana": "どこにだしたらいいですか。",
+   "en": "Where should I put it?",
+   "kw": "どこに・出したらいい"
+  },
+  {
+   "who": "B",
+   "ja": "家の前の角にごみ置き場があります。カラスが来ますから、ネットをかけておいてください。",
+   "kana": "いえのまえのかどにごみおきばがあります。カラスがきますから、ネットをかけておいてください。",
+   "en": "There's a collection point on the corner in front of the house. Crows come, so put the net over it.",
+   "kw": "角・ごみ置き場・カラス・かけておく"
+  },
+  {
+   "who": "A",
+   "ja": "はい。次はお風呂ですね。",
+   "kana": "はい。つぎはおふろですね。",
+   "en": "OK. The bath is next, right?",
+   "kw": "次・お風呂"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。お風呂に入る前に、体を洗ってください。",
+   "kana": "ええ。おふろにはいるまえに、からだをあらってください。",
+   "en": "Yes. Before you get into the bath, wash yourself.",
+   "kw": "入る前に・体を洗う"
+  },
+  {
+   "who": "A",
+   "ja": "体を洗ったあとで、お湯に入るんですね。",
+   "kana": "からだをあらったあとで、おゆにはいるんですね。",
+   "en": "So I get into the hot water after I've washed.",
+   "kw": "洗ったあとで・お湯に入る"
+  },
+  {
+   "who": "B",
+   "ja": "そうです。お湯は抜かないで、ふたをしておいてください。次の人も入りますから。",
+   "kana": "そうです。おゆはぬかないで、ふたをしておいてください。つぎのひともはいりますから。",
+   "en": "That's right. Don't let the water out; put the lid on instead. The next person uses it too.",
+   "kw": "抜かないで・ふたをしておく・次の人"
+  },
+  {
+   "who": "A",
+   "ja": "タオルをお湯に入れてもいいですか。",
+   "kana": "タオルをおゆにいれてもいいですか。",
+   "en": "Can I put my towel in the water?",
+   "kw": "タオル・入れてもいい"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、入れないでください。頭の上に置く人が多いですよ。",
+   "kana": "いいえ、いれないでください。あたまのうえにおくひとがおおいですよ。",
+   "en": "No, please don't. Lots of people put it on their head.",
+   "kw": "入れないでください・頭の上・置く"
+  },
+  {
+   "who": "A",
+   "ja": "なるほど。お湯の入れ方も教えていただけませんか。",
+   "kana": "なるほど。おゆのいれかたもおしえていただけませんか。",
+   "en": "I see. Could you also show me how to run the bath?",
+   "kw": "入れ方・教えていただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "いいですよ。このボタンを押すと、お湯が出ます。十五分ぐらいでいっぱいになります。",
+   "kana": "いいですよ。このボタンをおすと、おゆがでます。じゅうごふんぐらいでいっぱいになります。",
+   "en": "Sure. Press this button and the hot water comes out. It's full in about fifteen minutes.",
+   "kw": "押すと・お湯が出る・いっぱいになる"
+  },
+  {
+   "who": "A",
+   "ja": "今教えてもらったとおりに、私が押します。……これですね。",
+   "kana": "いまおしえてもらったとおりに、わたしがおします。……これですね。",
+   "en": "I'll press it, just as you showed me. …This one, right?",
+   "kw": "教えてもらったとおりに・押す"
+  },
+  {
+   "who": "B",
+   "ja": "そうそう、そのとおりです。",
+   "kana": "そうそう、そのとおりです。",
+   "en": "Yes, yes, exactly.",
+   "kw": "そのとおり"
+  },
+  {
+   "who": "A",
+   "ja": "よくわかりました。今から町を散歩しようと思います。お風呂は散歩のあとで入ります。",
+   "kana": "よくわかりました。いまからまちをさんぽしようとおもいます。おふろはさんぽのあとではいります。",
+   "en": "That's clear. I'm thinking of taking a walk around town now. I'll have a bath after the walk.",
+   "kw": "散歩しようと思う・散歩のあとで"
+  },
+  {
+   "who": "B",
+   "ja": "いいですね。夜は寒いですから、上着を着て行ったほうがいいですよ。",
+   "kana": "いいですね。よるはさむいですから、うわぎをきていったほうがいいですよ。",
+   "en": "Nice. It's cold in the evening, so you'd better wear a jacket.",
+   "kw": "寒い・上着を着て行く・ほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "はい、そうします。いろいろありがとうございました。",
+   "kana": "はい、そうします。いろいろありがとうございました。",
+   "en": "I will. Thank you for everything.",
+   "kw": "そうします・いろいろ"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "At the end: remind the guest that tomorrow is a burnable-rubbish day.",
+   "ja": "明日の朝は燃えるごみの日ですよ。忘れないでくださいね。",
+   "kana": "あしたのあさはもえるごみのひですよ。わすれないでくださいね。",
+   "reply_ja": "はい。朝ごはんを食べたあとで、出しておきます。",
+   "reply_kana": "はい。あさごはんをたべたあとで、だしておきます。",
+   "reply_en": "OK. I'll put it out after breakfast."
+  },
+  {
+   "by": "B",
+   "en": "After line 23: ask the guest to keep quiet at night because the neighbours go to bed early.",
+   "ja": "それから、近所の人は早く寝ますから、夜は静かにしてください。",
+   "kana": "それから、きんじょのひとははやくねますから、よるはしずかにしてください。",
+   "reply_ja": "わかりました。テレビの音も小さくします。",
+   "reply_kana": "わかりました。テレビのおともちいさくします。",
+   "reply_en": "Understood. I'll keep the TV down too."
+  },
+  {
+   "by": "A",
+   "en": "After line 05: ask what to do when you can't work out which rubbish is which.",
+   "ja": "どのごみかわからないときは、どうしたらいいですか。",
+   "kana": "どのごみかわからないときは、どうしたらいいですか。",
+   "reply_ja": "この紙を見てもわからなかったら、電話してください。",
+   "reply_kana": "このかみをみてもわからなかったら、でんわしてください。",
+   "reply_en": "If you still can't tell after checking this sheet, give me a call."
+  },
+  {
+   "by": "A",
+   "en": "At the end: ask if there's a convenience store nearby.",
+   "ja": "近くにコンビニはありますか。",
+   "kana": "ちかくにコンビニはありますか。",
+   "reply_ja": "駅のほうへ五分ぐらい歩くと、ありますよ。",
+   "reply_kana": "えきのほうへごふんぐらいあるくと、ありますよ。",
+   "reply_en": "Walk about five minutes towards the station and you'll find one."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Every Japanese town has its own rubbish rules: categories, collection days and the bags to use differ from place to place, and hosts usually leave a sheet (ごみの出し方) in the house. Common rules: burnable rubbish goes out on set mornings, not the night before; PET bottles are rinsed with caps and labels removed; nets keep crows off the collection point. In a Japanese bath you wash and rinse at the tap outside the tub first, then soak; the hot water is shared, so you never drain it or put soap or a towel in it. The days in this kaiwa are examples; check the host's sheet."
+  },
+  {
+   "label": "New words:",
+   "text": "お世話になります おせわになります thank you for having me · 分け方 わけかた way of sorting · 燃えるごみ もえるごみ burnable rubbish · 燃えないごみ もえないごみ non-burnable rubbish · 缶 かん can · ペットボトル PET bottle · ごみ置き場 ごみおきば collection point · 角 かど corner · カラス crow · 抜く ぬく let out (water) · ふた lid · 上着 うわぎ jacket"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "書いてあるとおりに / 教えてもらったとおりに / そのとおり, 洗ったあとで / 散歩のあとで, 出さないで / 抜かないで (instead of), 上着を着て行く (manner) (L34) · ～たほうがいい (L32) · ～ようと思います (L31) · 書いてある / かけておく / ふたをしておく (L30) · ～ていただけませんか / ～たらいいですか / ～んですね (L26) · ～と (L23) · ～前に (L18) · ～ないでください (L17) · ～てもいいですか (L15)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "ペットボトル → 新聞（しんぶん）, 縛って（しばって）出す · 火曜日と金曜日 → 月曜日と木曜日 · 散歩 → 晩ごはん · 上着を着て → 傘を持って"
+  }
+ ]
+}

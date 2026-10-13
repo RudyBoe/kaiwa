@@ -1,0 +1,271 @@
+{
+ "format": "kaiwa/1",
+ "id": "gohei-mochi-hida",
+ "kind": "dialogue",
+ "page_title": "Gohei Mochi Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 料理教室で",
+ "title": "五平餅を作ろう",
+ "subtitle": "A gohei-mochi cooking class in Hida",
+ "scene": "Morning at a small cooking class in a Hida farmhouse. The teacher shows a traveller how to make gohei-mochi, grilled rice on a stick with walnut-miso sauce.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 34,
+  "focus": [
+   30,
+   34
+  ]
+ },
+ "meta": "Minna L1–34, focus L30–34. Beyond L34: none.",
+ "tags": [
+  "food",
+  "cooking",
+  "class",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "生徒",
+   "en": "Student"
+  },
+  {
+   "id": "B",
+   "ja": "先生",
+   "en": "Teacher"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "皆さん、こんにちは。今日は五平餅を作ります。",
+   "kana": "みなさん、こんにちは。きょうはごへいもちをつくります。",
+   "en": "Hello, everyone. Today we're making gohei-mochi.",
+   "kw": "五平餅・作る"
+  },
+  {
+   "who": "A",
+   "ja": "よろしくお願いします。五平餅は初めて作ります。",
+   "kana": "よろしくおねがいします。ごへいもちははじめてつくります。",
+   "en": "Nice to meet you. It's my first time making gohei-mochi.",
+   "kw": "よろしく・初めて"
+  },
+  {
+   "who": "B",
+   "ja": "まず、手をよく洗ってください。それから、エプロンをして、始めましょう。",
+   "kana": "まず、てをよくあらってください。それから、エプロンをして、はじめましょう。",
+   "en": "First, wash your hands well. Then put on an apron and let's begin.",
+   "kw": "手を洗う・エプロンをする・始める"
+  },
+  {
+   "who": "A",
+   "ja": "ご飯はもう炊いてありますね。",
+   "kana": "ごはんはもうたいてありますね。",
+   "en": "The rice has already been cooked, I see.",
+   "kw": "ご飯・炊いてある"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、炊いておきました。私がやるとおりに、ご飯をつぶしてください。",
+   "kana": "ええ、たいておきました。わたしがやるとおりに、ごはんをつぶしてください。",
+   "en": "Yes, I cooked it in advance. Mash the rice the way I do it.",
+   "kw": "炊いておいた・やるとおりに・つぶす"
+  },
+  {
+   "who": "A",
+   "ja": "全部つぶさないで、少し残すんですか。",
+   "kana": "ぜんぶつぶさないで、すこしのこすんですか。",
+   "en": "So I don't mash it all, I leave some grains?",
+   "kw": "つぶさないで・残す"
+  },
+  {
+   "who": "B",
+   "ja": "そうです。米の形が少し残っているほうがおいしいんですよ。",
+   "kana": "そうです。こめのかたちがすこしのこっているほうがおいしいんですよ。",
+   "en": "That's right. It tastes better with some of the grains still whole.",
+   "kw": "米の形・残っている・ほうがおいしい"
+  },
+  {
+   "who": "A",
+   "ja": "つぶしたあとで、どうしますか。",
+   "kana": "つぶしたあとで、どうしますか。",
+   "en": "What do I do after mashing it?",
+   "kw": "つぶしたあとで・どうする"
+  },
+  {
+   "who": "B",
+   "ja": "手に水をつけて、ご飯を木の棒につけます。こうやって、平らにします。",
+   "kana": "てにみずをつけて、ごはんをきのぼうにつけます。こうやって、たいらにします。",
+   "en": "Wet your hands and press the rice onto the wooden stick. Flatten it like this.",
+   "kw": "水をつけて・木の棒・平らにする"
+  },
+  {
+   "who": "A",
+   "ja": "先生がやったとおりにやりましたが、形がちょっと変です。",
+   "kana": "せんせいがやったとおりにやりましたが、かたちがちょっとへんです。",
+   "en": "I did it just like you did, but the shape is a bit odd.",
+   "kw": "やったとおりに・形・変"
+  },
+  {
+   "who": "B",
+   "ja": "大丈夫ですよ。上手にできていますよ。",
+   "kana": "だいじょうぶですよ。じょうずにできていますよ。",
+   "en": "It's fine. You're doing it well.",
+   "kw": "大丈夫・上手にできている"
+  },
+  {
+   "who": "A",
+   "ja": "よかった。たれには何を入れますか。",
+   "kana": "よかった。たれにはなにをいれますか。",
+   "en": "Good. What goes into the sauce?",
+   "kw": "たれ・何を入れる"
+  },
+  {
+   "who": "B",
+   "ja": "くるみとみそと砂糖です。飛騨では昔からこのたれを使っています。",
+   "kana": "くるみとみそとさとうです。ひだではむかしからこのたれをつかっています。",
+   "en": "Walnuts, miso and sugar. People in Hida have used this sauce for a long time.",
+   "kw": "くるみ・みそ・砂糖・昔から"
+  },
+  {
+   "who": "A",
+   "ja": "くるみはどのくらい入れますか。",
+   "kana": "くるみはどのくらいいれますか。",
+   "en": "How much walnut do I put in?",
+   "kw": "どのくらい・入れる"
+  },
+  {
+   "who": "B",
+   "ja": "このレシピに書いてあるとおりに入れてください。",
+   "kana": "このレシピにかいてあるとおりにいれてください。",
+   "en": "Put in as much as the recipe says.",
+   "kw": "レシピ・書いてあるとおりに"
+  },
+  {
+   "who": "A",
+   "ja": "はい、スプーンで量って入れます。",
+   "kana": "はい、スプーンではかっていれます。",
+   "en": "OK, I'll measure it with a spoon and put it in.",
+   "kw": "スプーン・量って入れる"
+  },
+  {
+   "who": "B",
+   "ja": "じゃ、焼きましょう。まず、たれをつけないで、少し焼きます。",
+   "kana": "じゃ、やきましょう。まず、たれをつけないで、すこしやきます。",
+   "en": "Now let's grill them. First we grill them a little without the sauce.",
+   "kw": "焼く・つけないで・少し"
+  },
+  {
+   "who": "A",
+   "ja": "たれをつけないで焼くんですか。どうしてですか。",
+   "kana": "たれをつけないでやくんですか。どうしてですか。",
+   "en": "We grill them without sauce? Why?",
+   "kw": "つけないで焼く・どうして"
+  },
+  {
+   "who": "B",
+   "ja": "先に焼いておくと、たれがよくつくんです。",
+   "kana": "さきにやいておくと、たれがよくつくんです。",
+   "en": "If you grill them first, the sauce sticks better.",
+   "kw": "先に・焼いておくと・よくつく"
+  },
+  {
+   "who": "A",
+   "ja": "焼き色が付いたあとで、たれを塗るんですね。",
+   "kana": "やきいろがついたあとで、たれをぬるんですね。",
+   "en": "So we brush on the sauce once they've browned.",
+   "kw": "焼き色が付いたあとで・塗る"
+  },
+  {
+   "who": "B",
+   "ja": "そのとおりです。塗ったあとで、もう一度焼きます。すぐ焦げますから、よく見ていてください。",
+   "kana": "そのとおりです。ぬったあとで、もういちどやきます。すぐこげますから、よくみていてください。",
+   "en": "Exactly. After brushing, grill them once more. They burn quickly, so keep an eye on them.",
+   "kw": "そのとおり・塗ったあとで・焦げる・見ていて"
+  },
+  {
+   "who": "A",
+   "ja": "いいにおいですね。もう食べてもいいですか。",
+   "kana": "いいにおいですね。もうたべてもいいですか。",
+   "en": "That smells good. Can I eat it now?",
+   "kw": "いいにおい・食べてもいい"
+  },
+  {
+   "who": "B",
+   "ja": "どうぞ。熱いですから、気をつけて食べてください。",
+   "kana": "どうぞ。あついですから、きをつけてたべてください。",
+   "en": "Go ahead. It's hot, so eat carefully.",
+   "kw": "熱い・気をつけて食べる"
+  },
+  {
+   "who": "A",
+   "ja": "おいしい！家に帰ったら、今日習ったとおりに作ろうと思います。",
+   "kana": "おいしい！いえにかえったら、きょうならったとおりにつくろうとおもいます。",
+   "en": "Delicious! When I get home, I'm going to make it just as I learned today.",
+   "kw": "帰ったら・習ったとおりに・作ろうと思う"
+  },
+  {
+   "who": "B",
+   "ja": "いいですね。レシピを持って帰ってください。",
+   "kana": "いいですね。レシピをもってかえってください。",
+   "en": "Great. Take the recipe home with you.",
+   "kw": "レシピ・持って帰る"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 11: ask the student to make the next one without watching.",
+   "ja": "次は私を見ないで、一人で作ってください。",
+   "kana": "つぎはわたしをみないで、ひとりでつくってください。",
+   "reply_ja": "わかりました。さっき先生がやったとおりにやります。",
+   "reply_kana": "わかりました。さっきせんせいがやったとおりにやります。",
+   "reply_en": "OK. I'll do it the way you did a moment ago."
+  },
+  {
+   "by": "B",
+   "en": "At the end: ask whether people make food with rice in the student's country.",
+   "ja": "ベルギーでも米で料理を作りますか。",
+   "kana": "ベルギーでもこめでりょうりをつくりますか。",
+   "reply_ja": "あまり作りません。ベルギーではパンやじゃがいもをよく食べます。",
+   "reply_kana": "あまりつくりません。ベルギーではパンやじゃがいもをよくたべます。",
+   "reply_en": "Not much. In Belgium we eat a lot of bread and potatoes."
+  },
+  {
+   "by": "A",
+   "en": "After line 13: ask what someone who can't eat walnuts should do.",
+   "ja": "くるみが食べられない人は、どうしたらいいですか。",
+   "kana": "くるみがたべられないひとは、どうしたらいいですか。",
+   "reply_ja": "ごまで作っても、おいしいですよ。",
+   "reply_kana": "ごまでつくっても、おいしいですよ。",
+   "reply_en": "It's tasty made with sesame too."
+  },
+  {
+   "by": "A",
+   "en": "After line 10: you've dropped one on the floor.",
+   "ja": "すみません、一本落としてしまいました。",
+   "kana": "すみません、いっぽんおとしてしまいました。",
+   "reply_ja": "大丈夫ですよ。ご飯はまだありますから、もう一本作りましょう。",
+   "reply_kana": "だいじょうぶですよ。ごはんはまだありますから、もういっぽんつくりましょう。",
+   "reply_en": "No problem. There's still rice, so let's make another one."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Gohei-mochi (五平餅) is a mountain snack from Gifu, Nagano and Aichi, very common in Hida: half-mashed rice pressed onto a flat wooden stick, grilled, brushed with a sweet sauce of miso or soy sauce with walnuts or sesame, then grilled again. You'll find it at stalls in Takayama's old town and at roadside stations (道の駅). Hands-on cooking and craft classes in Hida are run by farm stays and local studios and usually need booking; check what's on in early November."
+  },
+  {
+   "label": "New words:",
+   "text": "五平餅 ごへいもち grilled rice on a stick · 炊く たく cook (rice) · つぶす mash · 残す のこす leave · 棒 ぼう stick · 平ら たいら flat · たれ sauce · くるみ walnut · 砂糖 さとう sugar · 量る はかる measure · 焼き色 やきいろ browning · 塗る ぬる brush on · 焦げる こげる burn · ごま sesame"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "やるとおりに / やったとおりに / 書いてあるとおりに / 習ったとおりに / そのとおり, つぶしたあとで / 付いたあとで, つぶさないで / つけないで, 量って入れる / 気をつけて食べる (manner) (L34) · ～ようと思います (L31) · 炊いてある / 炊いておいた / 焼いておくと (L30) · 落としてしまいました, 残っている (L29) · ～んですか / ～たらいいですか (L26) · ～たら (L25) · ～と (L23)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "五平餅 → 朴葉みそ（ほおばみそ）, miso grilled on a magnolia leaf · くるみ → ごま · 家に帰ったら → ベルギーに帰ったら"
+  }
+ ]
+}
