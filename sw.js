@@ -4,7 +4,7 @@
 // fallback; everything else is cache first. Google Fonts are cached as they
 // load, in a cache that survives version bumps.
 // Bump VERSION together with the ?v= tags in index.html on every change.
-const VERSION = "v3";
+const VERSION = "v4";
 const CACHE = `kaiwa-${VERSION}`;
 const FONTS = "kaiwa-fonts";
 const V = VERSION.replace("v", "v=");
@@ -54,12 +54,13 @@ function networkFirst(req, key) {
     return res;
   });
   const cached = () => caches.match(key || req, { ignoreSearch: true });
-  // Use the network unless it fails or takes longer than 4 s and a cached copy exists.
+  // Use the network unless it fails, answers with an error (e.g. a 503 from
+  // GitHub Pages) or takes longer than 4 s, and a cached copy exists.
   return Promise.race([net.catch(() => null), timeout.then(() => "slow")]).then(async (r) => {
-    if (r && r !== "slow") return r;
+    if (r && r !== "slow" && r.ok) return r;
     const hit = await cached();
     if (hit) return hit;
-    return net;
+    return r && r !== "slow" ? r : net;
   });
 }
 

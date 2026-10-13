@@ -102,19 +102,28 @@ export const putImported = (d) => tx("readwrite", (s) => s.put(d));
 export const deleteImported = (id) => tx("readwrite", (s) => s.delete(id));
 
 // ---- Library ------------------------------------------------------------
+// GitHub Pages sometimes answers a burst of requests with 503; retry server
+// errors twice, with a short pause, before giving up.
+async function fetchRetry(url, tries = 3) {
+  for (let i = 1; ; i++) {
+    const res = await fetch(url);
+    if (res.ok || res.status < 500 || i >= tries) return res;
+    await new Promise((r) => setTimeout(r, 400 * i));
+  }
+}
 // items: [{ data, source: "repo"|"imported", name }]
 // problems: [{ name, source, id, errors }]
 export async function loadLibrary() {
   const entries = [];
   const problems = [];
   try {
-    const res = await fetch("library/index.json");
+    const res = await fetchRetry("library/index.json");
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const names = await res.json();
     if (!Array.isArray(names)) throw new Error("index.json must be an array of file names");
     const loaded = await Promise.all(names.map(async (name) => {
       try {
-        const r = await fetch("library/" + encodeURIComponent(name));
+        const r = await fetchRetry("library/" + encodeURIComponent(name));
         if (!r.ok) throw new Error(`could not load (HTTP ${r.status})`);
         let data;
         try { data = await r.json(); } catch (err) { throw new Error("not valid JSON: " + err.message); }
