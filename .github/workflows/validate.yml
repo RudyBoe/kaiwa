@@ -2,7 +2,7 @@ name: Validate library
 
 on:
   push:
-    paths: ["library/**", "validate.js", "tools/**", ".github/workflows/validate.yml"]
+    paths: ["library/**", "validate.js", "tools/**", "docs/kaiwa.md", ".github/workflows/validate.yml"]
   pull_request:
     paths: ["library/**", "validate.js", "tools/**"]
   workflow_dispatch:
@@ -24,3 +24,5 @@ jobs:
         run: node tools/check.mjs
       - name: validate.js matches the Python rules
         run: node tools/test-validate.mjs
+      - name: docs/kaiwa.md index table is up to date
+        run: node tools/index-md.mjs --check

@@ -49,7 +49,9 @@ files.
 
 1. Check it: `python3 tools/validate_kaiwa.py my-kaiwa.kaiwa.json` (or
    `node tools/check.mjs` after step 2). The file name must be `<id>.kaiwa.json`.
-2. Put it in `library/` and add its file name to `library/index.json`.
+2. Put it in `library/` and add its file name to `library/index.json`. Run
+   `node tools/index-md.mjs` to update the list in
+   [docs/kaiwa.md](docs/kaiwa.md), the index of all kaiwa.
 3. Commit and push. The *Validate library* GitHub Action checks every file;
    phones pick up the new kaiwa the next time Kaiwa opens online.
 
