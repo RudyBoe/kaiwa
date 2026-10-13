@@ -1,0 +1,264 @@
+{
+ "format": "kaiwa/1",
+ "id": "shumi-kinjo-gifu",
+ "kind": "dialogue",
+ "page_title": "Shumi Kinjo Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 近所の人と",
+ "title": "野菜を育てるのが好きです",
+ "subtitle": "Talking hobbies over the fence in Gujō-Hachiman",
+ "scene": "A sunny late-November afternoon in Gujō-Hachiman, Gifu. The guest of a rental house is photographing the persimmon tree next door when the neighbour comes out to her vegetable plot.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 38,
+  "focus": [
+   34,
+   38
+  ]
+ },
+ "meta": "Minna L1–38, focus L34–38. Beyond L38: none.",
+ "tags": [
+  "neighbour",
+  "hobbies",
+  "smalltalk",
+  "gifu"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Guest"
+  },
+  {
+   "id": "B",
+   "ja": "近所の人",
+   "en": "Neighbour"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "こんにちは。そこの家に泊まっている方ですか。",
+   "kana": "こんにちは。そこのいえにとまっているかたですか。",
+   "en": "Hello. Are you the one staying in that house?",
+   "kw": "泊まっている・方"
+  },
+  {
+   "who": "A",
+   "ja": "はい、ベルギーから来たヤンセンスです。一週間ここにいます。よろしくお願いします。",
+   "kana": "はい、ベルギーからきたヤンセンスです。いっしゅうかんここにいます。よろしくおねがいします。",
+   "en": "Yes, I'm Janssens from Belgium. I'm here for a week. Nice to meet you.",
+   "kw": "ベルギーから来た・一週間"
+  },
+  {
+   "who": "B",
+   "ja": "隣の田中です。何の写真を撮っているんですか。",
+   "kana": "となりのたなかです。なんのしゃしんをとっているんですか。",
+   "en": "I'm Tanaka from next door. What are you taking photos of?",
+   "kw": "隣・何の写真・撮っている"
+  },
+  {
+   "who": "A",
+   "ja": "田中さんの庭の柿です。写真を撮るのが好きなんです。",
+   "kana": "たなかさんのにわのかきです。しゃしんをとるのがすきなんです。",
+   "en": "The persimmons in your garden. I love taking photos.",
+   "kw": "柿・写真を撮るのが好き"
+  },
+  {
+   "who": "B",
+   "ja": "この町なら、吉田川の写真を撮るのも楽しいですよ。水がとてもきれいですから。",
+   "kana": "このまちなら、よしだがわのしゃしんをとるのもたのしいですよ。みずがとてもきれいですから。",
+   "en": "In this town, photographing the Yoshida River is fun too. The water is really clear.",
+   "kw": "この町なら・撮るのも楽しい・吉田川"
+  },
+  {
+   "who": "A",
+   "ja": "ええ、昨日撮りました。田中さんの趣味は何ですか。",
+   "kana": "ええ、きのうとりました。たなかさんのしゅみはなんですか。",
+   "en": "Yes, I took some yesterday. What's your hobby?",
+   "kw": "趣味・何"
+  },
+  {
+   "who": "B",
+   "ja": "私は野菜を育てるのが好きです。この畑で大根や白菜を作っています。",
+   "kana": "わたしはやさいをそだてるのがすきです。このはたけでだいこんやはくさいをつくっています。",
+   "en": "I love growing vegetables. I grow daikon and Chinese cabbage in this plot.",
+   "kw": "野菜を育てるのが好き・畑・大根や白菜"
+  },
+  {
+   "who": "A",
+   "ja": "大きい大根ですね。野菜を育てるのは大変でしょう。",
+   "kana": "おおきいだいこんですね。やさいをそだてるのはたいへんでしょう。",
+   "en": "What a big daikon. Growing vegetables must be hard work.",
+   "kw": "育てるのは大変・でしょう"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、時々鳥に食べられます。でも、自分で育てた野菜はおいしいですよ。",
+   "kana": "ええ、ときどきとりにたべられます。でも、じぶんでそだてたやさいはおいしいですよ。",
+   "en": "Yes, sometimes the birds eat them. But vegetables you grow yourself taste good.",
+   "kw": "鳥に食べられる・自分で育てた"
+  },
+  {
+   "who": "A",
+   "ja": "ほかに趣味がありますか。",
+   "kana": "ほかにしゅみがありますか。",
+   "en": "Do you have any other hobbies?",
+   "kw": "ほかに・趣味"
+  },
+  {
+   "who": "B",
+   "ja": "夏は長良川で鮎を釣るのが好きです。でも、主人のほうが釣るのが上手です。",
+   "kana": "なつはながらがわであゆをつるのがすきです。でも、しゅじんのほうがつるのがじょうずです。",
+   "en": "In summer I like fishing for ayu in the Nagara River. But my husband is better at it.",
+   "kw": "鮎を釣るのが好き・主人のほうが・上手"
+  },
+  {
+   "who": "A",
+   "ja": "鮎は有名ですね。私は釣りは下手ですが、魚を食べるのは大好きです。",
+   "kana": "あゆはゆうめいですね。わたしはつりはへたですが、さかなをたべるのはだいすきです。",
+   "en": "Ayu are famous. I'm bad at fishing, but I love eating fish.",
+   "kw": "釣りは下手・食べるのは大好き"
+  },
+  {
+   "who": "B",
+   "ja": "ヤンセンスさんは日本語が上手ですね。",
+   "kana": "ヤンセンスさんはにほんごがじょうずですね。",
+   "en": "Your Japanese is very good, Mr Janssens.",
+   "kw": "日本語が上手"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。外国の言葉を習うのが好きなんです。",
+   "kana": "ありがとうございます。がいこくのことばをならうのがすきなんです。",
+   "en": "Thank you. I enjoy learning foreign languages.",
+   "kw": "言葉を習うのが好き"
+  },
+  {
+   "who": "B",
+   "ja": "漢字も読めますか。",
+   "kana": "かんじもよめますか。",
+   "en": "Can you read kanji too?",
+   "kw": "漢字・読める"
+  },
+  {
+   "who": "A",
+   "ja": "少し読めます。漢字を覚えるのは大変ですが、毎日書くようにしています。",
+   "kana": "すこしよめます。かんじをおぼえるのはたいへんですが、まいにちかくようにしています。",
+   "en": "A little. Memorising kanji is hard, but I make a point of writing them every day.",
+   "kw": "覚えるのは大変・書くようにしている"
+  },
+  {
+   "who": "B",
+   "ja": "すごいですね。ところで、日本の食品サンプルは、この町でたくさん作られているんですよ。",
+   "kana": "すごいですね。ところで、にほんのしょくひんサンプルは、このまちでたくさんつくられているんですよ。",
+   "en": "Impressive. By the way, a lot of Japan's plastic food samples are made in this town.",
+   "kw": "食品サンプル・作られている"
+  },
+  {
+   "who": "A",
+   "ja": "はい、昨日、教室で作りました。作ったのは天ぷらとレタスです。",
+   "kana": "はい、きのう、きょうしつでつくりました。つくったのはてんぷらとレタスです。",
+   "en": "Yes, I made some at a class yesterday. What I made was tempura and lettuce.",
+   "kw": "作ったのは・天ぷらとレタス"
+  },
+  {
+   "who": "B",
+   "ja": "上手にできましたか。",
+   "kana": "じょうずにできましたか。",
+   "en": "Did they turn out well?",
+   "kw": "上手にできる"
+  },
+  {
+   "who": "A",
+   "ja": "先生が言ったとおりに作りましたが、レタスを作るのは難しかったです。",
+   "kana": "せんせいがいったとおりにつくりましたが、レタスをつくるのはむずかしかったです。",
+   "en": "I made them just as the teacher said, but the lettuce was difficult.",
+   "kw": "言ったとおりに・作るのは難しい"
+  },
+  {
+   "who": "B",
+   "ja": "初めての人は皆さんそう言いますよ。夏に来れば、郡上おどりも見られますよ。",
+   "kana": "はじめてのひとはみなさんそういいますよ。なつにくれば、ぐじょうおどりもみられますよ。",
+   "en": "Everyone says that the first time. If you come in summer, you can see the Gujō Odori too.",
+   "kw": "皆さんそう言う・来れば・郡上おどり"
+  },
+  {
+   "who": "A",
+   "ja": "郡上おどりは有名ですね。田中さんも踊るのが上手でしょう。",
+   "kana": "ぐじょうおどりはゆうめいですね。たなかさんもおどるのがじょうずでしょう。",
+   "en": "The Gujō Odori is famous. I bet you're a good dancer too.",
+   "kw": "踊るのが上手・でしょう"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、下手ですよ。でも、一番楽しいのは、町の人と観光客がいっしょに踊ることです。",
+   "kana": "いいえ、へたですよ。でも、いちばんたのしいのは、まちのひととかんこうきゃくがいっしょにおどることです。",
+   "en": "Oh no, I'm bad. But the best part is that locals and visitors dance together.",
+   "kw": "一番楽しいのは・いっしょに踊ること"
+  },
+  {
+   "who": "A",
+   "ja": "いいですね。次は夏に来て、いっしょに踊りたいです。",
+   "kana": "いいですね。つぎはなつにきて、いっしょにおどりたいです。",
+   "en": "That sounds great. Next time I'd like to come in summer and dance with you.",
+   "kw": "夏に来て・踊りたい"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 07: the neighbour asks about cooking.",
+   "ja": "ヤンセンスさんは料理を作るのが好きですか。",
+   "kana": "ヤンセンスさんはりょうりをつくるのがすきですか。",
+   "reply_ja": "はい、作るのは好きですが、あまり上手じゃありません。",
+   "reply_kana": "はい、つくるのはすきですが、あまりじょうずじゃありません。",
+   "reply_en": "Yes, I like cooking, but I'm not very good at it."
+  },
+  {
+   "by": "B",
+   "en": "At the end: the neighbour gives you a daikon.",
+   "ja": "これ、うちの畑の大根です。よかったら、どうぞ。",
+   "kana": "これ、うちのはたけのだいこんです。よかったら、どうぞ。",
+   "reply_ja": "えっ、いいんですか。ありがとうございます。今晩、料理するのが楽しみです。",
+   "reply_kana": "えっ、いいんですか。ありがとうございます。こんばん、りょうりするのがたのしみです。",
+   "reply_en": "Really? Thank you so much. I'm looking forward to cooking it tonight."
+  },
+  {
+   "by": "A",
+   "en": "After line 11: ask whether you can catch ayu in winter.",
+   "ja": "鮎は冬も釣れますか。",
+   "kana": "あゆはふゆもつれますか。",
+   "reply_ja": "いいえ、冬は釣れません。鮎を釣るのは夏から秋までです。",
+   "reply_kana": "いいえ、ふゆはつれません。あゆをつるのはなつからあきまでです。",
+   "reply_en": "No, not in winter. Ayu fishing is from summer to autumn."
+  },
+  {
+   "by": "A",
+   "en": "After line 17: ask whether the food-sample class needs booking.",
+   "ja": "食品サンプルの教室は、予約しなければなりませんか。",
+   "kana": "しょくひんサンプルのきょうしつは、よやくしなければなりませんか。",
+   "reply_ja": "予約したほうがいいですよ。週末は人が多いですから。",
+   "reply_kana": "よやくしたほうがいいですよ。しゅうまつはひとがおおいですから。",
+   "reply_en": "You'd better book. There are lots of people at weekends."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Gujō-Hachiman (郡上八幡) is an old castle town in central Gifu where the clear Yoshida River joins the Nagara River; in summer local children famously jump into the Yoshida from the town's bridges. The town is known as a centre of Japan's plastic food-sample (食品サンプル) industry, and several workshops let visitors make their own tempura and lettuce samples. Ayu (sweetfish) fishing on the Nagara and Yoshida rivers runs roughly from early summer into autumn, not in winter. The Gujō Odori is a long summer dance festival (July to early September) in which visitors join the locals, with all-night dancing during Obon. Persimmons, daikon and hakusai are typical late-autumn sights in village gardens. Workshop hours, booking rules and festival dates change every year: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "柿 かき persimmon · 吉田川 よしだがわ Yoshida River · 趣味 しゅみ hobby · 育てる そだてる grow, raise · 畑 はたけ vegetable plot · 大根 だいこん daikon radish · 白菜 はくさい Chinese cabbage · 長良川 ながらがわ Nagara River · 鮎 あゆ sweetfish · 釣る つる catch (fish) · 主人 しゅじん (my) husband · 食品サンプル しょくひんサンプル plastic food sample · レタス lettuce · 郡上おどり ぐじょうおどり Gujō dance festival · 踊る おどる dance · 観光客 かんこうきゃく tourist"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "撮るのが好き / 育てるのが好き / 釣るのが上手 / 踊るのが上手, 撮るのも楽しい / 育てるのは大変 / 覚えるのは大変 / 作るのは難しかった, 作ったのは天ぷらです / 一番楽しいのは～ことです (L38) · 鳥に食べられます / 作られています (L37) · 書くようにしています (L36) · この町なら, 来れば (L35) · 言ったとおりに (L34) · ～でしょう (L32) · 読めます / 見られます (L27) · ～んです / ～んですよ (L26) · 主人のほうが (L12)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "柿 → 紅葉（こうよう）· 野菜を育てる → 花を育てる · 鮎を釣る → 山に登る（のぼる）· 郡上おどり → 郡上八幡城（ぐじょうはちまんじょう）の雪"
+  }
+ ]
+}

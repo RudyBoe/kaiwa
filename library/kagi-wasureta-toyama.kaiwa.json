@@ -1,0 +1,264 @@
+{
+ "format": "kaiwa/1",
+ "id": "kagi-wasureta-toyama",
+ "kind": "dialogue",
+ "page_title": "Kagi Wasureta Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 貸家で",
+ "title": "鍵をかけるのを忘れました",
+ "subtitle": "Phoning the host: the door and the heater",
+ "scene": "Toyama Station, a December morning. On his way to Takaoka, a traveller realises he left the rental house unlocked and maybe the kerosene heater on, and phones the host.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 38,
+  "focus": [
+   34,
+   38
+  ]
+ },
+ "meta": "Minna L1–38, focus L34–38. Beyond L38: none.",
+ "tags": [
+  "house",
+  "phone",
+  "rubbish",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Guest"
+  },
+  {
+   "id": "B",
+   "ja": "大家さん",
+   "en": "Host"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "もしもし、山本さんですか。山本さんの家を借りているヤンセンスです。",
+   "kana": "もしもし、やまもとさんですか。やまもとさんのいえをかりているヤンセンスです。",
+   "en": "Hello, is that Mr Yamamoto? It's Janssens. I'm renting your house.",
+   "kw": "家を借りている"
+  },
+  {
+   "who": "B",
+   "ja": "ああ、ヤンセンスさん。どうしましたか。",
+   "kana": "ああ、ヤンセンスさん。どうしましたか。",
+   "en": "Ah, Mr Janssens. What's the matter?",
+   "kw": "どうしました"
+  },
+  {
+   "who": "A",
+   "ja": "今、富山駅にいるんですが、家を出るとき、玄関の鍵をかけるのを忘れました。",
+   "kana": "いま、とやまえきにいるんですが、いえをでるとき、げんかんのかぎをかけるのをわすれました。",
+   "en": "I'm at Toyama Station now, but when I left the house I forgot to lock the front door.",
+   "kw": "出るとき・玄関・鍵をかけるのを忘れた"
+  },
+  {
+   "who": "B",
+   "ja": "そうですか。鍵は今どこにありますか。",
+   "kana": "そうですか。かぎはいまどこにありますか。",
+   "en": "I see. Where is the key now?",
+   "kw": "鍵・どこ"
+  },
+  {
+   "who": "A",
+   "ja": "台所のテーブルの上に置いてあります。それから、ストーブを消すのも忘れたかもしれません。",
+   "kana": "だいどころのテーブルのうえにおいてあります。それから、ストーブをけすのもわすれたかもしれません。",
+   "en": "It's on the kitchen table. And I may have forgotten to turn off the heater too.",
+   "kw": "置いてある・ストーブを消すのも・かもしれない"
+  },
+  {
+   "who": "B",
+   "ja": "灯油ストーブですね。鍵は大丈夫ですが、危ないのはストーブです。",
+   "kana": "とうゆストーブですね。かぎはだいじょうぶですが、あぶないのはストーブです。",
+   "en": "The kerosene heater. The key is no problem, but the heater is what's dangerous.",
+   "kw": "灯油ストーブ・危ないのは"
+  },
+  {
+   "who": "A",
+   "ja": "本当にすみません。古い家で灯油ストーブを使うのは初めてなんです。",
+   "kana": "ほんとうにすみません。ふるいいえでとうゆストーブをつかうのははじめてなんです。",
+   "en": "I'm really sorry. It's my first time using a kerosene heater in an old house.",
+   "kw": "使うのは初めて・なんです"
+  },
+  {
+   "who": "B",
+   "ja": "気にしないでください。私の家はすぐ近くですから、今から見に行って、消しておきます。",
+   "kana": "きにしないでください。わたしのいえはすぐちかくですから、いまからみにいって、けしておきます。",
+   "en": "Don't worry. My house is just nearby, so I'll go over now and turn it off.",
+   "kw": "気にしないで・見に行って・消しておく"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。玄関の鍵もかけていただけませんか。",
+   "kana": "ありがとうございます。げんかんのかぎもかけていただけませんか。",
+   "en": "Thank you. Could you lock the front door as well?",
+   "kw": "鍵もかける・いただけませんか"
+  },
+  {
+   "who": "B",
+   "ja": "はい、かけておきます。じゃ、帰ったら、キーボックスを使ってください。",
+   "kana": "はい、かけておきます。じゃ、かえったら、キーボックスをつかってください。",
+   "en": "Sure, I'll lock it. So when you get back, use the key box.",
+   "kw": "かけておく・帰ったら・キーボックス"
+  },
+  {
+   "who": "A",
+   "ja": "キーボックスはどこにありますか。",
+   "kana": "キーボックスはどこにありますか。",
+   "en": "Where is the key box?",
+   "kw": "キーボックス・どこ"
+  },
+  {
+   "who": "B",
+   "ja": "玄関の右にある黒い箱です。テーブルの鍵は、その中に入れておきます。",
+   "kana": "げんかんのみぎにあるくろいはこです。テーブルのかぎは、そのなかにいれておきます。",
+   "en": "It's the black box to the right of the front door. I'll put the key from the table inside it.",
+   "kw": "玄関の右・黒い箱・入れておく"
+  },
+  {
+   "who": "A",
+   "ja": "番号は何番ですか。",
+   "kana": "ばんごうはなんばんですか。",
+   "en": "What's the code?",
+   "kw": "番号・何番"
+  },
+  {
+   "who": "B",
+   "ja": "あとでメールで送ります。番号を押せば、すぐ開きますよ。",
+   "kana": "あとでメールでおくります。ばんごうをおせば、すぐあきますよ。",
+   "en": "I'll send it by email later. Press the code and it opens straight away.",
+   "kw": "メールで送る・押せば・開く"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。本当に助かります。",
+   "kana": "わかりました。ほんとうにたすかります。",
+   "en": "Understood. That's a real help.",
+   "kw": "助かる"
+  },
+  {
+   "who": "B",
+   "ja": "あ、それから、明日がごみの日なのを知っていますか。",
+   "kana": "あ、それから、あしたがごみのひなのをしっていますか。",
+   "en": "Oh, and did you know that tomorrow is rubbish day?",
+   "kw": "ごみの日なのを・知っている"
+  },
+  {
+   "who": "A",
+   "ja": "いいえ、知りませんでした。何のごみの日ですか。",
+   "kana": "いいえ、しりませんでした。なんのごみのひですか。",
+   "en": "No, I didn't know. Rubbish day for what?",
+   "kw": "知らなかった・何のごみ"
+  },
+  {
+   "who": "B",
+   "ja": "燃えるごみです。朝、決められた場所に出してください。",
+   "kana": "もえるごみです。あさ、きめられたばしょにだしてください。",
+   "en": "Burnable rubbish. Put it out in the morning at the set place.",
+   "kw": "燃えるごみ・決められた場所・出す"
+  },
+  {
+   "who": "A",
+   "ja": "日本でごみを分けるのは、私にはまだ難しいです。",
+   "kana": "にほんでごみをわけるのは、わたしにはまだむずかしいです。",
+   "en": "Sorting rubbish in Japan is still hard for me.",
+   "kw": "ごみを分けるのは・難しい"
+  },
+  {
+   "who": "B",
+   "ja": "台所の壁に分け方が書いてありますから、そのとおりに分けてください。",
+   "kana": "だいどころのかべにわけかたがかいてありますから、そのとおりにわけてください。",
+   "en": "How to sort it is written on the kitchen wall, so just sort it the way it says.",
+   "kw": "分け方・書いてある・そのとおりに"
+  },
+  {
+   "who": "A",
+   "ja": "はい。今度から、出かける前に、鍵とストーブをよく見るようにします。",
+   "kana": "はい。こんどから、でかけるまえに、かぎとストーブをよくみるようにします。",
+   "en": "Yes. From now on I'll make sure to check the key and the heater before I go out.",
+   "kw": "出かける前に・よく見るようにする"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。ところで、今日はどこへ行くんですか。",
+   "kana": "ええ。ところで、きょうはどこへいくんですか。",
+   "en": "Right. By the way, where are you off to today?",
+   "kw": "どこへ行くんですか"
+  },
+  {
+   "who": "A",
+   "ja": "高岡へ行きます。大仏を見るのが楽しみです。",
+   "kana": "たかおかへいきます。だいぶつをみるのがたのしみです。",
+   "en": "To Takaoka. I'm looking forward to seeing the Great Buddha.",
+   "kw": "高岡・大仏を見るのが楽しみ"
+  },
+  {
+   "who": "B",
+   "ja": "いいですね。ストーブのことは心配しないで、旅行を楽しんでください。いってらっしゃい。",
+   "kana": "いいですね。ストーブのことはしんぱいしないで、りょこうをたのしんでください。いってらっしゃい。",
+   "en": "Lovely. Don't worry about the heater, just enjoy your trip. Have a good day.",
+   "kw": "心配しないで・楽しんでください・いってらっしゃい"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 08: the host is out and can only go later.",
+   "ja": "すみません、今、出かけているんです。一時間ぐらいあとでもいいですか。",
+   "kana": "すみません、いま、でかけているんです。いちじかんぐらいあとでもいいですか。",
+   "reply_ja": "はい、大丈夫です。でも、ストーブを消すのを忘れないでくださいね。",
+   "reply_kana": "はい、だいじょうぶです。でも、ストーブをけすのをわすれないでくださいね。",
+   "reply_en": "Yes, that's fine. But please don't forget to turn off the heater."
+  },
+  {
+   "by": "B",
+   "en": "After line 18: the rubbish must be out early.",
+   "ja": "ごみは朝八時までに出さなければなりませんよ。",
+   "kana": "ごみはあさはちじまでにださなければなりませんよ。",
+   "reply_ja": "わかりました。明日は早く起きるようにします。",
+   "reply_kana": "わかりました。あしたははやくおきるようにします。",
+   "reply_en": "Understood. I'll make sure to get up early tomorrow."
+  },
+  {
+   "by": "A",
+   "en": "After line 14: ask what to do if the email doesn't arrive.",
+   "ja": "メールが来なければ、どうすればいいですか。",
+   "kana": "メールがこなければ、どうすればいいですか。",
+   "reply_ja": "そのときは、また電話してください。",
+   "reply_kana": "そのときは、またでんわしてください。",
+   "reply_en": "In that case, just call me again."
+  },
+  {
+   "by": "A",
+   "en": "At the end: ask whether you may use the heater tonight.",
+   "ja": "今晩、ストーブをつけてもいいですか。",
+   "kana": "こんばん、ストーブをつけてもいいですか。",
+   "reply_ja": "はい。でも、寝る前と出かける前に、必ず消してくださいね。",
+   "reply_kana": "はい。でも、ねるまえとでかけるまえに、かならずけしてくださいね。",
+   "reply_en": "Yes. But always turn it off before you go to bed and before you go out."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Many older Japanese houses, especially in snowy Hokuriku, are heated with portable kerosene heaters (灯油ストーブ); they must be switched off before sleeping or leaving the house, and a host will take a forgotten heater seriously. Rental houses often use a key box (キーボックス) by the door with a number code for self check-in, sent by the host by message. Rubbish is collected by type on fixed days and must go to the neighbourhood collection point (ごみ置き場) on the morning of that day; most houses have a sorting chart on the wall. Takaoka, a short train ride west of Toyama, has the large bronze Takaoka Daibutsu. Collection days, times and the local name of the category (燃えるごみ or 燃やせるごみ) differ by town and by street: check the chart in the house before you go out."
+  },
+  {
+   "label": "New words:",
+   "text": "玄関 げんかん front door, entrance · 灯油 とうゆ kerosene · ストーブ heater · キーボックス key box · 箱 はこ box · 番号 ばんごう number, code · 助かる たすかる be a help · 燃えるごみ もえるごみ burnable rubbish · 壁 かべ wall · 分け方 わけかた way of sorting · 高岡 たかおか Takaoka · 大仏 だいぶつ great Buddha statue · 必ず かならず always, without fail"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "鍵をかけるのを忘れました / ストーブを消すのも忘れた / ごみの日なのを知っていますか, 使うのは初めて / 分けるのは難しい, 見るのが楽しみ, 危ないのはストーブです (L38) · 決められた場所 passive (L37) · 見るようにします / 起きるようにします (L36) · 押せば / 来なければ, どうすればいい (L35) · そのとおりに, 心配しないで (L34) · かもしれません (L32) · 置いてあります / 書いてあります / 消しておきます (L30) · ～んですが, ～ていただけませんか (L26) · 帰ったら (L25) · 出るとき (L23) · 出かける前に (L18)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "鍵をかける → 電気を消す（でんきをけす）· 灯油ストーブ → エアコン · 燃えるごみ → プラスチックごみ · 高岡の大仏 → 雨晴海岸（あまはらしかいがん）の海"
+  }
+ ]
+}

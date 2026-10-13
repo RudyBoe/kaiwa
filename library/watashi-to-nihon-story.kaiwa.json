@@ -1,0 +1,235 @@
+{
+ "format": "kaiwa/1",
+ "id": "watashi-to-nihon-story",
+ "kind": "story",
+ "page_title": "Watashi to Nihon",
+ "eyebrow": "Story · N4 · 私と日本",
+ "title": "私が生まれたのはアントワープです",
+ "subtitle": "Me and Japan: a traveller's story",
+ "scene": "On the last evening of the trip, a traveller from Antwerp tells a Japanese friend about himself, how he came to Japanese, and the best moment of this journey.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 38,
+  "focus": [
+   34,
+   38
+  ]
+ },
+ "meta": "Minna L1–38, focus L34–38. Beyond L38: none.",
+ "tags": [
+  "self-introduction",
+  "hobbies",
+  "travel",
+  "antwerp"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "私が生まれたのはアントワープです。ベルギーの北にある港の町です。",
+   "kana": "わたしがうまれたのはアントワープです。ベルギーのきたにあるみなとのまちです。",
+   "en": "Where I was born is Antwerp. It's a port city in the north of Belgium.",
+   "kw": "生まれたのは・アントワープ・港の町"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "子どものとき、絵をかくのが好きでした。港の船の絵をよくかきました。",
+   "kana": "こどものとき、えをかくのがすきでした。みなとのふねのえをよくかきました。",
+   "en": "As a child I loved drawing. I often drew the ships in the port.",
+   "kw": "子どものとき・絵をかくのが好き・船"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "初めて日本へ旅行したとき、古いお寺も料理も、全部おもしろいと思いました。",
+   "kana": "はじめてにほんへりょこうしたとき、ふるいおてらもりょうりも、ぜんぶおもしろいとおもいました。",
+   "en": "The first time I travelled to Japan, I found everything fascinating, the old temples and the food.",
+   "kw": "初めて・旅行したとき・おもしろいと思った"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "日本語の勉強を始めたのは、その旅行から帰ったあとです。",
+   "kana": "にほんごのべんきょうをはじめたのは、そのりょこうからかえったあとです。",
+   "en": "It was after I came back from that trip that I started studying Japanese.",
+   "kw": "始めたのは・帰ったあと"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "今は「みんなの日本語」で、毎日少しずつ勉強するようにしています。",
+   "kana": "いまは「みんなのにほんご」で、まいにちすこしずつべんきょうするようにしています。",
+   "en": "Now I make a point of studying a little every day with Minna no Nihongo.",
+   "kw": "みんなの日本語・少しずつ・するようにしている"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "漢字を覚えるのは大変ですが、楽しいです。",
+   "kana": "かんじをおぼえるのはたいへんですが、たのしいです。",
+   "en": "Memorising kanji is hard, but it's fun.",
+   "kw": "漢字を覚えるのは・大変・楽しい"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "日本語で話すのはまだ難しいですが、話せば話すほど、上手になると思います。",
+   "kana": "にほんごではなすのはまだむずかしいですが、はなせばはなすほど、じょうずになるとおもいます。",
+   "en": "Speaking Japanese is still difficult, but I think the more I speak, the better I'll get.",
+   "kw": "話すのは難しい・話せば話すほど"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "日本で一番好きなのは、古い町を歩くことです。高山の古い町はとてもきれいでした。",
+   "kana": "にほんでいちばんすきなのは、ふるいまちをあるくことです。たかやまのふるいまちはとてもきれいでした。",
+   "en": "What I like most in Japan is walking through old towns. The old town in Takayama was really beautiful.",
+   "kw": "一番好きなのは・歩くこと・高山"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "でも、私はよく物を忘れます。特に、傘を持って行くのをよく忘れます。",
+   "kana": "でも、わたしはよくものをわすれます。とくに、かさをもっていくのをよくわすれます。",
+   "en": "But I often forget things. Above all, I often forget to take an umbrella.",
+   "kw": "物を忘れる・傘を持って行くのを忘れる"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "高山で雨に降られたときも、傘を持っていませんでした。",
+   "kana": "たかやまであめにふられたときも、かさをもっていませんでした。",
+   "en": "When I got caught in the rain in Takayama, I didn't have an umbrella either.",
+   "kw": "雨に降られた・傘を持っていない"
+  },
+  {
+   "n": "11",
+   "who": "A",
+   "ja": "富山では、家の鍵をかけるのを忘れました。でも、家を貸してくれた山本さんが、親切に助けてくれました。",
+   "kana": "とやまでは、いえのかぎをかけるのをわすれました。でも、いえをかしてくれたやまもとさんが、しんせつにたすけてくれました。",
+   "en": "In Toyama I forgot to lock the house. But Mr Yamamoto, who rented it to me, kindly helped me.",
+   "kw": "鍵をかけるのを忘れた・貸してくれた・助けてくれた"
+  },
+  {
+   "n": "12",
+   "who": "A",
+   "ja": "この旅行で一番楽しかったのは、郡上八幡で近所の人と話したことです。",
+   "kana": "このりょこうでいちばんたのしかったのは、ぐじょうはちまんできんじょのひととはなしたことです。",
+   "en": "The best moment of this trip was talking with a neighbour in Gujō-Hachiman.",
+   "kw": "一番楽しかったのは・近所の人と話したこと"
+  },
+  {
+   "n": "13",
+   "who": "A",
+   "ja": "日本語で趣味の話をしたのは、初めてでした。",
+   "kana": "にほんごでしゅみのはなしをしたのは、はじめてでした。",
+   "en": "It was the first time I'd talked about hobbies in Japanese.",
+   "kw": "趣味の話をしたのは・初めて"
+  },
+  {
+   "n": "14",
+   "who": "A",
+   "ja": "次は春に、桜を見に来るつもりです。",
+   "kana": "つぎははるに、さくらをみにくるつもりです。",
+   "en": "Next time I plan to come in spring to see the cherry blossoms.",
+   "kw": "春・桜を見に来る・つもり"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "生まれたのはどこですか。",
+   "kana": "うまれたのはどこですか。",
+   "en": "Where were you born?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "子どものとき、何をするのが好きでしたか。",
+   "kana": "こどものとき、なにをするのがすきでしたか。",
+   "en": "What did you like doing as a child?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "日本語の勉強を始めたのはいつですか。",
+   "kana": "にほんごのべんきょうをはじめたのはいつですか。",
+   "en": "When did you start studying Japanese?",
+   "answer": "04"
+  },
+  {
+   "by": "B",
+   "ja": "今、どうやって日本語を勉強していますか。",
+   "kana": "いま、どうやってにほんごをべんきょうしていますか。",
+   "en": "How do you study Japanese now?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "漢字を覚えるのはどうですか。",
+   "kana": "かんじをおぼえるのはどうですか。",
+   "en": "What is memorising kanji like?",
+   "answer": "06"
+  },
+  {
+   "by": "B",
+   "ja": "日本で一番好きなのは何ですか。",
+   "kana": "にほんでいちばんすきなのはなんですか。",
+   "en": "What do you like most in Japan?",
+   "answer": "08"
+  },
+  {
+   "by": "B",
+   "ja": "よく何を持って行くのを忘れますか。",
+   "kana": "よくなにをもっていくのをわすれますか。",
+   "en": "What do you often forget to take?",
+   "answer": "09"
+  },
+  {
+   "by": "B",
+   "ja": "富山で何をするのを忘れましたか。",
+   "kana": "とやまでなにをするのをわすれましたか。",
+   "en": "What did you forget to do in Toyama?",
+   "answer": "11"
+  },
+  {
+   "by": "B",
+   "ja": "この旅行で一番楽しかったのは何ですか。",
+   "kana": "このりょこうでいちばんたのしかったのはなんですか。",
+   "en": "What was the best moment of this trip?",
+   "answer": "12"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Antwerp (アントワープ) is Belgium's great port city on the Scheldt, in the Dutch-speaking north (Flanders). Minna no Nihongo (みんなの日本語) is the standard beginner textbook series used in many Japanese classes abroad. This story ties together the trip: the old town of Takayama, the forgotten key in Toyama and the neighbour in Gujō-Hachiman. Change the details (birthplace, first trip, best moment) to your own story and retell it."
+  },
+  {
+   "label": "New words:",
+   "text": "港 みなと port · 船 ふね ship · 絵をかく えをかく draw · 少しずつ すこしずつ little by little · 特に とくに especially · 物 もの things · 雨に降られる あめにふられる get caught in the rain · 貸す かす lend, rent out · 助ける たすける help · 近所 きんじょ neighbourhood · 趣味 しゅみ hobby · 桜 さくら cherry blossom"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "私が生まれたのは～です / 始めたのは～あとです / 一番好きなのは～ことです / 一番楽しかったのは～ことです / 話をしたのは初めてでした, 絵をかくのが好き, 覚えるのは大変 / 話すのは難しい, 傘を持って行くのを忘れる / 鍵をかけるのを忘れました (L38) · 雨に降られた (L37) · 勉強するようにしています (L36) · 話せば話すほど (L35) · 帰ったあと (L34) · ～つもりです (L31) · 貸してくれた / 助けてくれました (L24) · ～とき (L23) · ～と思います (L21)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "アントワープ → ゲント（ヘント）· 絵をかく → 歌を歌う（うたをうたう）· 傘 → 手袋（てぶくろ）· 桜を見に → 紅葉を見に（こうようをみに）"
+  }
+ ]
+}
