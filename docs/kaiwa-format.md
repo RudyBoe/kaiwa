@@ -18,7 +18,7 @@ Read `claude/00-master.md` first. This is the single source of truth for kaiwa f
 | `scene` | string | one or two English sentences setting the scene |
 | `level` | object | `{"jlpt":"N4","minna_max":33,"focus":[29,33]}` — highest Minna lesson used, and the recent range weighted |
 | `meta` | string | one line: scope + anything beyond `minna_max`, with lesson numbers |
-| `tags` | array of strings | topic tags (`food`, `station`, `hida`, …) |
+| `tags` | array of strings | 1–3 tags from the fixed list below (`hida`, `food`, …) |
 | `created` | string | `YYYY-MM-DD` |
 | `roles` | array | 1–2 of `{"id":"A"|"B","ja":"客","en":"Customer"}`; A = the learner's usual role |
 | `lines` | array | each `{"who":"A","ja":"…","kana":"…","en":"…","kw":"…"}`, optional `"n":"08a"` (label override). `kana` = full reading in hiragana (katakana stays), no kanji. `kw` = 1–4 keywords joined by ・ |
@@ -27,6 +27,13 @@ Read `claude/00-master.md` first. This is the single source of truth for kaiwa f
 | `notes` | array, optional | each `{"label","text"}`; conventional labels: Background:, New words:, Staff phrases…, Grammar (recent first):, Swap in: |
 
 No other top-level keys. Validator below enforces all of this.
+
+## Tags
+Kaiwa in the repo library use 1–3 tags from this fixed list, so the tag row in the app stays short (`node tools/check.mjs` enforces it; imported kaiwa may use any tags):
+- **Place** (at most one): `osaka` · `shiga` · `gifu` · `hida` · `toyama` · `tokyo` · `antwerp`
+- **Topic** (one or two): `food` · `shopping` · `transport` (train, car, station) · `stay` (hotel, ryokan, rental house, host rules) · `onsen` · `sightseeing` · `people` (self-introduction, hosts, neighbours, small talk) · `trouble` (lost, late, forgotten) · `health` · `winter` (snow)
+
+Need a new tag? Add it here and in `tools/check.mjs` first.
 
 ## Validator (python3, no dependencies)
 ```python
@@ -106,9 +113,8 @@ sys.exit(1 if bad else 0)
  },
  "meta": "Minna L1–33, focus L29–33. Beyond L33: 乗り遅れないように (L36, staff curveball only).",
  "tags": [
-  "station",
-  "train",
-  "tokyo"
+  "tokyo",
+  "transport"
  ],
  "created": "2026-10-09",
  "roles": [
@@ -351,3 +357,4 @@ sys.exit(1 if bad else 0)
 
 ## Change log
 - 2026-10-09 kaiwa/1 defined; the five existing kaiwa converted and validated (Anki thread)
+- 2026-10-13 fixed tag list for the repo library (17 tags), checked by tools/check.mjs; format unchanged

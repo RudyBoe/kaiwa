@@ -23,10 +23,22 @@ try {
 for (const f of files) if (!index.includes(f)) { console.log(`FAIL library/index.json\n   - missing ${f}`); bad++; }
 for (const f of index) if (!files.includes(f)) { console.log(`FAIL library/index.json\n   - lists ${f}, which does not exist`); bad++; }
 
+// The repo library uses a fixed tag list (docs/kaiwa-format.md › Tags), so the
+// tag row in the app stays short. Imported kaiwa may use any tags.
+const PLACES = ["osaka", "shiga", "gifu", "hida", "toyama", "tokyo", "antwerp"];
+const TOPICS = ["food", "shopping", "transport", "stay", "onsen", "sightseeing", "people", "trouble", "health", "winter"];
+const TAGS = new Set([...PLACES, ...TOPICS]);
+const tagErrors = (d) => {
+  const tags = Array.isArray(d?.tags) ? d.tags : [];
+  const e = tags.filter((t) => !TAGS.has(t)).map((t) => `tag "${t}" is not in the tag list (docs/kaiwa-format.md)`);
+  if (tags.length < 1 || tags.length > 3) e.push(`use 1–3 tags (has ${tags.length})`);
+  return e;
+};
+
 const entries = files.map((name) => {
   try {
     const data = JSON.parse(readFileSync(join(LIB, name), "utf8"));
-    return { name, data, errors: validateKaiwa(data) };
+    return { name, data, errors: [...validateKaiwa(data), ...tagErrors(data)] };
   } catch (err) {
     return { name, data: null, errors: ["not valid JSON: " + err.message] };
   }

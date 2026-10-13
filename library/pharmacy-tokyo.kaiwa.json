@@ -18,10 +18,8 @@
  "scene": "A drugstore near the hotel in Tokyo. A traveller asks the pharmacist for cold medicine for a friend, and learns how to take it.",
  "meta": "Minna L1–33, focus L29–33. New: 風邪薬, 眠い, 度, 下がる, 箱, お大事に. Beyond L33: none in the lines (内科 L45 appears in the notes only).",
  "tags": [
-  "health",
-  "pharmacy",
   "tokyo",
-  "emergency"
+  "health"
  ],
  "roles": [
   {
