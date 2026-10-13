@@ -1,0 +1,264 @@
+{
+ "format": "kaiwa/1",
+ "id": "onsen-kenkou-hida",
+ "kind": "dialogue",
+ "page_title": "Onsen Kenkou Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 温泉で",
+ "title": "温泉で聞いた健康の話",
+ "subtitle": "Health tips from an old man in a Hida hot spring",
+ "scene": "Evening at a small local hot spring in the Hida countryside near Takayama. In the bath, an old man who lives nearby starts chatting with a traveller.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 36,
+  "focus": [
+   32,
+   36
+  ]
+ },
+ "meta": "Minna L1–36, focus L32–36. Beyond L36: none.",
+ "tags": [
+  "onsen",
+  "health",
+  "neighbours",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "地元のおじいさん",
+   "en": "Local old man"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "こんばんは。今日は寒いですね。",
+   "kana": "こんばんは。きょうはさむいですね。",
+   "en": "Good evening. Cold today, isn't it?",
+   "kw": "こんばんは・寒い"
+  },
+  {
+   "who": "A",
+   "ja": "こんばんは。ええ。でも、お湯は気持ちがいいですね。",
+   "kana": "こんばんは。ええ。でも、おゆはきもちがいいですね。",
+   "en": "Good evening. Yes. But the water feels great.",
+   "kw": "お湯・気持ちがいい"
+  },
+  {
+   "who": "B",
+   "ja": "あ、すみません。タオルはお湯に入れないようにしてくださいね。",
+   "kana": "あ、すみません。タオルはおゆにいれないようにしてくださいね。",
+   "en": "Ah, excuse me. Please try not to put your towel in the water.",
+   "kw": "タオル・入れないようにしてください"
+  },
+  {
+   "who": "A",
+   "ja": "あっ、すみません。知りませんでした。どこに置けばいいですか。",
+   "kana": "あっ、すみません。しりませんでした。どこにおけばいいですか。",
+   "en": "Oh, sorry. I didn't know. Where should I put it?",
+   "kw": "知らなかった・置けばいい"
+  },
+  {
+   "who": "B",
+   "ja": "頭の上に置けばいいですよ。わたしのタオルを見てください。",
+   "kana": "あたまのうえにおけばいいですよ。わたしのタオルをみてください。",
+   "en": "You can put it on your head. Look at my towel.",
+   "kw": "頭の上・置けばいい"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。この辺に住んでいるんですか。",
+   "kana": "わかりました。このへんにすんでいるんですか。",
+   "en": "I see. Do you live around here?",
+   "kw": "この辺・住んでいるんですか"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、生まれてから八十年以上、ずっと飛騨です。この温泉には毎晩来ています。",
+   "kana": "ええ、うまれてからはちじゅうねんいじょう、ずっとひだです。このおんせんにはまいばんきています。",
+   "en": "Yes, I've been in Hida for over eighty years, ever since I was born. I come to this hot spring every evening.",
+   "kw": "生まれてから・八十年以上・毎晩"
+  },
+  {
+   "who": "A",
+   "ja": "八十年以上ですか。とてもお元気ですね。",
+   "kana": "はちじゅうねんいじょうですか。とてもおげんきですね。",
+   "en": "Over eighty years? You're in great shape.",
+   "kw": "八十年以上・お元気"
+  },
+  {
+   "who": "B",
+   "ja": "今、八十三です。病気にならないように、毎朝必ず一時間ぐらい歩くようにしています。",
+   "kana": "いま、はちじゅうさんです。びょうきにならないように、まいあさかならずいちじかんぐらいあるくようにしています。",
+   "en": "I'm eighty-three. So that I don't get ill, I make a point of walking about an hour every single morning.",
+   "kw": "病気にならないように・毎朝必ず・歩くようにしている"
+  },
+  {
+   "who": "A",
+   "ja": "雪の日も歩くんですか。",
+   "kana": "ゆきのひもあるくんですか。",
+   "en": "Even on snowy days?",
+   "kw": "雪の日・歩くんですか"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。滑らないように、ゆっくり歩きます。それから、野菜をたくさん食べるようにしています。",
+   "kana": "ええ。すべらないように、ゆっくりあるきます。それから、やさいをたくさんたべるようにしています。",
+   "en": "Yes. I walk slowly so I don't slip. And I make sure I eat lots of vegetables.",
+   "kw": "滑らないように・野菜・食べるようにしている"
+  },
+  {
+   "who": "A",
+   "ja": "野菜はお店で買いますか。",
+   "kana": "やさいはおみせでかいますか。",
+   "en": "Do you buy your vegetables in a shop?",
+   "kw": "野菜・店で買う"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、家の前の畑で作っています。お酒はあまり飲まないようにしていますが、時々飲みますよ。",
+   "kana": "いいえ、いえのまえのはたけでつくっています。おさけはあまりのまないようにしていますが、ときどきのみますよ。",
+   "en": "No, I grow them in the field in front of my house. I try not to drink much sake, but I do have some now and then.",
+   "kw": "畑で作る・飲まないようにしている・時々"
+  },
+  {
+   "who": "A",
+   "ja": "わたしは日本に来てから、料理がおいしいですから、ちょっと太りました。",
+   "kana": "わたしはにほんにきてから、りょうりがおいしいですから、ちょっとふとりました。",
+   "en": "Since coming to Japan I've put on a bit of weight, because the food is so good.",
+   "kw": "来てから・おいしいですから・太った"
+  },
+  {
+   "who": "B",
+   "ja": "じゃ、あなたも毎朝歩いたほうがいいですね。ところで、日本語が上手ですね。",
+   "kana": "じゃ、あなたもまいあさあるいたほうがいいですね。ところで、にほんごがじょうずですね。",
+   "en": "Then you'd better walk every morning too. By the way, your Japanese is good.",
+   "kw": "歩いたほうがいい・ところで・上手"
+  },
+  {
+   "who": "A",
+   "ja": "いいえ、まだまだです。三年前から勉強しています。",
+   "kana": "いいえ、まだまだです。さんねんまえからべんきょうしています。",
+   "en": "Oh no, I've a long way to go. I've been studying for three years.",
+   "kw": "まだまだ・三年前から"
+  },
+  {
+   "who": "B",
+   "ja": "三年で、ずいぶん話せるようになったんですね。すごいです。",
+   "kana": "さんねんで、ずいぶんはなせるようになったんですね。すごいです。",
+   "en": "In three years you've got to the point where you can really talk. That's impressive.",
+   "kw": "三年で・ずいぶん・話せるようになった"
+  },
+  {
+   "who": "A",
+   "ja": "アントワープでは毎朝、駅まで歩きながら、日本語のポッドキャストを聞くようにしています。",
+   "kana": "アントワープではまいあさ、えきまであるきながら、にほんごのポッドキャストをきくようにしています。",
+   "en": "In Antwerp I make a habit of listening to a Japanese podcast every morning while I walk to the station.",
+   "kw": "歩きながら・ポッドキャスト・聞くようにしている"
+  },
+  {
+   "who": "B",
+   "ja": "なるほど。でも、会話はどうやって練習していますか。",
+   "kana": "なるほど。でも、かいわはどうやってれんしゅうしていますか。",
+   "en": "I see. But how do you practise conversation?",
+   "kw": "会話・どうやって・練習"
+  },
+  {
+   "who": "A",
+   "ja": "日本人の友達と話したり、日本語の教室に行ったりしています。日本では、英語を使わないようにしています。",
+   "kana": "にほんじんのともだちとはなしたり、にほんごのきょうしつにいったりしています。にほんでは、えいごをつかわないようにしています。",
+   "en": "I talk with Japanese friends and go to a Japanese class. In Japan I try not to use English.",
+   "kw": "話したり行ったり・英語・使わないようにしている"
+  },
+  {
+   "who": "B",
+   "ja": "それはいいですね。健康も日本語も同じです。毎日続けなければなりません。",
+   "kana": "それはいいですね。けんこうもにほんごもおなじです。まいにちつづけなければなりません。",
+   "en": "That's good. Health and Japanese are the same: you have to keep at them every day.",
+   "kw": "健康・同じ・続けなければならない"
+  },
+  {
+   "who": "A",
+   "ja": "そうですね。もっと話せるように、がんばります。",
+   "kana": "そうですね。もっとはなせるように、がんばります。",
+   "en": "True. I'll keep working so I can speak better.",
+   "kw": "もっと・話せるように・がんばる"
+  },
+  {
+   "who": "B",
+   "ja": "長く入らないようにしてくださいね。出たあとで、水を飲むようにしてください。じゃ、お先に。",
+   "kana": "ながくはいらないようにしてくださいね。でたあとで、みずをのむようにしてください。じゃ、おさきに。",
+   "en": "Don't stay in too long, mind. Make sure you drink some water after you get out. Well, I'm off.",
+   "kw": "長く入らないように・出たあとで・お先に"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございました。おやすみなさい。",
+   "kana": "ありがとうございました。おやすみなさい。",
+   "en": "Thank you very much. Good night.",
+   "kw": "ありがとう・おやすみなさい"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 02: ask whether he washed before getting in.",
+   "ja": "体を洗ってから、入りましたか。",
+   "kana": "からだをあらってから、はいりましたか。",
+   "reply_ja": "はい、あそこで洗ってから、入りました。",
+   "reply_kana": "はい、あそこであらってから、はいりました。",
+   "reply_en": "Yes, I washed over there before I got in."
+  },
+  {
+   "by": "B",
+   "en": "After line 08: ask the traveller to guess his age.",
+   "ja": "わたしは何歳だと思いますか。",
+   "kana": "わたしはなんさいだとおもいますか。",
+   "reply_ja": "そうですね……七十歳ぐらいですか。",
+   "reply_kana": "そうですね……ななじゅっさいぐらいですか。",
+   "reply_en": "Let me see… about seventy?"
+  },
+  {
+   "by": "A",
+   "en": "Any time: the water is too hot; ask if you may add cold water.",
+   "ja": "すみません、お湯が熱いですから、少し水を入れてもいいですか。",
+   "kana": "すみません、おゆがあついですから、すこしみずをいれてもいいですか。",
+   "reply_ja": "いいですよ。でも、ほかの人もいますから、少しだけにしてくださいね。",
+   "reply_kana": "いいですよ。でも、ほかのひともいますから、すこしだけにしてくださいね。",
+   "reply_en": "Sure. But other people are using it, so just a little, OK?"
+  },
+  {
+   "by": "A",
+   "en": "After line 11: ask whether you could walk with him tomorrow morning.",
+   "ja": "明日の朝、いっしょに歩いてもいいですか。",
+   "kana": "あしたのあさ、いっしょにあるいてもいいですか。",
+   "reply_ja": "いいですよ。遅れないように、七時にこの温泉の前に来てください。",
+   "reply_kana": "いいですよ。おくれないように、しちじにこのおんせんのまえにきてください。",
+   "reply_en": "Sure. Be here in front of the hot spring at seven, and don't be late."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Hida has many small hot springs used mainly by local people, often with a few elderly regulars who come every evening and like to chat. The basic manners are the same everywhere: wash and rinse your body at the washing area before getting in, keep your small towel out of the water (locals fold it on their head or leave it at the edge), tie up long hair, don't swim or splash, and dry off a little before going back to the changing room. Ask before adding cold water to a shared bath. Leaving, people say お先に（失礼します）. Drink water after bathing, and don't soak too long if you feel light-headed. Many baths refuse people with tattoos, and opening hours, prices and towel rental differ from place to place: check before you go. Japan has one of the world's highest life expectancies, and walking every day is a common habit among older people in the countryside."
+  },
+  {
+   "label": "New words:",
+   "text": "お湯 おゆ hot water · 頭 あたま head · この辺 このへん around here · 以上 いじょう over, more than · 必ず かならず without fail (L36) · 滑る すべる slip · 野菜 やさい vegetables · 畑 はたけ field, vegetable plot · 太る ふとる put on weight (L36) · ずいぶん quite a lot (L36) · ポッドキャスト podcast · 会話 かいわ conversation · 健康 けんこう health (L36) · 続ける つづける continue (L36) · お先に おさきに I'm off first · 熱い あつい hot · 遅れる おくれる be late"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "病気にならないように / 滑らないように / 話せるように (purpose, L36) · 話せるようになった (L36) · 歩くようにしています / 飲まないようにしています / 使わないようにしています (L36) · 入れないようにしてください / 飲むようにしてください (L36) · 置けばいい (L35) · 出たあとで (L34) · 歩いたほうがいい (L32) · 歩きながら (L28) · ～んですか (L26) · 話したり行ったり (L19) · 続けなければなりません (L17) · 生まれてから / 来てから (L16)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "一時間歩く → 三十分泳ぐ（およぐ）· 野菜 → 魚（さかな）· お酒 → 甘い物（あまいもの）· ポッドキャスト → 日本の歌（うた）"
+  }
+ ]
+}

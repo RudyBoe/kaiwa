@@ -1,0 +1,269 @@
+{
+ "format": "kaiwa/1",
+ "id": "yuki-unten-hida",
+ "kind": "dialogue",
+ "page_title": "Yuki Unten Kaiwa",
+ "eyebrow": "Kaiwa · N4 · ガソリンスタンドで",
+ "title": "雪の道を運転する",
+ "subtitle": "Snow-driving advice at a petrol station in Takayama",
+ "scene": "A December morning at a full-service petrol station in Takayama, after a night of snow. A traveller in a rental car fills up before driving to Shirakawa-go and Toyama, and the attendant gives him some advice.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 36,
+  "focus": [
+   32,
+   36
+  ]
+ },
+ "meta": "Minna L1–36, focus L32–36. Beyond L36: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "car",
+  "driving",
+  "snow",
+  "winter",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Customer"
+  },
+  {
+   "id": "B",
+   "ja": "店員",
+   "en": "Attendant"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃいませ。レギュラー満タンでよろしいですか。",
+   "kana": "いらっしゃいませ。レギュラーまんタンでよろしいですか。",
+   "en": "Welcome. Regular, full tank?",
+   "kw": "レギュラー・満タン"
+  },
+  {
+   "who": "A",
+   "ja": "はい、満タンでお願いします。",
+   "kana": "はい、まんタンでおねがいします。",
+   "en": "Yes, a full tank, please.",
+   "kw": "満タン・お願いします"
+  },
+  {
+   "who": "B",
+   "ja": "かしこまりました。レンタカーですね。今日はどちらへ行きますか。",
+   "kana": "かしこまりました。レンタカーですね。きょうはどちらへいきますか。",
+   "en": "Certainly. It's a rental car, isn't it? Where are you heading today?",
+   "kw": "レンタカー・どちらへ"
+  },
+  {
+   "who": "A",
+   "ja": "白川郷へ行って、それから富山まで行こうと思っています。",
+   "kana": "しらかわごうへいって、それからとやままでいこうとおもっています。",
+   "en": "I'm planning to go to Shirakawa-go and then on to Toyama.",
+   "kw": "白川郷・富山まで・行こうと思う"
+  },
+  {
+   "who": "B",
+   "ja": "そうですか。昨日の夜、雪がずいぶん降りましたから、気をつけてくださいね。",
+   "kana": "そうですか。きのうのよる、ゆきがずいぶんふりましたから、きをつけてくださいね。",
+   "en": "I see. It snowed quite a lot last night, so be careful.",
+   "kw": "昨日の夜・ずいぶん降った・気をつける"
+  },
+  {
+   "who": "A",
+   "ja": "雪の道は初めてなんです。何に気をつければいいですか。",
+   "kana": "ゆきのみちははじめてなんです。なににきをつければいいですか。",
+   "en": "It's my first time on snowy roads. What should I watch out for?",
+   "kw": "雪の道・初めて・気をつければいい"
+  },
+  {
+   "who": "B",
+   "ja": "まず、滑らないように、ゆっくり走るようにしてください。",
+   "kana": "まず、すべらないように、ゆっくりはしるようにしてください。",
+   "en": "First, so you don't skid, make sure you drive slowly.",
+   "kw": "滑らないように・ゆっくり走るようにしてください"
+  },
+  {
+   "who": "A",
+   "ja": "はい。ブレーキはどうですか。",
+   "kana": "はい。ブレーキはどうですか。",
+   "en": "OK. What about braking?",
+   "kw": "ブレーキ"
+  },
+  {
+   "who": "B",
+   "ja": "急にブレーキを踏まないようにしてください。止まるときは、早めにゆっくり踏めば、大丈夫です。",
+   "kana": "きゅうにブレーキをふまないようにしてください。とまるときは、はやめにゆっくりふめば、だいじょうぶです。",
+   "en": "Try not to brake suddenly. When you stop, brake early and gently and you'll be fine.",
+   "kw": "急に・踏まないように・早めに・踏めば"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。カーブも危ないですか。",
+   "kana": "わかりました。カーブもあぶないですか。",
+   "en": "Got it. Are bends dangerous too?",
+   "kw": "カーブ・危ない"
+  },
+  {
+   "who": "B",
+   "ja": "ええ。カーブの前で、スピードを落としておいてください。それから、前の車から離れて走るようにしてください。",
+   "kana": "ええ。カーブのまえで、スピードをおとしておいてください。それから、まえのくるまからはなれてはしるようにしてください。",
+   "en": "Yes. Slow down before the bend. And make sure you keep well back from the car in front.",
+   "kw": "スピードを落としておく・離れて走るように"
+  },
+  {
+   "who": "A",
+   "ja": "このタイヤは大丈夫でしょうか。",
+   "kana": "このタイヤはだいじょうぶでしょうか。",
+   "en": "Are these tyres all right, do you think?",
+   "kw": "タイヤ・大丈夫でしょうか"
+  },
+  {
+   "who": "B",
+   "ja": "見ましょうか。……スタッドレスタイヤですね。これなら大丈夫です。",
+   "kana": "みましょうか。……スタッドレスタイヤですね。これならだいじょうぶです。",
+   "en": "Shall I have a look? … They're studless winter tyres. With these you're fine.",
+   "kw": "見ましょうか・スタッドレスタイヤ・これなら"
+  },
+  {
+   "who": "A",
+   "ja": "よかった。チェーンも要りますか。",
+   "kana": "よかった。チェーンもいりますか。",
+   "en": "Good. Do I need chains as well?",
+   "kw": "チェーン・要る"
+  },
+  {
+   "who": "B",
+   "ja": "普通は要りませんが、大雪の日は、チェーンがなければ、通れない道もあります。",
+   "kana": "ふつうはいりませんが、おおゆきのひは、チェーンがなければ、とおれないみちもあります。",
+   "en": "Usually not, but on days of heavy snow some roads can't be used without chains.",
+   "kw": "普通は・大雪の日・なければ・通れない"
+  },
+  {
+   "who": "A",
+   "ja": "車にチェーンがあるかもしれません。あとで、レンタカーの会社に電話します。",
+   "kana": "くるまにチェーンがあるかもしれません。あとで、レンタカーのかいしゃにでんわします。",
+   "en": "There might be chains in the car. I'll call the rental company later.",
+   "kw": "かもしれない・あとで・電話する"
+  },
+  {
+   "who": "B",
+   "ja": "それがいいですね。高速道路は、大雪の日は通行止めになりますから、出かける前に、必ず道路情報を見るようにしてください。",
+   "kana": "それがいいですね。こうそくどうろは、おおゆきのひはつうこうどめになりますから、でかけるまえに、かならずどうろじょうほうをみるようにしてください。",
+   "en": "Good idea. The expressway gets closed on days of heavy snow, so always check the road information before you set off.",
+   "kw": "通行止め・出かける前に・必ず・見るようにしてください"
+  },
+  {
+   "who": "A",
+   "ja": "道路情報はどこで見られますか。",
+   "kana": "どうろじょうほうはどこでみられますか。",
+   "en": "Where can I see the road information?",
+   "kw": "道路情報・見られる"
+  },
+  {
+   "who": "B",
+   "ja": "インターネットで見られますよ。カーナビやラジオでもわかります。",
+   "kana": "インターネットでみられますよ。カーナビやラジオでもわかります。",
+   "en": "You can see it online. You can also find out from the satnav or the radio.",
+   "kw": "インターネット・カーナビ・ラジオ"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。最初は左側の運転が怖かったですが、一週間でもう慣れました。",
+   "kana": "ありがとうございます。さいしょはひだりがわのうんてんがこわかったですが、いっしゅうかんでもうなれました。",
+   "en": "Thank you. At first driving on the left scared me, but after a week I'm used to it.",
+   "kw": "最初は・左側・怖かった・慣れた"
+  },
+  {
+   "who": "B",
+   "ja": "一週間で、上手に運転できるようになったんですね。",
+   "kana": "いっしゅうかんで、じょうずにうんてんできるようになったんですね。",
+   "en": "So in one week you've learned to drive well.",
+   "kw": "一週間で・運転できるようになった"
+  },
+  {
+   "who": "A",
+   "ja": "はい。でも、ワイパーとウインカーは、まだ時々間違えます。",
+   "kana": "はい。でも、ワイパーとウインカーは、まだときどきまちがえます。",
+   "en": "Yes. But I still sometimes mix up the wipers and the indicator.",
+   "kw": "ワイパー・ウインカー・まだ時々間違える"
+  },
+  {
+   "who": "B",
+   "ja": "皆さん、そうですよ。暗くなる前に着けるように、早く出発したほうがいいですね。はい、満タンになりました。",
+   "kana": "みなさん、そうですよ。くらくなるまえにつけるように、はやくしゅっぱつしたほうがいいですね。はい、まんタンになりました。",
+   "en": "Everyone does that. You'd better set off early so you can get there before dark. There you go, the tank's full.",
+   "kw": "暗くなる前に・着けるように・出発したほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございました。ゆっくり走るようにします。",
+   "kana": "ありがとうございました。ゆっくりはしるようにします。",
+   "en": "Thank you very much. I'll make sure I take it slowly.",
+   "kw": "ゆっくり・走るようにする"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 13: tell him to lift the wipers when he parks for the night.",
+   "ja": "夜、車を止めるときは、ワイパーを立てておいてください。ガラスに凍らないように。",
+   "kana": "よる、くるまをとめるときは、ワイパーをたてておいてください。ガラスにこおらないように。",
+   "reply_ja": "えっ、どうしてですか。初めて聞きました。",
+   "reply_kana": "えっ、どうしてですか。はじめてききました。",
+   "reply_en": "Oh, why? I've never heard of that."
+  },
+  {
+   "by": "B",
+   "en": "After line 17: the expressway is closed today.",
+   "ja": "今日は大雪ですから、東海北陸道は通行止めになっています。",
+   "kana": "きょうはおおゆきですから、とうかいほくりくどうはつうこうどめになっています。",
+   "reply_ja": "そうですか。じゃ、白川郷へ行けるほかの道はありますか。",
+   "reply_kana": "そうですか。じゃ、しらかわごうへいけるほかのみちはありますか。",
+   "reply_en": "Really? Then is there another road I can take to Shirakawa-go?"
+  },
+  {
+   "by": "A",
+   "en": "After line 15: ask how to put the chains on.",
+   "ja": "チェーンはどうやってつけますか。",
+   "kana": "チェーンはどうやってつけますか。",
+   "reply_ja": "車に説明書がありますから、そのとおりにつけてください。わからなければ、手伝いますよ。",
+   "reply_kana": "くるまにせつめいしょがありますから、そのとおりにつけてください。わからなければ、てつだいますよ。",
+   "reply_en": "There's a manual in the car, so put them on as it shows. If you can't work it out, I'll help."
+  },
+  {
+   "by": "A",
+   "en": "After line 22: ask whether he should clear the snow off the car roof.",
+   "ja": "車の上の雪も落としたほうがいいですか。",
+   "kana": "くるまのうえのゆきもおとしたほうがいいですか。",
+   "reply_ja": "はい。走っているとき、前のガラスに落ちますから、出発する前に、必ず落としてください。",
+   "reply_kana": "はい。はしっているとき、まえのガラスにおちますから、しゅっぱつするまえに、かならずおとしてください。",
+   "reply_en": "Yes. It slides onto the windscreen while you're driving, so always clear it off before you set off."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Takayama and the rest of Hida usually have snow on the ground from December, and the road from Takayama to Shirakawa-go and on towards Toyama (the Tōkai-Hokuriku Expressway, 東海北陸道, or national roads through the mountains) can be icy, especially in the morning, on bridges and in shaded bends. In winter, rental cars in this area normally come with studless winter tyres (スタッドレスタイヤ), but confirm this and ask about chains when you book. During heavy snow, sections can come under a チェーン規制 (chains compulsory, even with winter tyres) or be closed (通行止め). Drive slowly, brake gently and early, keep a long distance from the car in front, and clear snow off the roof and windows before driving. Locals lift their wipers when parking overnight so they don't freeze to the glass. Many petrol stations in the countryside are full-service: staff fill the tank and may offer to take your rubbish or wipe the windows. Road conditions change by the hour: check road information (expressway operator NEXCO 中日本, 日本道路交通情報センター, radio, satnav) before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "満タン まんタン full tank · ずいぶん quite a lot (L36) · 滑る すべる skid, slip · 急に きゅうに suddenly · 早めに はやめに early, in good time · 踏む ふむ press (a pedal) · カーブ bend · スピードを落とす スピードをおとす slow down · 離れる はなれる keep away from · スタッドレスタイヤ studless winter tyres · チェーン snow chains · 大雪 おおゆき heavy snow · 通行止め つうこうどめ road closed · 必ず かならず without fail (L36) · 道路情報 どうろじょうほう road information · 慣れる なれる get used to (L36) · 凍る こおる freeze · 説明書 せつめいしょ manual"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "レギュラー満タンでよろしいですか regular, full tank? · いらっしゃいませ welcome · かしこまりました certainly"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "滑らないように / 着けるように / 凍らないように (purpose, L36) · 運転できるようになった (L36) · 走るようにしてください / 踏まないようにしてください / 見るようにしてください / 走るようにします (L36) · 慣れました (L36 vocab) · 気をつければいい / 踏めば / なければ / これなら / わからなければ (L35) · あとで / そのとおりに (L34) · 大丈夫でしょうか / かもしれません / 出発したほうがいい (L32) · 行こうと思っています (L31) · 落としておく / 立てておく (L30) · 見られる / 通れる / 着ける (L27) · 初めてなんです (L26)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "白川郷 → 新穂高（しんほたか）· 富山 → 下呂（げろ）· チェーン → スコップ shovel · ラジオ → 道の駅（みちのえき）roadside station"
+  }
+ ]
+}

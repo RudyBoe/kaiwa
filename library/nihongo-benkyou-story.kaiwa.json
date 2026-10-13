@@ -1,0 +1,242 @@
+{
+ "format": "kaiwa/1",
+ "id": "nihongo-benkyou-story",
+ "kind": "story",
+ "page_title": "Nihongo Benkyou Monogatari",
+ "eyebrow": "Story · N4 · 日本語の勉強",
+ "title": "読めるようになりました",
+ "subtitle": "How my Japanese grew, told to my class in Antwerp",
+ "scene": "Back in Antwerp after the trip, a traveller tells his Japanese class how he went from not reading hiragana to chatting with his host in Takayama.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 36,
+  "focus": [
+   32,
+   36
+  ]
+ },
+ "meta": "Minna L1–36, focus L32–36. Beyond L36: none.",
+ "tags": [
+  "study",
+  "language",
+  "antwerp",
+  "travel"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "三年前、日本語の勉強を始めました。最初は、ひらがなも読めませんでした。",
+   "kana": "さんねんまえ、にほんごのべんきょうをはじめました。さいしょは、ひらがなもよめませんでした。",
+   "en": "Three years ago I started learning Japanese. At first I couldn't even read hiragana.",
+   "kw": "三年前・始める・ひらがな・読めない"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "字を覚えても、次の日には忘れてしまいました。",
+   "kana": "じをおぼえても、つぎのひにはわすれてしまいました。",
+   "en": "Even when I learned a character, by the next day I'd forgotten it.",
+   "kw": "覚えても・次の日・忘れてしまう"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "それで、毎日少しずつ勉強するようにしました。今も続けています。",
+   "kana": "それで、まいにちすこしずつべんきょうするようにしました。いまもつづけています。",
+   "en": "So I made a point of studying a little every day. I still keep it up.",
+   "kw": "毎日少しずつ・勉強するようにする・続ける"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "毎朝、朝ごはんの前に、Ankiのカードで単語を練習するようにしています。",
+   "kana": "まいあさ、あさごはんのまえに、アンキのカードでたんごをれんしゅうするようにしています。",
+   "en": "Every morning before breakfast, I make a habit of practising words with Anki cards.",
+   "kw": "毎朝・Anki・単語・練習するようにしている"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "新しい単語は、忘れないように、ノートに書きます。書いたあとで、声を出して読みます。",
+   "kana": "あたらしいたんごは、わすれないように、ノートにかきます。かいたあとで、こえをだしてよみます。",
+   "en": "New words I write in a notebook so I don't forget them. After writing them, I read them out loud.",
+   "kw": "忘れないように・ノート・書いたあとで・声を出す"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "半年ぐらいで、ひらがなとカタカナが読めるようになりました。今は、簡単な漢字も少し読めます。",
+   "kana": "はんとしぐらいで、ひらがなとカタカナがよめるようになりました。いまは、かんたんなかんじもすこしよめます。",
+   "en": "In about six months I could read hiragana and katakana. Now I can read a few simple kanji too.",
+   "kw": "半年・読めるようになった・簡単な漢字"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "この冬、一か月、日本を旅行しました。最初は、とても緊張しました。",
+   "kana": "このふゆ、いっかげつ、にほんをりょこうしました。さいしょは、とてもきんちょうしました。",
+   "en": "This winter I travelled around Japan for a month. At first I was very nervous.",
+   "kw": "一か月・旅行する・緊張する"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "でも、だんだん食堂で料理を注文できるようになりました。",
+   "kana": "でも、だんだんしょくどうでりょうりをちゅうもんできるようになりました。",
+   "en": "But little by little I became able to order food in a diner.",
+   "kw": "だんだん・注文できるようになった"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "道がわからないときも、日本語で道を聞けるようになりました。",
+   "kana": "みちがわからないときも、にほんごでみちをきけるようになりました。",
+   "en": "When I didn't know the way, I could ask for directions in Japanese too.",
+   "kw": "わからないとき・道を聞けるようになった"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "高山では、家を貸してくれた人と、毎晩少し話しました。",
+   "kana": "たかやまでは、いえをかしてくれたひとと、まいばんすこしはなしました。",
+   "en": "In Takayama I talked a little every evening with the person who rented me the house.",
+   "kw": "高山・貸してくれた人・毎晩話す"
+  },
+  {
+   "n": "11",
+   "who": "A",
+   "ja": "最後の日に、その人は「日本語がずいぶん上手になりましたね」と言ってくれました。",
+   "kana": "さいごのひに、そのひとは「にほんごがずいぶんじょうずになりましたね」といってくれました。",
+   "en": "On the last day, they told me, \"Your Japanese has got a lot better.\"",
+   "kw": "最後の日・ずいぶん上手になった・言ってくれた"
+  },
+  {
+   "n": "12",
+   "who": "A",
+   "ja": "でも、速い日本語はまだよくわかりませんから、毎晩日本のニュースを聞くようにしています。",
+   "kana": "でも、はやいにほんごはまだよくわかりませんから、まいばんにほんのニュースをきくようにしています。",
+   "en": "But I still don't really understand fast Japanese, so I make a habit of listening to the Japanese news every evening.",
+   "kw": "速い日本語・まだ・ニュースを聞くようにしている"
+  },
+  {
+   "n": "13",
+   "who": "A",
+   "ja": "来年は、日本語の新聞が読めるように、漢字をもっと勉強するつもりです。",
+   "kana": "らいねんは、にほんごのしんぶんがよめるように、かんじをもっとべんきょうするつもりです。",
+   "en": "Next year I plan to study more kanji so that I can read a Japanese newspaper.",
+   "kw": "新聞が読めるように・漢字・つもり"
+  },
+  {
+   "n": "14",
+   "who": "A",
+   "ja": "皆さんも、毎日続ければ、きっと話せるようになりますよ。",
+   "kana": "みなさんも、まいにちつづければ、きっとはなせるようになりますよ。",
+   "en": "If you all keep at it every day too, I'm sure you'll be able to speak.",
+   "kw": "続ければ・きっと・話せるようになる"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "最初は、何が読めませんでしたか。",
+   "kana": "さいしょは、なにがよめませんでしたか。",
+   "en": "What couldn't you read at first?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "字を覚えても、次の日にはどうなりましたか。",
+   "kana": "じをおぼえても、つぎのひにはどうなりましたか。",
+   "en": "When you learned a character, what happened the next day?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "毎朝、朝ごはんの前に、何をするようにしていますか。",
+   "kana": "まいあさ、あさごはんのまえに、なにをするようにしていますか。",
+   "en": "What do you make a habit of doing every morning before breakfast?",
+   "answer": "04"
+  },
+  {
+   "by": "B",
+   "ja": "忘れないように、新しい単語をどうしますか。",
+   "kana": "わすれないように、あたらしいたんごをどうしますか。",
+   "en": "What do you do with new words so you don't forget them?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "どのくらいで、ひらがなとカタカナが読めるようになりましたか。",
+   "kana": "どのくらいで、ひらがなとカタカナがよめるようになりましたか。",
+   "en": "How long did it take until you could read hiragana and katakana?",
+   "answer": "06"
+  },
+  {
+   "by": "B",
+   "ja": "食堂で何ができるようになりましたか。",
+   "kana": "しょくどうでなにができるようになりましたか。",
+   "en": "What became possible for you in diners?",
+   "answer": "08"
+  },
+  {
+   "by": "B",
+   "ja": "道がわからないとき、どうしましたか。",
+   "kana": "みちがわからないとき、どうしましたか。",
+   "en": "What did you do when you didn't know the way?",
+   "answer": "09"
+  },
+  {
+   "by": "B",
+   "ja": "高山で、だれと話しましたか。",
+   "kana": "たかやまで、だれとはなしましたか。",
+   "en": "Who did you talk with in Takayama?",
+   "answer": "10"
+  },
+  {
+   "by": "B",
+   "ja": "毎晩、何を聞くようにしていますか。どうしてですか。",
+   "kana": "まいばん、なにをきくようにしていますか。どうしてですか。",
+   "en": "What do you make a habit of listening to every evening, and why?",
+   "answer": "12"
+  },
+  {
+   "by": "B",
+   "ja": "来年は、どうして漢字をもっと勉強しますか。",
+   "kana": "らいねんは、どうしてかんじをもっとべんきょうしますか。",
+   "en": "Why are you going to study more kanji next year?",
+   "answer": "13"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Anki is a free flashcard program that shows each card again just before you are likely to forget it, so a short daily session works better than a long one once a week; many Minna no Nihongo learners keep a deck per lesson. Reading words aloud after writing them (声を出して読む) is a standard tip from Japanese teachers. In small diners (食堂) in the countryside, menus are often only in Japanese, so being able to read katakana and simple kanji helps a lot. NHK offers news in simple Japanese for learners (NHK NEWS WEB EASY), and the Japanese-Language Proficiency Test (JLPT) is held in Belgium; check dates and venues before you sign up."
+  },
+  {
+   "label": "New words:",
+   "text": "最初 さいしょ at first · 字 じ character · 覚える おぼえる learn, memorise · 単語 たんご word · 声を出す こえをだす say out loud · 半年 はんとし half a year · 簡単 かんたん simple · 緊張する きんちょうする be nervous · だんだん gradually · 食堂 しょくどう diner · 注文する ちゅうもんする order · 貸す かす lend, rent out · 最後 さいご last · ずいぶん quite a lot (L36) · 続ける つづける continue (L36) · 新聞 しんぶん newspaper"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "読めるようになりました / 注文できるようになりました / 聞けるようになりました / 話せるようになります (L36) · 勉強するようにしました / 練習するようにしています / 聞くようにしています (L36) · 忘れないように / 読めるように (purpose, L36) · 続ければ (L35) · 書いたあとで (L34) · 「～」と言ってくれました (L33) · つもりです (L31) · 忘れてしまいました (L29) · 貸してくれた人 (L24, L22) · 覚えても (L25) · わからないとき (L23)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "Ankiのカード → 日本の漫画（まんが）· 日本のニュース → 日本の歌（うた）· 新聞 → 小説（しょうせつ）novel · 食堂 → 居酒屋（いざかや）"
+  }
+ ]
+}
