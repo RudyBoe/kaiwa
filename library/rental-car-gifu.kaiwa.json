@@ -1,0 +1,261 @@
+{
+ "format": "kaiwa/1",
+ "id": "rental-car-gifu",
+ "kind": "dialogue",
+ "page_title": "Rentakaa Kaiwa",
+ "eyebrow": "Kaiwa · N4 · レンタカーで",
+ "title": "レンタカーを借りる",
+ "subtitle": "Picking up a rental car in Gifu",
+ "scene": "A rental car office near Gifu Station. A traveller who has booked a car for five days collects it before driving up to Takayama.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 35,
+  "focus": [
+   31,
+   35
+  ]
+ },
+ "meta": "Minna L1–35, focus L31–35. Beyond L35: none; staff keigo listed under Staff phrases.",
+ "tags": [
+  "car",
+  "driving",
+  "rental",
+  "gifu"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "客",
+   "en": "Customer"
+  },
+  {
+   "id": "B",
+   "ja": "店員",
+   "en": "Staff"
+  }
+ ],
+ "lines": [
+  {
+   "who": "B",
+   "ja": "いらっしゃいませ。ご予約のお名前をお願いします。",
+   "kana": "いらっしゃいませ。ごよやくのおなまえをおねがいします。",
+   "en": "Welcome. The name on the booking, please.",
+   "kw": "予約・名前"
+  },
+  {
+   "who": "A",
+   "ja": "ヤンセンスです。今日から五日間、車を予約しています。",
+   "kana": "ヤンセンスです。きょうからいつかかん、くるまをよやくしています。",
+   "en": "Janssens. I've booked a car for five days from today.",
+   "kw": "五日間・予約している"
+  },
+  {
+   "who": "B",
+   "ja": "ヤンセンス様ですね。国際運転免許証とパスポートを見せていただけますか。",
+   "kana": "ヤンセンスさまですね。こくさいうんてんめんきょしょうとパスポートをみせていただけますか。",
+   "en": "Mr Janssens. Could I see your international driving permit and passport?",
+   "kw": "国際運転免許証・見せていただけますか"
+  },
+  {
+   "who": "A",
+   "ja": "はい、どうぞ。日本では初めて運転しますから、ちょっと心配です。",
+   "kana": "はい、どうぞ。にほんでははじめてうんてんしますから、ちょっとしんぱいです。",
+   "en": "Here you are. It's my first time driving in Japan, so I'm a bit nervous.",
+   "kw": "日本では・初めて運転する・心配"
+  },
+  {
+   "who": "B",
+   "ja": "大丈夫ですよ。車の設備を説明しますから、わからなければ、何でも聞いてください。",
+   "kana": "だいじょうぶですよ。くるまのせつびをせつめいしますから、わからなければ、なんでもきいてください。",
+   "en": "Don't worry. I'll go through the car's equipment, so if anything's unclear, just ask.",
+   "kw": "設備・説明する・わからなければ"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。エンジンはどうやってかければいいですか。",
+   "kana": "ありがとうございます。エンジンはどうやってかければいいですか。",
+   "en": "Thanks. How do I start the engine?",
+   "kw": "エンジンをかける・どうやって・かければいい"
+  },
+  {
+   "who": "B",
+   "ja": "ブレーキを踏んで、このボタンを押せば、かかります。",
+   "kana": "ブレーキをふんで、このボタンをおせば、かかります。",
+   "en": "Press the brake and push this button, and it starts.",
+   "kw": "ブレーキを踏んで・押せば"
+  },
+  {
+   "who": "A",
+   "ja": "カーナビは英語になりますか。",
+   "kana": "カーナビはえいごになりますか。",
+   "en": "Can the satnav be switched to English?",
+   "kw": "カーナビ・英語になる"
+  },
+  {
+   "who": "B",
+   "ja": "はい。画面の「設定」を押せば、英語に変えられます。",
+   "kana": "はい。がめんの「せってい」をおせば、えいごにかえられます。",
+   "en": "Yes. Press \"Settings\" on the screen and you can change it to English.",
+   "kw": "設定・押せば・変えられる"
+  },
+  {
+   "who": "A",
+   "ja": "よかった。ワイパーはこのレバーですか。",
+   "kana": "よかった。ワイパーはこのレバーですか。",
+   "en": "Good. Are the wipers this lever?",
+   "kw": "ワイパー・レバー"
+  },
+  {
+   "who": "B",
+   "ja": "いいえ、それはウインカーです。ヨーロッパの車と反対ですから、気をつけてください。",
+   "kana": "いいえ、それはウインカーです。ヨーロッパのくるまとはんたいですから、きをつけてください。",
+   "en": "No, that's the indicator. It's the opposite of European cars, so be careful.",
+   "kw": "ウインカー・反対・気をつける"
+  },
+  {
+   "who": "A",
+   "ja": "そうですか。きっと何回も間違えるでしょう。",
+   "kana": "そうですか。きっとなんかいもまちがえるでしょう。",
+   "en": "Really? I'll probably get it wrong lots of times.",
+   "kw": "きっと・間違える・でしょう"
+  },
+  {
+   "who": "B",
+   "ja": "皆さん、間違えますよ。一日運転すれば、大丈夫です。",
+   "kana": "みなさん、まちがえますよ。いちにちうんてんすれば、だいじょうぶです。",
+   "en": "Everyone does. After a day of driving, you'll be fine.",
+   "kw": "皆さん・運転すれば・大丈夫"
+  },
+  {
+   "who": "A",
+   "ja": "高速道路を使うつもりなんですが、ETCカードは借りられますか。",
+   "kana": "こうそくどうろをつかうつもりなんですが、イーティーシーカードはかりられますか。",
+   "en": "I'm planning to use the expressway. Can I rent an ETC card?",
+   "kw": "高速道路・つもり・ETCカード・借りられる"
+  },
+  {
+   "who": "B",
+   "ja": "はい。ETCカードがあれば、料金所で止まらないで、通れますよ。",
+   "kana": "はい。イーティーシーカードがあれば、りょうきんじょでとまらないで、とおれますよ。",
+   "en": "Yes. With an ETC card you can go through the toll gates without stopping.",
+   "kw": "あれば・料金所・止まらないで・通れる"
+  },
+  {
+   "who": "A",
+   "ja": "じゃ、お願いします。返すときは、ガソリンを満タンにしなければなりませんか。",
+   "kana": "じゃ、おねがいします。かえすときは、ガソリンをまんタンにしなければなりませんか。",
+   "en": "Then yes, please. When I return it, do I have to fill up the tank?",
+   "kw": "返すとき・満タン・しなければなりませんか"
+  },
+  {
+   "who": "B",
+   "ja": "はい。返す前に、近くのガソリンスタンドで満タンにして、レシートを見せてください。",
+   "kana": "はい。かえすまえに、ちかくのガソリンスタンドでまんタンにして、レシートをみせてください。",
+   "en": "Yes. Before you return it, fill up at a nearby station and show us the receipt.",
+   "kw": "返す前に・満タンにして・レシート"
+  },
+  {
+   "who": "A",
+   "ja": "ガソリンはどれを入れればいいですか。",
+   "kana": "ガソリンはどれをいれればいいですか。",
+   "en": "Which petrol should I put in?",
+   "kw": "どれ・入れればいい"
+  },
+  {
+   "who": "B",
+   "ja": "レギュラーです。スタンドでは赤いノズルを使えばいいです。",
+   "kana": "レギュラーです。スタンドではあかいノズルをつかえばいいです。",
+   "en": "Regular. At the station, use the red nozzle.",
+   "kw": "レギュラー・赤いノズル・使えばいい"
+  },
+  {
+   "who": "A",
+   "ja": "赤ですね。もし事故があったら、どうすればいいですか。",
+   "kana": "あかですね。もしじこがあったら、どうすればいいですか。",
+   "en": "Red, OK. If there's an accident, what should I do?",
+   "kw": "もし・事故があったら・どうすればいい"
+  },
+  {
+   "who": "B",
+   "ja": "まず警察に電話して、それからこちらに連絡してください。番号はこのカードに書いてあります。",
+   "kana": "まずけいさつにでんわして、それからこちらにれんらくしてください。ばんごうはこのカードにかいてあります。",
+   "en": "First call the police, then contact us. The number is on this card.",
+   "kw": "警察・連絡する・書いてある"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。今日は高山まで運転しようと思います。",
+   "kana": "わかりました。きょうはたかやままでうんてんしようとおもいます。",
+   "en": "Understood. I'm planning to drive to Takayama today.",
+   "kw": "高山まで・運転しようと思う"
+  },
+  {
+   "who": "B",
+   "ja": "高山なら、山の道ですから、ゆっくり走ってください。いってらっしゃいませ。",
+   "kana": "たかやまなら、やまのみちですから、ゆっくりはしってください。いってらっしゃいませ。",
+   "en": "If it's Takayama, it's a mountain road, so take it slowly. Have a good trip.",
+   "kw": "高山なら・山の道・ゆっくり走る"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 07: offer insurance that covers everything.",
+   "ja": "全部の事故に使える保険もありますが、どうしますか。",
+   "kana": "ぜんぶのじこにつかえるほけんもありますが、どうしますか。",
+   "reply_ja": "いくらですか。高くなければ、お願いします。",
+   "reply_kana": "いくらですか。たかくなければ、おねがいします。",
+   "reply_en": "How much is it? If it's not expensive, yes please."
+  },
+  {
+   "by": "B",
+   "en": "After line 21: ask what time the car will be returned.",
+   "ja": "何時ごろ車を返しますか。",
+   "kana": "なんじごろくるまをかえしますか。",
+   "reply_ja": "五日後の午後四時ごろです。遅くなれば、電話します。",
+   "reply_kana": "いつかごのごごよじごろです。おそくなれば、でんわします。",
+   "reply_en": "Around 4 p.m. in five days. If I'm late, I'll call."
+  },
+  {
+   "by": "A",
+   "en": "After line 13: ask whether the car has snow tyres.",
+   "ja": "雪が降れば、このタイヤで大丈夫ですか。",
+   "kana": "ゆきがふれば、このタイヤでだいじょうぶですか。",
+   "reply_ja": "十一月の初めなら、たぶん大丈夫ですが、山の上は気をつけてください。",
+   "reply_kana": "じゅういちがつのはじめなら、たぶんだいじょうぶですが、やまのうえはきをつけてください。",
+   "reply_en": "In early November it's probably fine, but take care up in the mountains."
+  },
+  {
+   "by": "A",
+   "en": "At the end: ask whether you can return the car somewhere else.",
+   "ja": "富山の店で車を返すことができますか。",
+   "kana": "とやまのみせでくるまをかえすことができますか。",
+   "reply_ja": "はい、できます。でも、料金が少し高くなります。",
+   "reply_kana": "はい、できます。でも、りょうきんがすこしたかくなります。",
+   "reply_en": "Yes, you can. But it costs a bit more."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Belgian drivers need an international driving permit (Geneva 1949) plus their national licence and passport to rent a car in Japan. Japanese cars drive on the left and usually have the indicator stalk on the right and the wipers on the left, the reverse of most European cars, so first-timers often switch the wipers on at every turn. ETC cards can be rented at most rental offices and let you pass expressway toll gates without stopping. Cars are returned with a full tank and the receipt; at Japanese petrol stations regular is usually the red nozzle, high-octane yellow and diesel (軽油) green. In an accident, call the police (110) first and then the rental company. One-way returns and snow tyres depend on the company: check when booking."
+  },
+  {
+   "label": "New words:",
+   "text": "国際運転免許証 こくさいうんてんめんきょしょう international driving permit · 設備 せつび equipment · 踏む ふむ press (a pedal) · 画面 がめん screen · 設定 せってい settings · レバー lever · ウインカー indicator · 反対 はんたい opposite · 間違える まちがえる make a mistake · 高速道路 こうそくどうろ expressway · 料金所 りょうきんじょ toll gate · 満タン まんタン full tank · 事故 じこ accident · 警察 けいさつ police · 連絡する れんらくする contact · 保険 ほけん insurance"
+  },
+  {
+   "label": "Staff phrases to recognise:",
+   "text": "ご予約のお名前 the name on the booking · ～様 Mr/Ms · 見せていただけますか could I see · いってらっしゃいませ have a good trip (polite)"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "わからなければ / 押せば / 運転すれば / あれば / かければいい / どうすればいい, 高山なら (L35) · 止まらないで (L34) · ～でしょう (L32) · ～つもり / ～ようと思います (L31) · 書いてあります (L30) · 変えられる / 借りられる / 通れる (L27) · ～ていただけますか / ～んですが (L26) · もし～たら (L25) · ～なければなりません (L17)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "高山 → 白川郷（しらかわごう）· ETCカード → チャイルドシート · レギュラー → ハイオク（黄色いノズル）· 五日間 → 一週間"
+  }
+ ]
+}

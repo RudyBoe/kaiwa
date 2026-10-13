@@ -1,0 +1,235 @@
+{
+ "format": "kaiwa/1",
+ "id": "kouyou-shinhotaka",
+ "kind": "story",
+ "page_title": "Kouyou Monogatari",
+ "eyebrow": "Story · N4 · 紅葉",
+ "title": "上へ行けば行くほど",
+ "subtitle": "Autumn leaves on the Shinhotaka Ropeway",
+ "scene": "Back home after the trip, a traveller tells a friend about a day of autumn leaves in Okuhida, from the ropeway to a riverside hot spring.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 35,
+  "focus": [
+   31,
+   35
+  ]
+ },
+ "meta": "Minna L1–35, focus L31–35. Beyond L35: none.",
+ "tags": [
+  "autumn",
+  "nature",
+  "onsen",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "十一月の初め、飛騨の山へ紅葉を見に行きました。",
+   "kana": "じゅういちがつのはじめ、ひだのやまへこうようをみにいきました。",
+   "en": "In early November I went to the Hida mountains to see the autumn leaves.",
+   "kw": "十一月の初め・紅葉・見に行く"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "宿の人が「紅葉なら、新穂高ロープウェイがいいですよ」と教えてくれました。",
+   "kana": "やどのひとが「こうようなら、しんほたかロープウェイがいいですよ」とおしえてくれました。",
+   "en": "The person at the inn told me, \"For autumn leaves, the Shinhotaka Ropeway is good.\"",
+   "kw": "宿の人・紅葉なら・教えてくれた"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "朝早く行けば、人が少ないと聞きましたから、七時に宿を出ました。",
+   "kana": "あさはやくいけば、ひとがすくないとききましたから、しちじにやどをでました。",
+   "en": "I'd heard that if you go early there are fewer people, so I left the inn at seven.",
+   "kw": "早く行けば・少ない・と聞いた"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "下の駅のまわりは、赤や黄色の葉でいっぱいでした。",
+   "kana": "したのえきのまわりは、あかやきいろのはでいっぱいでした。",
+   "en": "Around the bottom station it was full of red and yellow leaves.",
+   "kw": "下の駅・赤や黄色・葉・いっぱい"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "ロープウェイに乗って、上へ行けば行くほど、木の色が変わりました。",
+   "kana": "ロープウェイにのって、うえへいけばいくほど、きのいろがかわりました。",
+   "en": "I took the ropeway, and the higher I went, the more the colour of the trees changed.",
+   "kw": "上へ行けば行くほど・色・変わる"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "赤から黄色に、黄色から茶色になって、上の駅の近くには、もう葉がありませんでした。",
+   "kana": "あかからきいろに、きいろからちゃいろになって、うえのえきのちかくには、もうはがありませんでした。",
+   "en": "Red turned to yellow, yellow to brown, and near the top station there were no leaves left.",
+   "kw": "赤から黄色・茶色・もう葉がない"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "上の駅は高さが二千百メートルぐらいで、とても寒かったです。",
+   "kana": "うえのえきはたかさがにせんひゃくメートルぐらいで、とてもさむかったです。",
+   "en": "The top station is about 2,100 metres up, and it was very cold.",
+   "kw": "高さ・二千百メートル・寒い"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "山の上には、もう白い雪が少しありました。",
+   "kana": "やまのうえには、もうしろいゆきがすこしありました。",
+   "en": "There was already a little white snow on the mountain tops.",
+   "kw": "山の上・もう・雪"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "天気がよかったですから、北アルプスの山がはっきり見えました。",
+   "kana": "てんきがよかったですから、きたアルプスのやまがはっきりみえました。",
+   "en": "The weather was good, so I could see the Northern Alps clearly.",
+   "kw": "天気・北アルプス・はっきり見える"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "手袋を持って行きましたから、写真もたくさん撮ることができました。",
+   "kana": "てぶくろをもっていきましたから、しゃしんもたくさんとることができました。",
+   "en": "I'd brought gloves, so I could take lots of photos too.",
+   "kw": "手袋・持って行く・撮ることができる"
+  },
+  {
+   "n": "11",
+   "who": "A",
+   "ja": "下に戻ったあとで、川のそばの露天風呂に入りました。",
+   "kana": "したにもどったあとで、かわのそばのろてんぶろにはいりました。",
+   "en": "After coming back down, I had a bath in an open-air hot spring by the river.",
+   "kw": "戻ったあとで・川のそば・露天風呂"
+  },
+  {
+   "n": "12",
+   "who": "A",
+   "ja": "お湯に入りながら、赤い山を見ました。最高でした。",
+   "kana": "おゆにはいりながら、あかいやまをみました。さいこうでした。",
+   "en": "I looked at the red mountains while soaking in the hot water. It was the best.",
+   "kw": "入りながら・赤い山・最高"
+  },
+  {
+   "n": "13",
+   "who": "A",
+   "ja": "紅葉なら、朝は早ければ早いほどいいと思います。",
+   "kana": "こうようなら、あさははやければはやいほどいいとおもいます。",
+   "en": "For autumn leaves, I think the earlier in the morning the better.",
+   "kw": "紅葉なら・早ければ早いほど・と思う"
+  },
+  {
+   "n": "14",
+   "who": "A",
+   "ja": "皆さんも機会があれば、ぜひ行ってください。",
+   "kana": "みなさんもきかいがあれば、ぜひいってください。",
+   "en": "If you ever get the chance, do go.",
+   "kw": "機会があれば・ぜひ"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "いつ、どこへ行きましたか。",
+   "kana": "いつ、どこへいきましたか。",
+   "en": "When and where did you go?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "だれが新穂高ロープウェイを教えてくれましたか。",
+   "kana": "だれがしんほたかロープウェイをおしえてくれましたか。",
+   "en": "Who told you about the Shinhotaka Ropeway?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "どうして七時に宿を出ましたか。",
+   "kana": "どうしてしちじにやどをでましたか。",
+   "en": "Why did you leave the inn at seven?",
+   "answer": "03"
+  },
+  {
+   "by": "B",
+   "ja": "下の駅のまわりはどうでしたか。",
+   "kana": "したのえきのまわりはどうでしたか。",
+   "en": "What was it like around the bottom station?",
+   "answer": "04"
+  },
+  {
+   "by": "B",
+   "ja": "上へ行けば行くほど、何が変わりましたか。",
+   "kana": "うえへいけばいくほど、なにがかわりましたか。",
+   "en": "What changed the higher you went?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "上の駅の近くの木はどうでしたか。",
+   "kana": "うえのえきのちかくのきはどうでしたか。",
+   "en": "What were the trees like near the top station?",
+   "answer": "06"
+  },
+  {
+   "by": "B",
+   "ja": "山の上に何がありましたか。",
+   "kana": "やまのうえになにがありましたか。",
+   "en": "What was on the mountain tops?",
+   "answer": "08"
+  },
+  {
+   "by": "B",
+   "ja": "下に戻ったあとで、何をしましたか。",
+   "kana": "したにもどったあとで、なにをしましたか。",
+   "en": "What did you do after coming back down?",
+   "answer": "11"
+  },
+  {
+   "by": "B",
+   "ja": "紅葉なら、いつ行けばいいですか。",
+   "kana": "こうようなら、いついけばいいですか。",
+   "en": "For autumn leaves, when should you go?",
+   "answer": "13"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "The Shinhotaka Ropeway (新穂高ロープウェイ) in Okuhida, part of Takayama city, climbs in two stages from Shinhotaka Onsen (about 1,100 m) to Nishi-Hotakaguchi station at about 2,150 m, with a viewing deck facing the Northern Alps. The leaves turn from the top down: mid-October up high, late October to early November around the bottom station, so in early November you ride from full colour into bare trees and often the first snow. Okuhida Onsen-gō has many riverside open-air baths (露天風呂). Ropeway hours, peak colour and bath opening dates vary year to year: check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "紅葉 こうよう autumn leaves · 宿 やど inn · 葉 は leaf · 茶色 ちゃいろ brown · 高さ たかさ height · 北アルプス きたアルプス Northern Alps · はっきり clearly · 戻る もどる come back · 露天風呂 ろてんぶろ open-air bath · 最高 さいこう the best · 機会 きかい chance"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "行けば行くほど / 早ければ早いほど, 行けば / あれば, 紅葉なら (L35) · 戻ったあとで (L34) · 見える (L27) · 教えてくれました (L24) · ～ながら (L28) · ～ことができます (L18) · 見に行きます (L13)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "新穂高ロープウェイ → 白川郷の展望台（てんぼうだい）· 露天風呂 → 足湯（あしゆ）foot bath · 七時 → 六時半 · 手袋 → カイロ hand warmer"
+  }
+ ]
+}

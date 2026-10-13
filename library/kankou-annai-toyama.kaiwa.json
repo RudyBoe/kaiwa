@@ -1,0 +1,257 @@
+{
+ "format": "kaiwa/1",
+ "id": "kankou-annai-toyama",
+ "kind": "dialogue",
+ "page_title": "Toyama Annai Kaiwa",
+ "eyebrow": "Kaiwa · N4 · 観光案内所で",
+ "title": "どこかいい所はありませんか",
+ "subtitle": "Asking for tips at the Toyama Station tourist office",
+ "scene": "Morning at the tourist information office in Toyama Station. A traveller with two free days asks the staff where to go.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 35,
+  "focus": [
+   31,
+   35
+  ]
+ },
+ "meta": "Minna L1–35, focus L31–35. Beyond L35: none.",
+ "tags": [
+  "tourist-info",
+  "sightseeing",
+  "food",
+  "toyama"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "旅行者",
+   "en": "Traveller"
+  },
+  {
+   "id": "B",
+   "ja": "案内所の人",
+   "en": "Tourist office staff"
+  }
+ ],
+ "lines": [
+  {
+   "who": "A",
+   "ja": "すみません、富山は初めてなんですが、どこかいい所はありませんか。",
+   "kana": "すみません、とやまははじめてなんですが、どこかいいところはありませんか。",
+   "en": "Excuse me, it's my first time in Toyama. Is there anywhere good to go?",
+   "kw": "初めてなんですが・どこかいい所"
+  },
+  {
+   "who": "B",
+   "ja": "そうですね。どんな所が好きですか。",
+   "kana": "そうですね。どんなところがすきですか。",
+   "en": "Let me see. What kind of places do you like?",
+   "kw": "どんな所・好き"
+  },
+  {
+   "who": "A",
+   "ja": "古い町と、おいしい魚が好きです。",
+   "kana": "ふるいまちと、おいしいさかながすきです。",
+   "en": "Old towns, and good fish.",
+   "kw": "古い町・魚"
+  },
+  {
+   "who": "B",
+   "ja": "古い町なら、岩瀬がいいですよ。昔の港町で、古い家がたくさん残っています。",
+   "kana": "ふるいまちなら、いわせがいいですよ。むかしのみなとまちで、ふるいいえがたくさんのこっています。",
+   "en": "For an old town, Iwase is good. It's an old port town, and lots of old houses are still standing.",
+   "kw": "古い町なら・港町・残っている"
+  },
+  {
+   "who": "A",
+   "ja": "岩瀬までどうやって行けばいいですか。",
+   "kana": "いわせまでどうやっていけばいいですか。",
+   "en": "How do I get to Iwase?",
+   "kw": "どうやって・行けばいい"
+  },
+  {
+   "who": "B",
+   "ja": "駅から路面電車に乗れば、二十五分ぐらいで着きます。",
+   "kana": "えきからろめんでんしゃにのれば、にじゅうごふんぐらいでつきます。",
+   "en": "If you take the tram from the station, you'll be there in about twenty-five minutes.",
+   "kw": "路面電車・乗れば・着く"
+  },
+  {
+   "who": "A",
+   "ja": "切符はどこで買えばいいですか。",
+   "kana": "きっぷはどこでかえばいいですか。",
+   "en": "Where do I buy a ticket?",
+   "kw": "切符・買えばいい"
+  },
+  {
+   "who": "B",
+   "ja": "降りるときに払えばいいです。ICカードも使えますよ。",
+   "kana": "おりるときにはらえばいいです。アイシーカードもつかえますよ。",
+   "en": "You just pay when you get off. You can use an IC card too.",
+   "kw": "降りるとき・払えばいい・使える"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。魚なら、どこがいいですか。",
+   "kana": "わかりました。さかななら、どこがいいですか。",
+   "en": "Got it. And for fish, where's good?",
+   "kw": "魚なら・どこ"
+  },
+  {
+   "who": "B",
+   "ja": "魚なら、氷見ですね。港の近くに、魚の市場や食堂がたくさんあります。",
+   "kana": "さかななら、ひみですね。みなとのちかくに、さかなのいちばやしょくどうがたくさんあります。",
+   "en": "For fish, Himi. Near the harbour there are lots of fish markets and eateries.",
+   "kw": "魚なら・氷見・市場や食堂"
+  },
+  {
+   "who": "A",
+   "ja": "氷見は遠いですか。",
+   "kana": "ひみはとおいですか。",
+   "en": "Is Himi far?",
+   "kw": "遠い"
+  },
+  {
+   "who": "B",
+   "ja": "電車で一時間ぐらいです。高岡で乗り換えなければなりません。",
+   "kana": "でんしゃでいちじかんぐらいです。たかおかでのりかえなければなりません。",
+   "en": "About an hour by train. You have to change at Takaoka.",
+   "kw": "一時間・高岡・乗り換えなければならない"
+  },
+  {
+   "who": "A",
+   "ja": "車で行けば、もっと早いですか。",
+   "kana": "くるまでいけば、もっとはやいですか。",
+   "en": "Is it quicker if I go by car?",
+   "kw": "車で行けば・もっと早い"
+  },
+  {
+   "who": "B",
+   "ja": "ええ、五十分ぐらいでしょう。天気がよければ、途中で海の向こうに立山が見えますよ。",
+   "kana": "ええ、ごじゅっぷんぐらいでしょう。てんきがよければ、とちゅうでうみのむこうにたてやまがみえますよ。",
+   "en": "Yes, about fifty minutes, I'd say. If the weather's good, on the way you can see Tateyama across the sea.",
+   "kw": "でしょう・天気がよければ・海の向こう・見える"
+  },
+  {
+   "who": "A",
+   "ja": "海の向こうに山が見えるんですか。すごいですね。",
+   "kana": "うみのむこうにやまがみえるんですか。すごいですね。",
+   "en": "You can see mountains across the sea? Amazing.",
+   "kw": "海の向こう・見えるんですか"
+  },
+  {
+   "who": "B",
+   "ja": "雨晴海岸という所です。朝は早ければ早いほど、よく見えますよ。",
+   "kana": "あまはらしかいがんというところです。あさははやければはやいほど、よくみえますよ。",
+   "en": "It's a place called the Amaharashi coast. The earlier in the morning, the better you can see it.",
+   "kw": "雨晴海岸という所・早ければ早いほど"
+  },
+  {
+   "who": "A",
+   "ja": "立山にも行きたいんですが、十一月でも行けますか。",
+   "kana": "たてやまにもいきたいんですが、じゅういちがつでもいけますか。",
+   "en": "I'd also like to go to Tateyama. Can you still go in November?",
+   "kw": "行きたいんですが・十一月でも・行ける"
+  },
+  {
+   "who": "B",
+   "ja": "アルペンルートなら、十一月三十日まで行けます。でも、上はもう雪が降っているかもしれません。",
+   "kana": "アルペンルートなら、じゅういちがつさんじゅうにちまでいけます。でも、うえはもうゆきがふっているかもしれません。",
+   "en": "The Alpine Route is open until 30 November. But up top it may already be snowing.",
+   "kw": "アルペンルートなら・三十日まで・かもしれない"
+  },
+  {
+   "who": "A",
+   "ja": "雪ですか。どんな服を持って行けばいいですか。",
+   "kana": "ゆきですか。どんなふくをもっていけばいいですか。",
+   "en": "Snow? What kind of clothes should I take?",
+   "kw": "どんな服・持って行けばいい"
+  },
+  {
+   "who": "B",
+   "ja": "冬のコートと手袋を持って行ったほうがいいですよ。",
+   "kana": "ふゆのコートとてぶくろをもっていったほうがいいですよ。",
+   "en": "You'd better take a winter coat and gloves.",
+   "kw": "コート・手袋・ほうがいい"
+  },
+  {
+   "who": "A",
+   "ja": "わかりました。この地図をもらってもいいですか。",
+   "kana": "わかりました。このちずをもらってもいいですか。",
+   "en": "Understood. May I have this map?",
+   "kw": "地図・もらってもいい"
+  },
+  {
+   "who": "B",
+   "ja": "はい、どうぞ。わからないことがあれば、いつでも来てください。",
+   "kana": "はい、どうぞ。わからないことがあれば、いつでもきてください。",
+   "en": "Here you are. If there's anything you're not sure about, come by any time.",
+   "kw": "わからないことがあれば・いつでも"
+  },
+  {
+   "who": "A",
+   "ja": "ありがとうございます。助かりました。",
+   "kana": "ありがとうございます。たすかりました。",
+   "en": "Thank you. That's a big help.",
+   "kw": "助かりました"
+  }
+ ],
+ "curveballs": [
+  {
+   "by": "B",
+   "en": "After line 03: ask how long the traveller is staying in Toyama.",
+   "ja": "富山には何日いますか。",
+   "kana": "とやまにはなんにちいますか。",
+   "reply_ja": "二日います。あさっての朝、出発します。",
+   "reply_kana": "ふつかいます。あさってのあさ、しゅっぱつします。",
+   "reply_en": "Two days. I leave the morning after tomorrow."
+  },
+  {
+   "by": "B",
+   "en": "After line 13: warn that the coast road is crowded on weekends.",
+   "ja": "でも、週末は道が混んでいますから、平日に行けば、もっと早いですよ。",
+   "kana": "でも、しゅうまつはみちがこんでいますから、へいじつにいけば、もっとはやいですよ。",
+   "reply_ja": "じゃ、月曜日に行こうと思います。",
+   "reply_kana": "じゃ、げつようびにいこうとおもいます。",
+   "reply_en": "Then I think I'll go on Monday."
+  },
+  {
+   "by": "A",
+   "en": "After line 10: ask what fish is good at this time of year.",
+   "ja": "今の季節なら、どんな魚がおいしいですか。",
+   "kana": "いまのきせつなら、どんなさかながおいしいですか。",
+   "reply_ja": "十一月なら、ぶりや白えびがおいしいですよ。",
+   "reply_kana": "じゅういちがつなら、ぶりやしろえびがおいしいですよ。",
+   "reply_en": "In November, yellowtail and white shrimp are good."
+  },
+  {
+   "by": "A",
+   "en": "At the end: ask if you can leave your suitcase somewhere.",
+   "ja": "大きい荷物をどこかに預けることができますか。",
+   "kana": "おおきいにもつをどこかにあずけることができますか。",
+   "reply_ja": "駅のコインロッカーを使えばいいですよ。",
+   "reply_kana": "えきのコインロッカーをつかえばいいですよ。",
+   "reply_en": "You can use the coin lockers in the station."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Toyama Station has a tourist information office in the station building. Iwase (岩瀬) is an old port town of the Kitamae-bune trade, with merchant houses and a sake brewery; the Toyama tram (ポートラム line) runs there from the station, and on Toyama trams you pay when you get off (IC cards accepted). Himi (氷見) is a fishing port known for winter buri (yellowtail); ひみ番屋街, a roadside station by the harbour, has a fish market and eateries. On the way, the Amaharashi coast (雨晴海岸) has the famous view of the Tateyama range across Toyama Bay, clearest on cold, clear mornings. The Tateyama Kurobe Alpine Route usually runs mid-April to 30 November; times, fares and season dates change, so check before you go."
+  },
+  {
+   "label": "New words:",
+   "text": "港 みなと port · 港町 みなとまち port town · 残る のこる remain · 路面電車 ろめんでんしゃ tram · 払う はらう pay · 市場 いちば market · 食堂 しょくどう eatery · 途中 とちゅう on the way · 向こう むこう the other side · 海岸 かいがん coast · 手袋 てぶくろ gloves · 助かる たすかる be helped · ぶり yellowtail · 白えび しろえび white shrimp · 預ける あずける leave (luggage)"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "行けばいい / 乗れば / よければ / あれば, 早ければ早いほど, 古い町なら / 魚なら (L35) · ～かもしれません / ～でしょう / ～たほうがいい (L32) · ～ようと思います (L31, curveball) · 残っている (L29) · 見える / 行ける / 使える (L27) · ～んですが / ～んですか (L26) · ～なければなりません (L17)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "岩瀬 → 富岩運河環水公園（ふがんうんがかんすいこうえん）· 魚 → ガラス（富山市ガラス美術館）· 冬のコート → セーター · 車で → バスで"
+  }
+ ]
+}

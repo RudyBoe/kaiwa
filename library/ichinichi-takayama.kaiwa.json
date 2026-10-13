@@ -1,0 +1,227 @@
+{
+ "format": "kaiwa/1",
+ "id": "ichinichi-takayama",
+ "kind": "story",
+ "page_title": "Takayama no Ichinichi",
+ "eyebrow": "Story · N4 · 高山",
+ "title": "高山の一日",
+ "subtitle": "A day in Takayama, from the morning market to the hot spring",
+ "scene": "A traveller tells a friend about one full day in Takayama: the morning market, the old town, a sake brewery, and an evening bath.",
+ "level": {
+  "jlpt": "N4",
+  "minna_max": 34,
+  "focus": [
+   30,
+   34
+  ]
+ },
+ "meta": "Minna L1–34, focus L30–34. Beyond L34: none.",
+ "tags": [
+  "sightseeing",
+  "food",
+  "sake",
+  "hida"
+ ],
+ "created": "2026-10-13",
+ "roles": [
+  {
+   "id": "A",
+   "ja": "語り手",
+   "en": "Teller"
+  },
+  {
+   "id": "B",
+   "ja": "聞き手",
+   "en": "Listener"
+  }
+ ],
+ "lines": [
+  {
+   "n": "01",
+   "who": "A",
+   "ja": "高山に着いた次の日、朝ごはんを食べないで、宮川の朝市へ行きました。",
+   "kana": "たかやまについたつぎのひ、あさごはんをたべないで、みやがわのあさいちへいきました。",
+   "en": "The day after I arrived in Takayama, I went to the Miyagawa morning market without having breakfast.",
+   "kw": "次の日・食べないで・朝市"
+  },
+  {
+   "n": "02",
+   "who": "A",
+   "ja": "川のそばに、野菜や漬物やお菓子の店がたくさん並んでいました。",
+   "kana": "かわのそばに、やさいやつけものやおかしのみせがたくさんならんでいました。",
+   "en": "Along the river there were lots of stalls selling vegetables, pickles and sweets.",
+   "kw": "川のそば・漬物・並んでいる"
+  },
+  {
+   "n": "03",
+   "who": "A",
+   "ja": "店のおばあさんが、飛騨のりんごを一つくれました。",
+   "kana": "みせのおばあさんが、ひだのりんごをひとつくれました。",
+   "en": "An old lady at one stall gave me a Hida apple.",
+   "kw": "おばあさん・りんご・くれた"
+  },
+  {
+   "n": "04",
+   "who": "A",
+   "ja": "朝市を見たあとで、宿に戻って、朝ごはんを食べました。",
+   "kana": "あさいちをみたあとで、やどにもどって、あさごはんをたべました。",
+   "en": "After looking round the market, I went back to the inn and had breakfast.",
+   "kw": "見たあとで・宿に戻る"
+  },
+  {
+   "n": "05",
+   "who": "A",
+   "ja": "朝ごはんのあとで、古い町並みを歩きました。",
+   "kana": "あさごはんのあとで、ふるいまちなみをあるきました。",
+   "en": "After breakfast I walked through the old streets.",
+   "kw": "朝ごはんのあとで・古い町並み"
+  },
+  {
+   "n": "06",
+   "who": "A",
+   "ja": "酒蔵の前には、杉の葉で作った大きい玉が下がっていました。",
+   "kana": "さかぐらのまえには、すぎのはでつくったおおきいたまがさがっていました。",
+   "en": "In front of the sake brewery hung a big ball made of cedar leaves.",
+   "kw": "酒蔵・杉の葉で作った玉・下がっている"
+  },
+  {
+   "n": "07",
+   "who": "A",
+   "ja": "中に入って、店の人が説明したとおりに、三種類のお酒を順番に飲みました。",
+   "kana": "なかにはいって、みせのひとがせつめいしたとおりに、さんしゅるいのおさけをじゅんばんにのみました。",
+   "en": "I went in and tasted three kinds of sake in order, just as the staff explained.",
+   "kw": "説明したとおりに・三種類・順番に"
+  },
+  {
+   "n": "08",
+   "who": "A",
+   "ja": "お酒を飲んだあとで、ちょっと眠くなりました。",
+   "kana": "おさけをのんだあとで、ちょっとねむくなりました。",
+   "en": "After the sake I got a bit sleepy.",
+   "kw": "飲んだあとで・眠くなる"
+  },
+  {
+   "n": "09",
+   "who": "A",
+   "ja": "昼は、店の前に立って、飛騨牛のおすしを食べました。",
+   "kana": "ひるは、みせのまえにたって、ひだぎゅうのおすしをたべました。",
+   "en": "For lunch I ate Hida beef sushi standing in front of a shop.",
+   "kw": "立って・飛騨牛・おすし"
+  },
+  {
+   "n": "10",
+   "who": "A",
+   "ja": "午後は傘を持たないで出かけましたから、雨が降ったとき、店で傘を買いました。",
+   "kana": "ごごはかさをもたないででかけましたから、あめがふったとき、みせでかさをかいました。",
+   "en": "In the afternoon I went out without an umbrella, so when it rained I bought one in a shop.",
+   "kw": "傘を持たないで・降ったとき・買う"
+  },
+  {
+   "n": "11",
+   "who": "A",
+   "ja": "夕方、赤い中橋の上から、川と古い町を見ました。",
+   "kana": "ゆうがた、あかいなかばしのうえから、かわとふるいまちをみました。",
+   "en": "In the evening I looked at the river and the old town from the red Nakabashi bridge.",
+   "kw": "夕方・中橋・川と古い町"
+  },
+  {
+   "n": "12",
+   "who": "A",
+   "ja": "宿に帰ったあとで、温泉に入って、ゆっくり休みました。",
+   "kana": "やどにかえったあとで、おんせんにはいって、ゆっくりやすみました。",
+   "en": "After getting back to the inn, I had a hot-spring bath and rested.",
+   "kw": "帰ったあとで・温泉・ゆっくり休む"
+  },
+  {
+   "n": "13",
+   "who": "A",
+   "ja": "次に高山へ行くときも、朝ごはんを食べないで、朝市へ行こうと思います。",
+   "kana": "つぎにたかやまへいくときも、あさごはんをたべないで、あさいちへいこうとおもいます。",
+   "en": "Next time I go to Takayama, I'm going to skip breakfast and go to the morning market again.",
+   "kw": "次に・行くとき・食べないで・行こうと思う"
+  }
+ ],
+ "questions": [
+  {
+   "by": "B",
+   "ja": "朝市へ行ったとき、朝ごはんを食べましたか。",
+   "kana": "あさいちへいったとき、あさごはんをたべましたか。",
+   "en": "Had you eaten breakfast when you went to the morning market?",
+   "answer": "01"
+  },
+  {
+   "by": "B",
+   "ja": "朝市には何の店がありましたか。",
+   "kana": "あさいちにはなんのみせがありましたか。",
+   "en": "What kind of stalls were at the morning market?",
+   "answer": "02"
+  },
+  {
+   "by": "B",
+   "ja": "おばあさんは何をくれましたか。",
+   "kana": "おばあさんはなにをくれましたか。",
+   "en": "What did the old lady give you?",
+   "answer": "03"
+  },
+  {
+   "by": "B",
+   "ja": "朝ごはんのあとで、何をしましたか。",
+   "kana": "あさごはんのあとで、なにをしましたか。",
+   "en": "What did you do after breakfast?",
+   "answer": "05"
+  },
+  {
+   "by": "B",
+   "ja": "酒蔵の前に何がありましたか。",
+   "kana": "さかぐらのまえになにがありましたか。",
+   "en": "What was in front of the sake brewery?",
+   "answer": "06"
+  },
+  {
+   "by": "B",
+   "ja": "お酒はどうやって飲みましたか。",
+   "kana": "おさけはどうやってのみましたか。",
+   "en": "How did you drink the sake?",
+   "answer": "07"
+  },
+  {
+   "by": "B",
+   "ja": "昼ごはんに何を食べましたか。",
+   "kana": "ひるごはんになにをたべましたか。",
+   "en": "What did you have for lunch?",
+   "answer": "09"
+  },
+  {
+   "by": "B",
+   "ja": "雨が降ったとき、どうしましたか。",
+   "kana": "あめがふったとき、どうしましたか。",
+   "en": "What did you do when it rained?",
+   "answer": "10"
+  },
+  {
+   "by": "B",
+   "ja": "宿に帰ったあとで、何をしましたか。",
+   "kana": "やどにかえったあとで、なにをしましたか。",
+   "en": "What did you do after getting back to the inn?",
+   "answer": "12"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Background:",
+   "text": "Takayama has two morning markets: Miyagawa (宮川朝市) along the river and Jinya-mae (陣屋前朝市) in front of Takayama Jinya, open roughly 7:00 to noon. Farmers sell vegetables, pickles, sweets and, in autumn, Hida apples. In the old streets (古い町並み, Sanmachi) several sake breweries offer tastings; a ball of cedar leaves (杉玉 sugidama) hanging at the door is green when the new sake is ready and turns brown over the months. Hida beef sushi, served on a rice cracker, is a common street snack there. The red Nakabashi bridge (中橋) crosses the Miyagawa at the edge of the old town. Opening hours vary: check on the day."
+  },
+  {
+   "label": "New words:",
+   "text": "朝市 あさいち morning market · 漬物 つけもの pickles · 宿 やど inn · 町並み まちなみ townscape · 酒蔵 さかぐら sake brewery · 杉 すぎ cedar · 玉 たま ball · 下がる さがる hang · 種類 しゅるい kind · 順番に じゅんばんに in order · 眠い ねむい sleepy · 飛騨牛 ひだぎゅう Hida beef · 夕方 ゆうがた early evening"
+  },
+  {
+   "label": "Grammar (recent first):",
+   "text": "食べないで / 持たないで, 見たあとで / 飲んだあとで / 帰ったあとで / 朝ごはんのあとで, 説明したとおりに, 立って食べる (manner) (L34) · ～ようと思います (L31) · 並んでいる / 下がっている (L29) · くれました (L24) · ～とき (L23) · 杉の葉で作った玉 (L22)"
+  },
+  {
+   "label": "Swap in:",
+   "text": "宮川の朝市 → 陣屋前の朝市（じんやまえのあさいち）· りんご → 漬物 · 飛騨牛のおすし → みたらし団子 · 傘を持たないで → 地図を見ないで"
+  }
+ ]
+}
